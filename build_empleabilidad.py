@@ -139,20 +139,12 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
 .tbl tr:hover td{background:rgba(0,212,170,.03)}
 a{color:var(--a);text-decoration:none}a:hover{text-decoration:underline}
 .done{text-align:center;padding:60px 20px;font-size:20px;color:var(--t2)}
-.done #fs{font-size:28px;display:block;margin-top:14px;color:var(--a);font-weight:700}
 .quiz-container{background:var(--card);border-radius:12px;padding:18px;border:1px solid rgba(255,255,255,.04)}
-.qheader{display:flex;justify-content:space-between;align-items:center;margin-bottom:14px}
-.qmeta{color:var(--t2);font-size:13px;font-weight:600}
-.card{max-width:600px;margin:0 auto;padding:20px 0}.card-q{background:var(--card2);border-radius:12px;padding:28px 20px;border:1px solid rgba(255,255,255,.06);text-align:center;margin-bottom:18px}
-.card-num{display:inline-block;background:var(--a);color:#0a0e1a;font-size:11px;font-weight:700;padding:3px 10px;border-radius:20px;margin-bottom:14px}
-.card-q h3{font-size:16px;line-height:1.5;margin:0}
-.card-answer{text-align:center}
-.reveal-btn{padding:14px 32px;border:2px solid var(--a);border-radius:10px;background:rgba(0,212,170,.08);color:var(--a);font-size:14px;font-weight:700;cursor:pointer;transition:.2s}
-.reveal-btn:hover{background:var(--a);color:#0a0e1a;transform:translateY(-2px)}
-.answer-text{background:rgba(0,212,170,.1);border:1px solid rgba(0,212,170,.2);border-radius:10px;padding:20px;font-size:15px;line-height:1.5;color:var(--t);margin-top:14px}
-.tag{display:inline-block;background:var(--a);color:#0a0e1a;font-size:10px;font-weight:700;padding:2px 10px;border-radius:20px;margin-bottom:10px}
-.next-btn{padding:12px 28px;border:none;border-radius:10px;background:linear-gradient(135deg,var(--a),#00b894);color:#0a0e1a;font-size:14px;font-weight:700;cursor:pointer;margin-top:16px;transition:.2s}
-.next-btn:hover{transform:translateY(-2px);box-shadow:0 4px 16px rgba(0,212,170,.25)}
+.qlist{display:grid;gap:10px}
+.qitem{background:var(--card2);border-radius:10px;padding:14px 16px;border:1px solid rgba(255,255,255,.04)}
+.qitem .qp{font-size:13px;font-weight:600;color:var(--t);margin-bottom:6px;display:flex;gap:8px;align-items:flex-start}
+.qitem .qp .qn{color:var(--a);font-weight:700;min-width:28px}
+.qitem .qa{font-size:12px;color:var(--a);padding:6px 10px;background:rgba(0,212,170,.08);border-radius:6px;display:inline-block;margin-top:2px}
 .lib-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:8px}
 .doc-link{display:flex;flex-direction:column;gap:4px;padding:12px 14px;background:var(--card);border-radius:10px;border:1px solid rgba(255,255,255,.04);text-decoration:none;transition:.2s}
 .doc-link:hover{border-color:var(--a);background:var(--card2);transform:translateY(-2px)}
@@ -216,10 +208,10 @@ a{color:var(--a);text-decoration:none}a:hover{text-decoration:underline}
     q_count = len(questions)
     parts.append(f'''<div class="unit" id="u{len(UNITS)}">
 <div class="hero"><h2>\U0001f4dd <span class="c">Cuestionario</span> de repaso</h2>
-<p>{q_count} preguntas sobre Empleabilidad Parte 1 &middot; Pulsa para ver la respuesta</p>
-<div class="badges"><span class="badge b1">\U0001f4dd {q_count} preguntas</span><span class="badge b3">Estudio</span></div>
+<p>{q_count} preguntas con respuesta correcta &middot; Vista completa</p>
+<div class="badges"><span class="badge b1">\U0001f4dd {q_count} preguntas</span><span class="badge b2">✅ Respuesta visible</span></div>
 </div>
-<div class="quiz-container"><div class="qheader"><div class="qmeta"><span id="qp">0</span> / {q_count} &middot; <span id="qs">0</span> vistas</div><button class="navb" onclick="rq()">\U0001f504 Reiniciar</button></div><div id="ql"></div></div>
+<div class="quiz-container"><div id="ql"></div></div>
 </div>''')
 
     # Document library
@@ -236,16 +228,26 @@ a{color:var(--a);text-decoration:none}a:hover{text-decoration:underline}
         for d in docs:
             parts.append(f'''<a class="doc-link" href="{esc(d["file"])}" target="_blank" rel="noopener"><span class="dn">{esc(d["title"][:60])}</span><span class="ds">{d["size"]}</span></a>''')
 
-    parts.append('</div></div></div>')
+    parts.append('</div></div>')
 
     # Footer and scripts
-    parts.append('''<button class="st" id="st" onclick="window.scrollTo({top:0,behavior:'smooth'})" title="Subir">&uarr;</button>
+    parts.append('''
+</div>
 <script>
 const Q = ''')
     parts.append(qjson_str)
     parts.append(''';
-let qi = 0, sc = 0, ui = 0;
+let ui = 0;
 const un = document.querySelectorAll('.unit'), nb = document.querySelectorAll('.nav-btn');
+
+function renderQuiz() {
+  let h = '<div class="qlist">';
+  for (let i = 0; i < Q.length; i++) {
+    h += '<div class="qitem"><div class="qp"><span class="qn">' + (i+1) + '.</span>' + Q[i].pregunta + '</div><div class="qa">✅ ' + Q[i].respuesta_correcta + '</div></div>';
+  }
+  h += '</div>';
+  document.getElementById('ql').innerHTML = h;
+}
 
 function x(i) {
   if (document.getElementById('u' + ui)) document.getElementById('u' + ui).classList.remove('active');
@@ -270,37 +272,7 @@ function su(v) {
   });
 }
 
-function rq() { qi = 0; sc = 0; document.getElementById('qs').textContent = '0'; r(); }
-
-function r() {
-  if (qi >= Q.length) {
-    document.getElementById('ql').innerHTML = '<div class="done">\\u2705 \\u00a1Completaste las ' + Q.length + ' preguntas!<br><span id="fs">' + sc + '/' + Q.length + ' vistas</span></div>';
-    document.getElementById('qp').textContent = Q.length;
-    return;
-  }
-  const q = Q[qi];
-  document.getElementById('qp').textContent = qi + 1;
-  let h = '<div class="card"><div class="card-q"><span class="card-num">' + (qi+1) + '</span><h3>' + q.pregunta + '</h3></div>';
-  h += '<div class="card-answer" id="ans">';
-  h += '<button class="reveal-btn" onclick="showAns()">\\u2709 Pulsa para ver la respuesta</button>';
-  h += '<div class="answer-text" id="at" style="display:none"><span class="tag">Respuesta correcta</span>' + q.respuesta_correcta + '</div>';
-  h += '</div></div>';
-  document.getElementById('ql').innerHTML = h;
-  document.getElementById('qs').textContent = sc;
-}
-
-function showAns() {
-  document.getElementById('ans').innerHTML = '<div class="card-answer"><div class="answer-text" style="display:block"><span class="tag">Respuesta correcta</span>' + Q[qi].respuesta_correcta + '</div><button class="next-btn" onclick="nextQ()">Siguiente \\u2192</button></div>';
-}
-
-function nextQ() { sc++; document.getElementById('qs').textContent = sc; qi++; r(); }
-
-window.addEventListener('scroll', () => {
-  const s = document.getElementById('st');
-  if (window.scrollY > 300) s.classList.add('v'); else s.classList.remove('v');
-});
-
-r();
+renderQuiz();
 </script>
 </body>
 </html>''')
