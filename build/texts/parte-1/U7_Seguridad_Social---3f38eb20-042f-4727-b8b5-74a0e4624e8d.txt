@@ -1,0 +1,1534 @@
+Unidad 7
+
+Seguridad Social
+Itinerario personal
+para la empleabilidad I
+
+Índice
+7.1.
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+
+La nómina
+7.1.1. El salario
+7.1.2. El recibo de salarios
+7.1.3. Devengos
+7.1.4. Bases de cotización y retención IRPF
+7.1.5. Deducciones
+
+7.2.
+
+Acción protectora de la Seguridad Social: introducción sobre contingencias,
+prestaciones económicas y servicios
+7.2.1. La asistencia sanitaria
+7.2.2. Incapacidad temporal (IT)
+7.2.3. Prestación por riesgo durante el embarazo, lactancia natural y cuidado de menor
+enfermo
+7.2.4. Prestación por nacimiento y cuidado de menor
+7.2.5. Incapacidad permanente
+7.2.6. Jubilación
+7.2.7. Prestaciones por muerte y supervivencia
+7.2.8. Lesiones permanentes no incapacitantes
+7.2.9. El ingreso mínimo vital
+
+7.3.
+
+La protección por desempleo: situación legal de desempleo, prestación y
+subsidio por desempleo
+7.3.1. Prestación contributiva por desempleo
+7.3.2. Subsidio por desempleo
+
+Seguridad Social
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+Introducción
+El punto de partida de esta unidad será la percepción de salarios
+y su documentación mediante la nómina. Se identificarán y
+analizarán cada una de las partes que la componen (encabezado, devengos, deducciones, líquido a percibir y bases de
+cotización) y, además, se desarrollarán conceptos íntimamente relacionados con el de salario, como los de Salario Mínimo
+Interprofesional o Fondo de Garantía Salarial.
+Por otro lado, se abordarán los mecanismos de seguridad social,
+que acumulan en España más de un siglo de tradición. El Instituto
+Nacional de Previsión, fundado en 1908, fue el primer organismo con funciones de protección social. A partir de ese momento,
+los trabajadores españoles verían reconocidos distintos seguros
+sociales, como los de vejez, paro forzoso, enfermedad o maternidad. La gestión pública de la protección social se consolidaría
+con la Ley General de la Seguridad Social de 1966.
+Desde entonces, se han producido diferentes reformas legislativas orientadas a ajustar el funcionamiento y asegurar la
+financiación de la Seguridad Social, por lo que será de gran
+interés conocer la acción protectora que genera en nuestros días.
+
+Al finalizar esta unidad
++ Identificaremos y comprenderemos los distintos elementos
+que componen el salario.
+
++ Sabremos cómo es un recibo de salarios y cuál es la fórmula
+para realizar su cálculo.
+
++ Definiremos las principales prestaciones de la Seguridad
+Social y los requisitos para poder ser beneficiario de las
+mismas.
+
++ Entenderemos las distintas situaciones de desempleo
+contempladas y la cobertura que reciben.
+
+3
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+7.1.
+
+La nómina
+7.1.1. El salario
+Se define el salario como el conjunto de percepciones económicas de un empleado, ya sea en dinero o en especie, que se
+recibe como contraprestación por los servicios laborales
+prestados por cuenta ajena. Además, incluirá no solo el trabajo
+efectivo, sino también los períodos de descanso que sean
+computables como trabajo.
+
+Igualmente, cabe destacar que el salario será, al menos, igual al
+Salario Mínimo Interprofesional (SMI) o al indicado en el convenio
+colectivo correspondiente. Estas condiciones se podrán mejorar
+por contrato siempre que las partes así lo acuerden. Con respecto
+al SMI, se define como la cuantía mínima que se debe percibir por
+la realización de un trabajo por cuenta ajena a tiempo completo,
+sin importar la profesión u oficio que se desempeñe. Tras la actualización recogida en el Real Decreto 87/2025, de 11 de febrero, se
+encuentra en 1.184 € mensuales. Para fijar su cuantía, el Gobierno
+suele tener en cuenta cuatro parámetros:
+
+› El Índice de Precios de Consumo (IPC).
+› La productividad media nacional alcanzada.
+› El incremento de la participación del trabajo en la renta
+nacional.
+
+› La situación económica general.
+En este sentido, el Indicador Público de Renta de Efectos
+Múltiples (IPREM) es el índice de referencia para otorgar el
+subsidio de desempleo y otras ayudas y subvenciones. Desde
+2004, sustituye al SMI como referencia para establecer la
+cuantía de ciertas ayudas y el umbral económico para acceder
+a esas ayudas y a otros beneficios o servicios públicos.
+
+4
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+Periodo de pago del salario
+El salario se deberá pagar en el día y hora que se acuerde, sin
+exceder el plazo de un mes entre un pago y el siguiente, en el
+caso de las retribuciones periódicas. Cuando el empresario no
+pague puntualmente, se le podrá exigir un 10 % de interés de
+mora sobre la cantidad adeudada. Además, el trabajador podrá
+recibir anticipos por parte de la empresa.
+
+Protección del salario
+Los ingresos salariales que no superen el SMI no se pueden
+embargar, a no ser que sea para hacer frente al pago de pensiones alimenticias de los hijos o del cónyuge, tras un proceso
+de separación o divorcio. Al considerarse el salario un crédito privilegiado, los trabajadores tendrán preferencia de cobro
+frente a otros acreedores que tenga la empresa.
+
+Fondo de Garantía Salarial (FOGASA)
+El Fondo de Garantía Salarial se encarga de proteger la
+percepción de los salarios que estén pendientes de pago y
+reconocidos en acta de conciliación o resolución judicial, así
+como las indemnizaciones por despido o extinción que estén
+reconocidas por vía judicial o administrativa. Es un mecanismo
+para cubrir los casos de insolvencia empresarial o procedimiento concursal. Posteriormente, el FOGASA se subrogará en
+los derechos y acciones de los trabajadores y reclamará las
+cantidades a los empleadores que las adeuden.
+La cantidad máxima que abonará el FOGASA es el doble del
+SMI diario, incluidas las pagas extra, con un límite de 120 días
+para los salarios pendientes y de un año para las indemnizaciones. Este organismo autónomo adscrito al Ministerio de Trabajo
+se encuentra regulado por el artículo 33.1 del Estatuto de los
+Trabajadores y el Real Decreto 505/1985, de 6 de marzo, sobre
+Organización y Funcionamiento del Fondo de Garantía Salarial.
+
+7.1.2. El recibo de salarios
+Cuando se liquida y se paga el salario, es obligatorio hacer
+entrega de un recibo individual que justifique el pago, con el
+formato señalado en el modelo oficial del Ministerio de Trabajo. Hay circunstancias en las que se utiliza otro modelo, pero
+siempre tendrá que estar estipulado en el convenio colectivo
+correspondiente o mediante acuerdo entre empresa y representantes de los trabajadores.
+En cualquier caso, plasmará de manera clara y diferenciada
+las percepciones y deducciones que se aplican. Las empresas
+deberán llevar un archivo y conservar los recibos de salarios y
+los boletines de cotización, al menos, durante 4 años.
+
+5
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+6
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+7.1.3. Devengos
+Percepciones salariales
+Son las cantidades que se entregan al trabajador como retribución por su trabajo. Distinguimos:
+1. Salario base: retribución fijada por unidad de tiempo
+
+u obra para cada grupo profesional o nivel retributivo.
+Viene predefinida por el convenio colectivo o el contrato
+de trabajo.
+
+2. Complementos salariales: retribuciones por circuns-
+
+tancias personales, laborales o empresariales que no se
+incluyen en el salario base. También vienen determinadas en el convenio colectivo o negociadas en el acuerdo
+individual. Se distinguen:
+» Complementos personales: se perciben por circunstancias particulares del trabajador, es decir, por
+conocimientos concretos, títulos, idiomas o incluso por
+antigüedad. Son los únicos consolidables en nómina.
+» Complementos del puesto de trabajo: se perciben
+por las peculiaridades de la actividad o por las implicaciones de su realización. Algunos ejemplos son:
++ Penosidad.
++ Toxicidad o peligrosidad.
++ Nocturnidad.
++ Turnicidad.
++ Responsabilidad.
++ Disponibilidad horaria y/o funcional o de
+residencia.
++ Por cantidad o calidad del trabajo (comisiones,
+primas e incentivos).
++ Pluses de productividad.
++ Asistencia o puntualidad.
+» Complementos por la situación o resultados de la
+empresa: participación en los resultados económicos reales y primas o bonos sobre la productividad
+global en la empresa o en una unidad inferior.
+
+3. Horas extraordinarias y complementarias: las horas
+
+extraordinarias son las horas de más que realiza el
+trabajador con respecto a las que le corresponden por
+su jornada habitual. Se deben abonar por una cuantía
+igual o superior a la de la hora ordinaria o, en su defecto,
+compensarlas con periodos de descanso equivalentes
+en los cuatro meses siguientes a su realización.
+Por su parte, las horas complementarias son aquellas
+contempladas por escrito, tras acuerdo entre empleado
+y empleador, en un contrato a tiempo parcial con una
+jornada de trabajo no inferior a diez horas semanales en
+cómputo anual. Abren la posibilidad de ampliar las horas
+previstas de manera ordinaria. La suma de las horas
+ordinarias y complementarias nunca podrá superar las
+horas de una jornada completa.
+
+7
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+4. Complementos de vencimiento periódico superior al
+
+mes: cantidades que se perciben con una periodicidad
+superior al mes. Para calcular la base de cotización a la
+Seguridad Social, se prorratean a lo largo de los doce
+meses del año.
+
+» Se tendrá derecho a un mínimo de dos pagas
+extraordinarias al año, una en Navidad y otra cuando
+indique el convenio o según el acuerdo entre las
+partes (suele ser en el mes de junio). Se podrá
+prorratear el pago de las pagas extraordinarias,
+repartiéndolo entre los doce meses del año.
+» Participación en beneficios de la empresa.
+5. Salario en especie: se deberá valorar económicamente
+
+siguiendo los criterios de Hacienda:
+
+» Uso de vivienda: importe del alquiler o el 5-10 % del
+valor catastral de la vivienda (máximo un 10 % del
+salario).
+» Entrega o uso de vehículos: coste de adquisición del
+vehículo más tributos, si se entrega. Si solo se habilita su uso, será el 20 % anual del coste de adquisición
+cuando pertenezca a la empresa o el 20 % del valor
+de mercado si no es de su propiedad.
+» Préstamos con tipos de interés inferiores al legal del
+dinero: diferencia entre la cuantía de los intereses
+pagados y la que resultaría de aplicar el interés legal
+del dinero en ese momento.
+» Aportaciones a planes de pensiones: contribuciones
+exactas aportadas por la empresa.
+
+8
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+Percepciones no salariales
+Cuantías que percibe el trabajador como consecuencia de la
+relación de trabajo, pero que no retribuyen el trabajo efectivo
+realizado.
+1. Indemnizaciones o suplidos: compensan los gastos que
+
+conlleva la actividad laboral.
+» No cotizan ni tributan
+
++ Gastos de locomoción: ocasionados por desplazamientos con motivos laborales. Estarán exentos
+de cotizar y tributar los gastos justificados a través
+de factura, si se utiliza un transporte público. En
+caso de utilizar transporte privado, los peajes, el
+aparcamiento y hasta 0,19 €/km estarán exentos
+de cotizar y tributar. Las cuantías que superen los
+límites legales establecidos cotizan y tributan.
++ Dietas: se perciben por pernoctar o realizar las
+principales comidas fuera del municipio del
+lugar de trabajo habitual. No tributarán ni cotizarán los gastos de estancia que se justifiquen con
+factura ni los de manutención que no superen
+los límites legales.
+Límites de dietas
+
+España
+
+Extranjero
+
+Pernocta
+
+53,34 €
+al día
+
+91,35 €
+al día
+
+Sin pernocta
+
+26,67 €
+al día
+
+48,08 €
+al día
+
+» Cotizan y tributan en su totalidad
++ Quebranto de moneda: es un plus para aquellos
+trabajadores que operan con dinero en metálico. Cubre el desorden en el saldo de caja (por
+errores en el cobro o el pago a clientes) y las
+pérdidas involuntarias.
++ Desgaste de útiles, herramientas y prendas de
+trabajo que sean propiedad del trabajador.
++ Plus de distancia: compensación por lugares de
+trabajo que sean lejanos.
++ Plus de transporte: gastos de desplazamiento al
+trabajo en medio de transporte urbano.
+2. Prestaciones e indemnizaciones de la Seguridad Social
+
+(SS): incluyen el subsidio de incapacidad temporal o
+desempleo parcial, que se abonarán por el empresario
+a través de pago delegado.
+
+3. Indemnizaciones por traslados, suspensiones y despidos:
+
+» Traslado y suspensión: tendrá su límite exento
+de cotización en la cuantía máxima prevista en el
+convenio colectivo.
+» Despido o cese del trabajador: tendrá su límite
+exento de cotización en la cantidad obligatoria
+según convenio o contrato.
+
+9
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+» Despido colectivo u objetivo por causas económicas, técnicas, organizativas, productivas o fuerza
+mayor: el límite exento de cotización de la indemnización no puede superar lo dispuesto legalmente.
+» Extinción antes del acto de conciliación, salvo
+bajas incentivadas acordadas en planes colectivos:
+el límite exento de cotización es el importe correspondiente a un despido improcedente.
+4. Otras percepciones no salariales (todas cotizarán en la
+
+SS)
+
+» Primas de seguro, ya sea para enfermedad del
+trabajador o de familiares.
+» Ayudas:
++ Por hijos en edad escolar.
++ Nacimiento de hijos.
++ Percepciones por matrimonio.
+» Asistencia social para objetivos de formación, de
+cultura o de deportes.
+» Productos a precio rebajado en localizaciones de la
+empresa, como puede ser cafetería o comedor, o
+también tiques restaurante.
+» Mejora de las prestaciones de la SS distintas de la
+incapacidad temporal.
+» Primas de seguro de accidente laboral.
+» Productos en especie que la empresa le conceda al
+trabajador.
+» Entrega gratuita o a un precio inferior al de mercado
+de acciones o participaciones de la empresa.
+
+10
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+7.1.4. Bases de cotización y retención IRPF
+Las bases de cotización son cantidades que se calculan en
+relación con las retribuciones de los trabajadores. Sobre ellas
+se aplicarán los tipos porcentuales mediante los que se obtienen las cuotas a descontar de la nómina.
+
+Base de cotización por contingencias comunes
+Se calculará de la siguiente manera:
+Cálculo de bases de cotización por contingencias comunes
+Remuneración mensual (grupos 1 a 7)
+Remuneración
+
+Remuneración diaria (grupos 8 a 11)
+
+Salario base + Complementos salariales + Excesos de los complementos no salariales
+Importe anual de gratificaciones extraordinarias
+y conceptos de devengo superior al mensual
+
+Importe anual de gratificaciones extraordinarias
+y conceptos de devengo superior al mensual
+
+12
+
+365 o 366
+
+En la remuneración mensual todos los meses
+tendrán 30 días
+
+El resultado del cociente se multiplicará por el
+número de días del mes (30, 31, 28 o 29)
+
+Prorrata de
+pagas extras
+
+Teniendo en cuenta la categoría profesional, se asigna un
+grupo de cotización al trabajador:
+Bases mínimas y máximas de cotización por contingencias comunes
+Grupo de
+cotización
+
+Categorías profesionales
+
+Bases
+mínimas
+
+Bases
+máximas
+
+1
+
+Ingenieros y Licenciados. Personal de alta dirección no
+incluido en el artículo 1.3.c) del Estatuto de los Trabajadores.
+
+1.929,00 €/mes
+
+4.909,50 €/mes
+
+2
+
+Ingenieros Técnicos, Peritos y Ayudantes Titulados.
+
+1.599,60 €/mes
+
+4.909,50 €/mes
+
+3
+
+Jefes Administrativos y de Taller.
+
+1.391,70 €/mes
+
+4.909,50€/mes
+
+4
+
+Ayudantes no Titulados.
+
+1.381,20 €/mes
+
+4.909,50€/mes
+
+5
+
+Oficiales Administrativos.
+
+1.381,20 €/mes
+
+4.909,50€/mes
+
+6
+
+Subalternos.
+
+1.381,20 €/mes
+
+4.909,50€/mes
+
+7
+
+Auxiliares Administrativos.
+
+1.381,20 €/mes
+
+4.909,50€/mes
+
+8
+
+Oficiales de primera y segunda.
+
+46,04 €/día
+
+163,65 €/día
+
+9
+
+Oficiales de tercera y Especialistas.
+
+46,04 €/día
+
+163,65 €/día
+
+10
+
+Peones.
+
+46,04 €/día
+
+163,65 €/día
+
+11
+
+Trabajadores menores de dieciocho años, cualquiera que
+sea su categoría
+
+46,04 €/día
+
+163,65 €/día
+
+Si la base de cotización calculada no se haya dentro de las
+bases mínimas o máximas del grupo de cotización del trabajador, se deberá cotizar por la base mínima o máxima, según si la
+que resulta es inferior o superior.
+
+11
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+Base de cotización por contingencias profesionales
+Importe sobre el que se aplica el porcentaje de cotización que
+trabajador y empresa aportan a la SS para cubrir los costes por
+accidentes de trabajo, enfermedades profesionales, desempleo
+o formación profesional. Se calculará de la siguiente manera:
+
+Base de cotización de contingencias comunes
+
++
+
+Horas extraordinarias
+
+Base de cotización por horas extraordinarias
+La base de cotización adicional por horas extraordinarias la
+conformará el importe total recibido por este concepto.
+
+Base sujeta a retención del IRPF
+La base sujeta a retención de este impuesto coincide con el
+total devengado, a excepción de los casos en los que haya
+percepciones no salariales exentas de retención.
+
+7.1.5. Deducciones
+Las deducciones son los importes que se restarán del total
+devengado, convirtiendo la remuneración bruta en el salario neto
+o líquido.
+
+Aportación del trabajador a las cotizaciones de la
+Seguridad Social y conceptos de recaudación conjunta
+Estos gravámenes los retiene la empresa y, posteriormente, los
+ingresa a la SS:
+
+› Contingencias comunes: se utiliza la Base de Cotiza-
+
+ción por Continencias Comunes (BCCC) antes explicada.
+Cubre situaciones como los accidentes no laborales o
+las enfermedades comunes.
+
+› Mecanismo de Equidad Intergeneracional (MEI): esta
+
+nueva deducción sobre la BCCC se introdujo en el año
+2023. Nutre directamente el Fondo de Reserva de la
+Seguridad Social y su tipo impositivo irá aumentando
+cada año, hasta alcanzar su valor definitivo en el 2029
+(1,2 %, del que el 1 % corresponderá a la empresa y el 0,2
+% al trabajador).
+
+› Formación profesional y desempleo: usa la Base de
+Cotización por Contingencias Profesionales (BCCP).
+
+› Horas extraordinarias por fuerza mayor: se utiliza la
+Base de Cotización por Horas Extraordinarias (BCHE).
+
+12
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+› Cotización adicional de solidaridad: se introdujo en
+
+2025 para gravar, únicamente, los tramos de renta que
+superen la base máxima de cotización. La distribución
+del tipo de cotización entre empresario y trabajador
+mantendrá la misma proporción que la del tipo de cotización por contingencias comunes.
+Los tipos irán aumentando cada año, hasta alcanzar su
+valor definitivo en 2045 (5,5 % a la retribución que supere
+en un 10 % la base máxima, un 6 % a la que la supere entre
+un 10 % y un 50 % y un 7 % a las que sean un 50 % superior).
+
+¡A cada base se le aplica el tipo impositivo que corresponda
+para obtener la deducción que se aplica al salario bruto:
+Tipos de cotización (%)
+Empresa
+
+Trabajador
+
+Total
+
+Contingencias comunes
+
+23,60
+
+4,70
+
+28,30
+
+Mecanismo de Equidad
+Intergeneracional
+
+1
+
+0,2
+
+1,2*
+
+Formación profesional
+
+0,60
+
+0,10
+
+0,70
+
+Desempleo: tipo general
+
+5,50
+
+1,55
+
+7,05
+
+Desempleo: contratos
+duración determinada
+
+6,70
+
+1,60
+
+8,30
+
+Horas extraordinarias por
+fuerza mayor
+
+12,00
+
+2,00
+
+14,00
+
+Resto horas extraordinarias
+
+23,60
+
+4,70
+
+28,30
+
+FOGASA
+
+0,20
+
+-
+
+0,20
+
+Cuota de solidaridad
+
+Solo para rentas que superen la base máxima
+de cotización: 5,5 % - 6 % - 7 % **
+
+*Tipo definitivo en 2029
+** Tipos definitivos de cada tramo en 2045
+
+13
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+Impuesto sobre la Renta de las Personas Físicas (IRPF)
+El IRPF es un impuesto personal, directo y progresivo que se
+aplica sobre el salario bruto del empleado. El tipo impositivo
+dependerá de varios factores:
+
+› Remuneración percibida: cada tramo de renta tiene un
+gravamen distinto.
+
+› Comunidad autónoma de residencia: el porcentaje final
+que se paga está compuesto por la parte estatal, regulado a nivel nacional, y la parte autonómica, que depende
+de cada comunidad autónoma.
+
+› Grado de discapacidad, mínimos exentos y deducciones aplicables.
+
+Tipo impositivo general del IRPF por tramo de renta
+Tramo de renta
+
+Tipo impositivo general
+
+Tipo autonómico
+
+Tipo final
+
+Hasta 12.450 €
+
+19 %
+
+9,5 %
+
+19 %
+
+De 12.450 a 20.200 €
+
+24 %
+
+12 %
+
+24 %
+
+De 20.200 a 35.200 €
+
+30 %
+
+15 %
+
+30 %
+
+De 35.200 a 60.000 €
+
+37 %
+
+18,5 %
+
+37 %
+
+De 60.000 a 300.000 €
+
+45 %
+
+22,5 %
+
+45 %
+
+Más de 300.000 €
+
+47 %
+
+22,5 %
+
+47 %
+
+Otras deducciones
+De la nómina se deducirán también los anticipos de sueldo,
+las cuantías por sanciones o pensiones alimenticias impagadas que solicite la Agencia Tributaria, el valor de los salarios en
+especie o las cuotas sindicales.
+
+Líquido total
+a percibir o
+salario neto
+
+=
+
+Total
+devengado
+(salario en
+bruto)
+
+-
+
+B. Total
+que se va
+a deducir
+
+14
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+7.2.
+
+Acción protectora de la
+Seguridad Social: introducción
+sobre contingencias, prestaciones
+económicas y servicios
+Llamamos acción protectora a aquellas prestaciones de la
+SS que se destinan al amparo socioeconómico de la población frente a situaciones adversas o estados de necesidad, que
+derivan en la pérdida severa de ingresos o en el exceso inasumible de gastos. Estas prestaciones pueden ser:
+
+› Contributivas: enfocadas a los trabajadores que acredi-
+
+ten un tiempo de cotización mínimo, teniendo acceso a
+las mismas por diversas causas.
+
+› No contributivas: sus beneficiarios no tienen recursos
+suficientes y no han cotizado o lo han hecho durante un
+tiempo insuficiente para recibir una prestación contributiva.
+
+7.2.1. La asistencia sanitaria
+La asistencia sanitaria engloba el conjunto de servicios
+preventivos, diagnósticos, terapéuticos, rehabilitadores y de
+promoción y mantenimiento de la salud dirigido a los ciudadanos. Se trata de una prestación no económica que tiene
+por objeto proveer servicios médicos y farmacéuticos para
+conservar o restablecer la salud de los beneficiarios, así como
+su aptitud para el trabajo (si es una persona en activo).
+
+7.2.2. Incapacidad temporal (IT)
+Se produce cuando un trabajador está imposibilitado durante cierto periodo de tiempo para trabajar y necesita asistencia
+sanitaria. Es un subsidio que cubre la pérdida de rentas ante la
+imposibilidad de trabajar por una contingencia común o profesional y por períodos de observación por enfermedad profesional.
+Para ser beneficiario, se debe estar afiliado y de alta en la fecha
+del hecho causante. En caso de enfermedad común, también es
+necesario tener cotizados 180 días dentro de los 5 años inmediatamente anteriores a la fecha de baja (por accidente o enfermedad
+profesional no se exige período previo de cotización).
+
+Situaciones protegidas
+
+› Contingencias
+
+comunes (enfermedad común y
+accidente no laboral): los primeros cuatro días no se
+cobra nada. Desde el día 4º hasta el 20º inclusive, se
+cobra el 60% de la base reguladora. A partir del día 21º
+en adelante, se cobra el 75% de la base reguladora. La
+empresa es la responsable del pago hasta el día 15º. A
+partir del día 16º, será el INSS o la entidad gestora quien
+lo asuma.
+
+15
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+› Contingencias profesionales (enfermedad profesional y
+accidente de trabajo): el día de la baja se cobra el salario
+íntegro (a cargo de la empresa). A partir del día siguiente
+la entidad gestora pagará el 75% de la base reguladora.
+
+› Períodos de observación por enfermedad profesional:
+
+se prescribe baja en el trabajo durante el tiempo necesario para llevar a cabo el estudio médico de la enfermedad
+profesional y emitir un diagnóstico definitivo.
+
+Duración
+La duración de la incapacidad temporal es de 365 días,
+prorrogable otros 180 días si se estima que la persona puede
+concluir su recuperación durante dicha prórroga. Transcurrido
+ese tiempo, se evaluará el estado de salud del trabajador para
+que el INSS emita el alta médica o inicie un expediente para
+declarar su incapacidad permanente.
+Si se prescribe la baja en el trabajo durante el período de
+observación, la duración máxima será de 6 meses, prorrogables otros 6 cuando se estime necesario para el estudio y
+diagnóstico de la enfermedad.
+
+Contingencias comunes
++ Enfermedad común
++ Accidente no laboral
+
+Cuantía sobre la base
+reguladora
+
+Nacimiento del
+derecho
+
+Duración de la
+situación
+
+0% (1º al 3º día)
+60% (4º al 20º día)
+75% (a partir del día 21º)
+
+A partir del 4º día
+
+365 días
+(+180 días de
+prórroga)
+
+75%
+
+Día siguiente
+al accidente
+o baja
+
+365 días
+(+180 días de
+prórroga)
+
+Contingencias profesionales
++ Accidente de trabajo
++ Enfermedad profesional
+
+16
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+7.2.3. Prestación por riesgo durante el
+embarazo, lactancia natural y cuidado
+de menor enfermo
+La prestación por riesgo durante el embarazo
+Es un subsidio que tiene la finalidad de proteger la salud de la
+mujer durante la gestación. Cubre los supuestos en los que,
+debiendo el empresario cambiar de puesto de trabajo a la
+mujer embarazada por otro compatible con su estado, dicho
+cambio no resulta técnica u objetivamente posible o no puede
+exigirse por motivos justificados.
+Así, se suspende el contrato de trabajo y, desde el inicio de la
+suspensión hasta el descanso por maternidad o la reincorporación al trabajo, se otorga a la trabajadora un subsidio del 100%
+de la base reguladora por contingencias profesionales.
+
+La prestación por riesgo durante la lactancia natural
+Protege la salud de la mujer trabajadora y de su hijo durante
+este período. Al igual que en el caso anterior, si no es posible
+cambiar de puesto a la trabajadora para hacerlo compatible
+con su situación, se suspenderá el contrato.
+Desde el inicio de la suspensión y hasta que el hijo cumpla 9
+meses o se produzca la reincorporación a un puesto compatible con su situación, percibirá un subsidio del 100% de la base
+reguladora por contingencias profesionales.
+
+La prestación para el cuidado de menores afectados
+por cáncer u otra enfermedad grave
+Se destina a los progenitores, adoptantes o acogedores que
+reducen su jornada de trabajo para el cuidado de un menor a
+su cargo afectado de cáncer u otra enfermedad grave.
+Pueden solicitarla trabajadores afiliados y de alta que acrediten
+un período mínimo de cotización (igual al exigido en la prestación por nacimiento y cuidado de menor), que se encuentren
+al corriente en el pago de sus cuotas y que reduzcan su jornada, al menos, en un 50%. La duración de la prestación será
+equivalente a los periodos en los que el trabajador reduzca su
+jornada durante la hospitalización y el tratamiento continuado
+del menor, como máximo hasta que este cumpla 18 años.
+
+17
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+7.2.4. Prestación por nacimiento y cuidado de
+menor
+A partir del Real Decreto-ley 6/2019, de 1 de marzo, de medidas
+urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y hombres en el empleo y la ocupación,
+las prestaciones por maternidad y paternidad se unifican en la
+prestación por nacimiento y cuidado de menor.
+El objetivo es proteger al trabajador durante los descansos y
+permisos por el nacimiento de un hijo, la adopción, la guarda
+con fines de adopción o el acogimiento. Serán beneficiarios los
+trabajadores en situación de alta que acrediten los períodos de
+cotización exigibles en cada caso:
+Edad
+
+Periodo de cotización exigido
+
+Menos de 21 años
+
+Sin periodo mínimo
+
+De 21 a 26 años
+
+90 días en los 7 años previos o
+180 días en su vida laboral
+
+Más de 26 años
+
+180 días en los 7 años previos o
+360 días en su vida laboral
+
+También es requisito estar al corriente en el pago de las cuotas
+a la SS. El derecho al subsidio nace el mismo día del parto o
+desde que comienza el período de descanso (que se puede
+anticipar hasta 4 semanas a la fecha prevista de parto). En los
+casos de adopción, guarda con fines de adopción o acogimiento, el subsidio nace a partir de la fecha de la resolución
+por la que se autoricen. En los casos de adopción internacional, puede iniciarse hasta 4 semanas antes de la resolución.
+Tanto la madre biológica como cualquier otro progenitor
+dispondrán de un período de suspensión de 19 semanas, de
+las cuales 6 serán ininterrumpidas justo después del parto, 11
+se distribuirán en períodos semanales hasta que el hijo cumpla
+12 meses y 2 se podrán utilizar antes de que el hijo cumpla 8
+años. Este periodo será mayor en los siguientes supuestos:
+
+› Se ampliará en una semana a cada progenitor por cada
+
+hijo en caso de parto o adopción múltiple (a partir del
+segundo) y en caso de discapacidad del hijo.
+
+› Se ampliará un máximo de 13 semanas en caso de parto
+
+prematuro y hospitalización por un período superior a
+7 días.
+
+Se pagará el 100 % de la base reguladora por contingencias
+comunes. Si no se alcanza el periodo mínimo de cotización, la
+madre podrá reclamar al INSS un subsidio equivalente al 100 %
+del IPREM, cuya duración será de 42 días naturales.
+
+18
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+7.2.5. Incapacidad permanente
+La prestación por incapacidad permanente trata de cubrir la
+pérdida de ingresos que sufre una persona cuando ve reducida
+o anulada su capacidad para trabajar, ya sea por enfermedad o
+accidente. Se presenta en diferentes grados:
+
+› Incapacidad permanente parcial para la profesión
+
+habitual: ocasiona una disminución igual o superior al
+33% en el rendimiento normal para su labor profesional,
+sin impedirle la realización de las tareas fundamentales
+de la misma.
+
+› Incapacidad permanente total para la profesión
+
+habitual: inhabilita al trabajador para la realización de
+todas sus tareas o de aquellas que son fundamentales
+en su labor profesional, aunque aún podrá dedicarse a
+otra distinta.
+
+› Incapacidad permanente absoluta para todo trabajo:
+inhabilita por completo al trabajador para toda profesión
+u oficio.
+
+› Incapacidad permanente gran invalidez: como consecuencia de pérdidas anatómicas o funcionales, se
+necesita la asistencia de otra persona para los actos más
+esenciales de la vida (vestirse, desplazarse, comer, etc.).
+
+Para poder acceder a esta prestación hay que estar por
+debajo de la edad de jubilación, afiliado y en situación de alta.
+Además, se exige un período de cotización previo, siempre
+que la incapacidad derive de una enfermedad común. Dicho
+período será diferente en función del grado de incapacidad y
+de la edad de la persona. La cuantía de la prestación varía en
+función del grado de incapacidad permanente:
+Grado de
+incapacidad
+permanente
+
+Parcial
+
+Permanente total
+
+Permanente
+absoluta
+
+Gran invalidez
+
+Cuantía
+
+Características
+
+Indemnización abonada en
+un pago único, por importe
+de 24 mensualidades de la
+base reguladora.
+
+Es compatible con el
+desarrollo de cualquier
+actividad laboral y con el
+mantenimiento del trabajo
+que viniera desarrollando.
+
+55 % de la base reguladora. Se incrementa en un
+20 % para mayores de 55
+años que no trabajen. Se
+abona mensualmente y es
+vitalicia.
+
+Es compatible con el salario
+que pueda recibir el trabajador si realiza otras funciones
+profesionales.
+
+100% de la base
+reguladora. Se abona
+mensualmente.
+
+Es revisable, por lo que se
+podría disminuir, aumentar, mantener o cancelar el
+grado de incapacidad.
+
+100 % de la base reguladora, incrementada con un
+complemento destinado a
+remunerar a la persona
+que atienda al beneficiario.
+Se abona mensualmente.
+
+El importe del complemento es del 45% de la base
+mínima de cotización más
+el 30% de la última base de
+cotización del trabajador.
+
+19
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+7.2.6. Jubilación
+La prestación contributiva por jubilación será propia de cada
+beneficiario y consistirá en una pensión vitalicia reconocida
+según las condiciones, la cuantía y la forma correspondientes
+a su caso. Se accede a ella con el cese en el trabajo por cuenta
+ajena, una vez alcanzada la edad establecida.
+
+Requisitos
+
+› Tener cumplida la edad ordinaria fijada (existen excepciones).
+
+› Haber cotizado, al menos, 15 años, estando ubicados un
+
+mínimo de 2 dentro de los 15 años anteriores al hecho
+causante.
+
+Cabe señalar que desde 2013, cuando empezó a aplicarse la
+Ley 27/2011, de 1 de agosto, sobre actualización, adecuación y
+modernización del sistema de Seguridad Social, tanto la edad
+de jubilación como el periodo de cotización necesario para
+acceder a ella han crecido de manera constante y continuarán
+haciéndolo hasta 2027.
+Año
+
+Periodo cotizado
+
+Edad exigida
+
+2025
+
+Menos de 38 años y 3 meses
+Más de 38 años y 3 meses
+
+66 años y 8
+meses 65 años
+
+2026
+
+Menos de 38 años y 3 meses
+Más de 38 años y 3 meses
+
+66 años y 10
+meses 65 años
+
+A partir
+de 2027
+
+Menos de 38 años y 6 meses
+Más de 38 años y 6 meses
+
+67 años
+65 años
+
+Cuantía
+Depende de los años cotizados. A la base reguladora se le aplica
+una escala que empieza desde el 50% por los primeros 15 años y
+va incrementándose a partir del decimosexto año por cada mes
+adicional de cotización, como se indica a continuación:
+
+Periodo
+
+Meses adicionales
+de cotización
+
+Porcentaje
+añadido
+
+2023 a 2026
+
+De 1 a 49
+209 restantes
+
+0,21 %
+0,19 %
+
+A partir de 2027
+
+De 1 a 248
+16 restantes
+
+0,19 %
+0,18 %
+
+La cuantía no puede sobrepasar el 100% de la base reguladora, salvo que se prolongue la vida laboral en una edad superior
+a la ordinaria (jubilación flexible y jubilación parcial). La pensión
+se abona mensualmente, con dos pagas extraordinarias que se
+devengan con la mensualidad de junio y noviembre.
+
+20
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+Jubilación anticipada
+La jubilación se puede adelantar, aplicando los pertinentes
+coeficientes reductores, en algunas situaciones:
+
+› Por razón del grupo o actividad profesional: para
+aquellos trabajos de naturaleza excepcionalmente
+peligrosa, penosa, tóxica o insalubre.
+
+› Trabajadores mutualistas a 1 de enero de 1967: pueden
+jubilarse a partir de los 60 años.
+
+› Demandantes de empleo durante al menos 6 meses con
+
+menos de 4 años hasta la jubilación: siempre que fueran
+cesados en el trabajo por una reestructuración empresarial
+y posean cotizaciones efectivas de 33 años.
+
+› Por voluntad del trabajador: a falta de menos de 2 años
+para su jubilación y con 35 años de cotización efectiva.
+El importe resultante debe ser superior a la cuantía de la
+pensión mínima que recibiría a los 65 años por su situación personal.
+
+› Por discapacidad: igual o superior al 45% o al 65% en la
+jubilación parcial.
+
+7.2.7. Prestaciones por muerte y
+supervivencia
+Las prestaciones por muerte y supervivencia están destinadas a compensar la situación de necesidad económica que
+le provoca a determinadas personas el fallecimiento de otras.
+Por tanto, benefician a los familiares de quienes conviven y
+dependen económicamente del trabajador o pensionista fallecido. Distinguimos:
+
+› Auxilio por defunción: cuantía de 46,50 € para contribuir
+a los gastos del sepelio. La pueden solicitar cónyuges,
+parejas de hecho, hijos y otros familiares convivientes en
+los 5 años posteriores al fallecimiento.
+
+› Viudedad: pensión para el cónyuge o pareja de hecho
+
+superviviente al fallecer el causante. Con carácter
+general, la cuantía es el 52% de la base reguladora, pero
+puede verse incrementada si el pensionista tiene cargas
+familiares o cuando esta pensión constituye su principal
+o única vía de ingresos.
+
+› Orfandad: cubre a los hijos del fallecido menores de 21
+
+años o mayores incapacitados y a los menores de 25
+con unos ingresos inferiores al SMI. En algunas circunstancias, también alcanza a los hijos que el cónyuge
+superviviente aportase al matrimonio. La cuantía de la
+pensión es el 20% de la base reguladora, aunque puede
+aumentar según la causa de la muerte, la situación
+laboral y cuando fallezcan ambos progenitores.
+
+› Prestación y subsidio en favor de familiares: pensión dirigi-
+
+da a familiares (hermanos, nietos, hijos o padres) que hayan
+convivido a expensas del fallecido, no tengan derecho a
+otra pensión pública y carezcan de medios de subsistencia.
+
+21
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+Si el fallecimiento se ha producido por un accidente de trabajo
+o una enfermedad profesional, se concederá una indemnización, junto con la correspondiente pensión, a los siguientes
+beneficiarios:
+
+› Al cónyuge, pareja de hecho o excónyuge, 6 mensualidades de la base reguladora por viudedad.
+
+› A los huérfanos, 1 mensualidad para cada uno de la base
+
+reguladora de orfandad. Si no hubiese cónyuge o pareja
+de hecho, cobrarán la indemnización que les corresponde a estos.
+
+› Al padre/madre, 9 mensualidades de la base reguladora, si solo existe uno de ellos, o 12 mensualidades si
+existen ambos, siempre que vivan a sus expensas y no
+haya otros familiares con derecho a pensión.
+
+7.2.8. Lesiones permanentes no incapacitantes
+Se trata de lesiones, mutilaciones y deformidades permanentes, causadas por accidentes de trabajo y enfermedades
+profesionales, que no afectan a la capacidad laboral del trabajador, pero que sí repercuten en su integridad física.
+La prestación es una indemnización económica, abonada en
+un único pago, que variará en función de lo reflejado en el
+Baremo de Lesiones Permanentes No Invalidantes.
+
+7.2.9. El ingreso mínimo vital
+Esta prestación está dirigida a prevenir el riesgo de pobreza y
+exclusión social de las personas que carecen de los recursos
+económicos suficientes para cubrir sus necesidades básicas.
+Es decir, trata de garantizar un nivel mínimo de renta a quienes
+se encuentran en situación de vulnerabilidad económica. Se
+concibió con el objetivo de permitir el tránsito desde escenarios de exclusión hacia una participación social efectiva, motivo
+por el que incluye incentivos al empleo.
+
+22
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+7.3.
+
+La protección por desempleo:
+situación legal de desempleo,
+prestación y subsidio por desempleo
+Se produce una situación de desempleo cuando el trabajador pierde formalmente su empleo o ve reducida su jornada
+al menos en 1/3, con la correspondiente pérdida o reducción
+de salario. Se diferencian dos niveles en cuanto a la protección
+por desempleo:
+
+7.3.1. Prestación contributiva por desempleo
+La prestación por desempleo protege de la contingencia de
+desempleo en que se encuentran aquellos que, pudiendo y
+queriendo trabajar, pierden su empleo de forma temporal o
+definitiva; o ven reducida, al menos en una tercera parte, su jornada laboral, con la correspondiente pérdida o reducción de salario.
+
+Tipología del desempleo
+Existen dos tipos de desempleo, tal y como se establece en el
+artículo 262 del TRLGSS:
+
+› Desempleo total: el trabajador cesa, con carácter tempo-
+
+ral o definitivo, en la actividad que venía desarrollando y
+se le priva de su salario. El trabajador debe haber cesado
+en la actividad por días completos (continuados o alternos) durante, al menos, una jornada ordinaria de trabajo.
+
+› Desempleo parcial: el trabajador ve reducida temporal-
+
+mente su jornada diaria ordinaria de trabajo (un mínimo
+del 10 % y un máximo del 70 %), con la equivalente
+reducción de su trabajo.
+
+23
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+Requisitos para acceder a la prestación
+Se establecen una serie de requisitos para poder percibir la
+prestación por desempleo:
+
+› Estar afiliado y de alta en la Seguridad Social.
+› Tener cubierto el período mínimo de cotización de 12
+
+meses, dentro de los 6 años anteriores a la situación
+desempleo o al momento en que cesó la obligación de
+cotizar.
+
+› Encontrarse en situación legal de desempleo:
+» Extinción o suspensión de la relación laboral.
+» Reducción temporal de la jornada de trabajo.
+» Retorno de españoles al finalizar un trabajo en el
+extranjero.
+» Liberación de prisión al cumplir condena o en libertad condicional
+» Cese involuntario en cargos de las corporaciones
+locales, en altos cargos de la Administración Pública
+y en cargos representativos de los sindicatos
+
+› Acreditar la búsqueda activa de empleo y aceptar una
+
+colocación adecuada a través de la suscripción del
+compromiso de actividad.
+
+› No haber cumplido la edad ordinaria que da acceso a
+
+la pensión contributiva de jubilación, salvo que el trabajador no tuviera acreditado el período de cotización
+requerido para ello o se trate de supuestos de suspensión de contrato o reducción de jornada.
+
+› Estar inscrito como demandante de empleo en el servicio público de empleo competente.
+
+› Solicitar el reconocimiento de la prestación en los 15 días
+hábiles posteriores al desempleo.
+
+24
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+Duración de la prestación
+La duración de esta prestación depende del periodo cotizado
+en los 6 años anteriores a la situación legal de desempleo o
+al momento en que cesó la obligación de cotizar. Por tanto, la
+SS ofrece una escala que parte de los 360 días de cotización
+mínima exigida (que darían derecho a 120 días de prestación)
+y llega hasta 2.160 días o más (en cuyo caso la prestación se
+extendería a 720 días).
+Duración de la Prestación por Desempleo.
+Fuente: seg-social.es.
+Periodo de cotización
+(en días)
+
+Periodo de prestación
+(en días)
+
+Desde 360 hasta 539
+
+120
+
+Desde 540 hasta 719
+
+180
+
+Desde 720 hasta 899
+
+240
+
+Desde 900 hasta 1079
+
+300
+
+Desde 1.080 hasta 1.259
+
+360
+
+Desde 1.260 hasta 1.439
+
+420
+
+Desde 1.440 hasta 1.619
+
+480
+
+Desde 1.620 hasta 1.799
+
+540
+
+Desde 1.800 hasta 1.979
+
+600
+
+Desde 1.980 hasta 2.159
+
+660
+
+Desde 2.160 (6 años)
+
+720
+
+Cuantía
+La base reguladora de la prestación por desempleo será el
+promedio de las bases de cotización de los 180 días anteriores
+a la pérdida del trabajo. La cuantía final del subsidio se establecerá en dos periodos diferentes. Durante los primeros 180 días,
+se fijará en un 70% de la base reguladora. A partir de esa fecha,
+se reduce a un 60% de la base reguladora.
+La cuantía mensual de la prestación en ningún caso podrá
+superar los valores mínimos y máximos establecidos utilizando
+como referencia el IPREM, incrementados en una sexta parte.
+Estos límites variarán en función del número de hijos:
+Cuantía mínima
+
+Cuantía máxima
+
+Sin hijos
+
+560 €
+(80 % del IPREM + 1/6)
+
+1.225 €
+(175 % del IPREM + 1/6)
+
+Con 1 hijo
+
+749 €
+(107 % del IPREM + 1/6)
+
+1.400 €
+(200 % del IPREM + 1/6)
+
+Con 2 hijos
+o más
+
+749 €
+(107 % del IPREM + 1/6)
+
+1.575 €
+(225 % del IPREM+ 1/6)
+
+25
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+7.3.2. Subsidio por desempleo
+El subsidio por desempleo es la prestación de nivel asistencial
+que se destina a los desempleados que son demandantes de
+empleo, siempre que cumplan dos requisitos:
+
+› No pueden rechazar una oferta de empleo adecuada ni
+tampoco negarse a participar, salvo causa justificada, en
+acciones formativas.
+
+› No podrán tener rentas mensuales superiores al 75 % del
+SMI, sin la parte proporcional de las pagas extraordinarias.
+
+La cuantía mensual del subsidio por desempleo será el 95 % del
+IPREM durante los 180 primeros días. Del día 181 al 360, se
+cobrará el 90 % del IPREM. A partir del día 361, el 80 % del IPREM.
+
+Duración del subsidio por desempleo
+Situación
+Agotar la prestación por
+desempleo y tener
+responsabilidades
+familiares
+
+Duración del subsidio
+
+Al menos, 4 meses de prestación
+
+24 meses
+
+Al menos, 6 meses de prestación
+
+30 meses
+
+Agotar la prestación por desempleo y no tener responsabilidades familiares
+
+6 meses
+
+Españoles emigrantes retornados; liberados de prisión e incapacitados permanentes declarados
+plena o parcialmente capaces por mejoría
+
+18 meses
+Igual que los meses
+cotizados (3, 4 o 5)
+
+3, 4 o 5 meses cotizados
+No haber cotizado el tiempo
+mínimo para cobrar la
+prestación
+
+6 o más meses cotizados
+
+Sin responsabilidad familiar
+
+6 meses
+
+Con responsabilidad familiar
+
+21 meses
+
+Mayores de 52 años con al menos 6 años de cotización en su vida laboral
+
+Hasta la edad de
+jubilación
+
+26
+
+Itinerario personal para la empleabilidad I | UNIDAD 7
+Seguridad Social
+
+27
+
+

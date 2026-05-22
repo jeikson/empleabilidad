@@ -1,0 +1,1191 @@
+Unidad 2
+
+Evaluación de
+riesgos profesionales
+Itinerario personal
+para la empleabilidad I
+
+Índice
+2.1.
+
+Itinerario personal para la empleabilidad I | UNIDAD 2
+
+La cultura preventiva
+
+2.2. Determinación de los posibles daños a la salud del trabajador
+2.2.1. La enfermedad profesional
+2.2.2. El accidente de trabajo
+2.2.3. Otras patologías
+
+2.3. Factores de riesgo laboral y medidas preventivas
+2.3.1. Factores de riesgo derivados de las condiciones de seguridad:
+lugares y espacios de trabajo
+2.3.2 Factores de riesgo medioambientales
+2.3.3 Factores de riesgo psicosociales.
+2.3.4. Factores de riesgo relacionados con la ergonomía.
+2.3.5. El riesgo eléctrico
+
+Evaluación de riesgos profesionales
+
+Itinerario personal para la empleabilidad I | UNIDAD 2
+Evaluación de riesgos profesionales
+
+Introducción
+Cualquier actividad laboral está vinculada a una serie de riesgos
+y condicionantes que, en mayor o menor medida, pueden afectar
+a la integridad física, el estado de salud o el bienestar general
+del trabajador. El objetivo principal de esta unidad en poner
+de manifiesto la relación existente entre la actividad laboral y
+la salud, prestando atención a las implicaciones derivadas de
+esta relación. En este sentido, será clave establecer una clara
+diferenciación entre los conceptos de enfermedad profesional y
+accidente de trabajo.
+Los lugares de trabajo en los que, día a día, los trabajadores
+desempeñan su labor profesional son una fuente habitual de
+riesgos para su salud o su seguridad. Como es evidente, cada
+profesión tendrá unos peligros de diferente tipo y gravedad, pero
+es innegable que estos existen. Así, la intención de esta unidad
+es hacer un recorrido por los principales factores de riesgo
+presentes en los lugares y espacios de trabajo,
+Las condiciones medioambientales en las que se realiza el trabajo
+también serán motivo de análisis. En este sentido, la clave estará
+en diferenciar entre los agentes físicos (ruido, vibraciones…), los
+agentes químicos (explosivos, comburentes, inflamables…) y los
+agentes biológicos (bacterias, virus, hongos…). La ergonomía y el
+riesgo eléctrico se expondrán como otros riesgos complementarios presentes en la inmensa mayoría de los puestos de trabajo.
+
+Al finalizar esta unidad
++ Conoceremos la relación existente + Distinguiremos los factores de riesgo
+entre la actividad laboral y la salud de
+los trabajadores.
+
++ Distinguiremos
+
+entre
+accidente
+profesional y accidente de trabajo.
+
++ Conoceremos y analizaremos los
+factores de riesgo derivados de los
+lugares y espacios de trabajo.
+
+psicosociales que afectan a la satisfacción del trabajador.
+
++ Seremos capaces de diferenciar los
+
+factores de riesgo relacionados con
+la ergonomía.
+
++ Sabremos cuáles son las particularidades del riesgo eléctrico.
+
++ Comprenderemos
+
+los
+riesgos
+derivados
+de
+las
+condiciones
+medioambientales y los agentes
+físicos, químicos y biológicos.
+
+3
+
+Itinerario personal para la empleabilidad I | UNIDAD 2
+Evaluación de riesgos profesionales
+
+2.1.
+
+La cultura preventiva
+La Organización Mundial de la Salud (OMS), define el término
+salud como el estado de completo bienestar físico, mental y
+social, que supone más que la mera ausencia de afecciones o
+enfermedades. Esta definición incorpora tres dimensiones:
+El hecho de que la OMS considere que la salud no es solo la
+ausencia de afecciones o enfermedades da un giro a todas
+las definiciones anteriores e impulsa un avance clave. Ahora,
+cuando se analizan aquellas cuestiones que son perjudiciales
+para la salud de los trabajadores, se hace desde una perspectiva integral y protectora.
+De esta manera, las condiciones de trabajo serán cualquier
+particularidad laboral que pueda influenciar en la generación
+de riesgos para la seguridad y la salud del trabajador. Entre
+ellas encontramos:
+
+› Las características generales de los locales y las insta-
+
+laciones: altura del techo, espacio mínimo para cada
+trabajador, salidas de emergencia, limpieza, señalización
+de seguridad, condiciones ambientales, etc.
+
+Tipos de salud
+
+Física
+Referida a la integridad corporal
+
+Social
+El bienestar en las relaciones con
+otras personas.
+
+Psíquica
+Relativa al equilibrio emocional
+
+› Los equipos, productos y útiles del centro de trabajo:
+elementos móviles, combustibles, maquinaria, etc.
+
+› La presencia, naturaleza y nivel de concentración de
+
+agentes físicos, químicos y biológicos: acústica, iluminación, temperatura, humedad, vibraciones, radiaciones,
+polvo en suspensión, gases, virus, bacterias, etc.
+
+› Los procedimientos para utilizar y manipular dichos agentes.
+› La organización y la carga de trabajo, tanto física como
+mental: movimientos repetitivos, posturas inadecuadas,
+manipulación manual de cargas, nivel de responsabilidad, ritmo de trabajo, cantidad y calidad de información,
+distribución horaria, reparto de tareas, etc.
+
+4
+
+Itinerario personal para la empleabilidad I | UNIDAD 2
+Evaluación de riesgos profesionales
+
+2.2.
+
+Determinación
+de los posibles daños
+a la salud del trabajador
+La Ley de Prevención de Riesgos Laborales (LPRL) estipula
+que tendrán la consideración de daños derivados del trabajo las enfermedades, patologías o lesiones sufridas con
+motivo u ocasión del trabajo. Así pues, se incluirán dentro
+de esta definición:
+
+› Los accidentes de trabajo (AT).
+› Las enfermedades profesionales (EP)
+› Otras patologías, como el estrés, la fatiga laboral o el mobbing.
+2.2.1. La enfermedad profesional
+La enfermedad profesional es el deterioro progresivo de la
+salud de un trabajador que está sobreexpuesto, de manera
+reiterada, a la insalubridad que produce su trabajo, el entorno
+laboral o la forma en la que estos se desarrollan. Sin embargo, a nivel legal, el Real Decreto Legislativo 8/2015, de 30 de
+octubre, por el que se aprueba el texto refundido de la Ley
+General de la Seguridad Social (TRLGSS) solo reconoce la
+enfermedad cuando se dan ciertas circunstancias.
+En primer lugar, debe tratarse de una enfermedad recogida en
+el Real Decreto 1299/2006, de 10 de noviembre, por el que
+se aprueba el cuadro de enfermedades profesionales en el
+sistema de la Seguridad Social y se establecen criterios para
+su notificación y registro. Además, la enfermedad debe estar
+provocada por la acción de los elementos o sustancias que se
+especifican en este Real Decreto, o bien, por la realización de
+alguna de las actividades que contempla.
+Para saber más acerca de los diferentes grupos de enfermedades profesionales, se anima a revisar la siguiente legislación:
+https://boe.es/buscar/pdf/2006/BOE-A-2006-22169-consolidado.pdf
+
+5
+
+Itinerario personal para la empleabilidad I | UNIDAD 2
+Evaluación de riesgos profesionales
+
+2.2.2. El accidente de trabajo
+Según el TRLGSS, el accidente de trabajo es toda aquella
+lesión corporal que el trabajador sufra con ocasión o por
+consecuencia del trabajo que ejecute por cuenta ajena. Por
+tanto, se consideran accidentes de trabajo:
+1. Los que sufra al ir o al volver del lugar de trabajo.
+2. Los que sufra durante el desempeño de cargos electi-
+
+vos de carácter sindical.
+
+3. Los ocurridos con ocasión o por consecuencia de las
+
+tareas que realice por orden del empresario o por propia
+voluntad en interés del buen funcionamiento de la
+empresa, aunque no sean las que tuviese atribuidas por
+grupo profesional.
+
+4. Los acaecidos en actos de salvamento y similares,
+
+siempre que tengan conexión con el trabajo.
+
+5. Las enfermedades que contraiga por causa exclusiva y
+
+probada de la ejecución del trabajo.
+
+6. Las enfermedades o defectos, padecidos con anterio-
+
+ridad, que se agraven como consecuencia de la lesión
+constitutiva del accidente.
+
+7. Las consecuencias del accidente que resulten modifica-
+
+das en su naturaleza, duración, gravedad o terminación,
+por enfermedades o complicaciones derivadas del proceso patológico determinado por el accidente mismo o que
+tengan su origen en afecciones adquiridas en el nuevo
+medio en que se haya situado el paciente para su curación.
+
+Como norma general y salvo prueba en contrario, se asumirá
+que son constitutivas de accidente de trabajo las lesiones que
+sufra el trabajador durante el tiempo y en el lugar del trabajo.
+
+Exclusiones
+No tendrán la consideración de accidente de trabajo:
+1. Si se producen por fuerza mayor extraña al trabajo
+
+(que no guarde relación alguna con el trabajo que se
+ejecutaba en el momento del accidente). Conviene
+aclarar que no se considerará fuerza mayor extraña al
+trabajo la insolación, el rayo y otros fenómenos análogos de la naturaleza.
+
+2. Los que sean debidos a dolo o a imprudencia temeraria
+
+del trabajador accidentado.
+
+A pesar de lo expuesto, no impedirán la calificación de un
+accidente como de trabajo ni la imprudencia profesional
+que sea consecuencia del ejercicio habitual de un trabajo
+y se derive de la confianza que este inspira ni la concurrencia de culpabilidad civil o criminal del empresario, de un
+compañero o de un tercero, salvo que no guarde relación
+alguna con el trabajo.
+
+6
+
+Itinerario personal para la empleabilidad I | UNIDAD 2
+Evaluación de riesgos profesionales
+
+2.2.3. Otras patologías
+Por causa y desarrollo del trabajo diario se pueden sufrir otro
+tipo de daños, como los daños psicosociales.
+
+Estrés
+El estrés es una de las manifestaciones fisiológicas y emocionales que puede desencadenar un hecho o situación en un
+sujeto. Se trata de la reacción que emite cuando una situación
+le causa un desbordamiento o supone una amenaza. Por tanto,
+se produce como respuesta a escenarios de inestabilidad para
+el individuo, que exigen un esfuerzo extraordinario o hacen
+peligrar el bienestar personal.
+En el caso concreto del estrés laboral, el Instituto Nacional
+de Seguridad y Salud en el Trabajo (INSST) lo describe como
+una situación laboral en la que se dan unas condiciones psicosociales adversas o desfavorables, que se traducen en una
+respuesta física y emocional al desequilibrio entre las exigencias percibidas y las capacidades del trabajador para hacer
+frente a esas exigencias.
+El estrés laboral es una de las consecuencias de la exposición
+a riesgos psicosociales que, hoy en día, se trata como un
+problema común que puede afectar a todos los trabajadores,
+de todas las categorías y profesiones.
+
+Algunos de los factores que favorecen
+su aparición son:
++ Cambios en la organización, gestión
+o diseño del trabajo.
++ Precariedad de los contratos de trabajo.
++ Inseguridad laboral.
++ Aumento de la carga y velocidad
+de trabajo.
++ Elevadas exigencias emocionales.
++ Violencia y acoso psicológico.
++ Pésimo equilibrio trabajo-vida personal.
+
+Sintomatología del estrés
+Síntomas físicos
+
+Síntomas Psicológicos
+
++ Dolores musculares.
+
++ Angustia.
+
++ Cansancio.
+
++ Depresión.
+
++ Fatiga.
+
++ Preocupación.
+
++ Boca seca.
+
++ Histeria.
+
++ Nauseas.
+
++ Perdida de interés por la salud y la apariencia.
+
++ Dolor de estómago.
+
++ Agresividad e impaciencia.
+
++ Taquicardia.
+
++ Incapacidad para terminar tareas.
+Consecuencias para la empresa
+
++ Absentismo laboral.
++ Elevada rotación del personal.
++ Problemas disciplinarios.
++ Violencia y acoso psicológico.
++ Menor productividad.
++ Errores y accidentes laborales.
++ Mayores costes de indemnización o atención sanitaria.
+
+Consecuencias para el trabajador
++ Reacciones emocionales (irritabilidad, ansiedad, problemas
+de sueño, depresión, hipocondría, alienación, desgaste,
+problemas familiares).
++ Reacciones cognitivas (dificultad para concentrarse, recordar, aprender cosas nuevas, tomar decisiones).
++ Reacciones conductuales (abuso de drogas, alcohol y
+tabaco, conducta destructiva).
++ Reacciones fisiológicas (problemas de espalda, bajas defensas, úlceras pépticas, problemas cardiológicos, hipertensión).
+
+7
+
+Itinerario personal para la empleabilidad I | UNIDAD 2
+Evaluación de riesgos profesionales
+
+Fatiga laboral
+La fatiga laboral es la disminución de la capacidad física y
+mental que aparecerá cuando la cantidad de trabajo que
+realice el trabajador en un corto periodo de tiempo le impida
+recuperarse íntegramente. Su intensidad varía según el caso
+(desde muy ligera hasta el agotamiento total) y no es fácil dar
+con una definición única y aceptable para todos.
+En general, la fatiga provocada por el trabajo es una manifestación, general o local, de la tensión que produce y suele
+eliminarse mediante un adecuado descanso.
+Características de la fatiga
+Se traduce en una disminución de la capacidad
+de respuesta o de acción de la persona.
+Se trata de un fenómeno multicausal, aunque se pueda encontrar
+en su origen una contribución de gran peso de un factor concreto.
+Afecta al organismo como un todo (físico y psíquico) y en grado
+diverso, dado que se percibe de manera personal. Esto hace que se
+encuentren diferencias interpersonales e intrapersonales en cuanto
+a las formas en que se expresa y la intensidad en que se siente, en
+función de factores situacionales y características personales.
+Es un mecanismo regulador del organismo de gran valor adaptativo,
+en tanto en cuanto es un indicador de la necesidad de descanso.
+
+Mobbing o acoso laboral
+El acoso laboral, también conocido como mobbing, engloba
+las agresiones psicológicas que se producen en el lugar de
+trabajo y que están dirigidas de forma reiterada y prolongada
+sobre una o más personas. Este hostigamiento puede ser de
+un superior a un subordinado, de un subordinado a un superior
+o entre iguales.
+Las conductas que incluye son muy variadas, entre las que
+destacan no asignar tareas o encomendar tareas inútiles, aislamiento, burlas, críticas continuas, amenazas, gritos e insultos.
+
+Dimensiones del burnout
+
+Agotamiento emocional
+Cansancio e incapacidad afectiva
+hacia las tareas que se realizan y las
+personas con las que se trabaja. El
+trabajador es incapaz de regularse a
+nivel emocional
+
+Despersonalización
+Tratamiento distanciador que se
+aplica a la realidad percibida y al
+entorno. Es un estado de desconexión
+y ausencia, que altera el comportamiento habitual.
+
+Burnout o síndrome de estar quemado
+Un trabajador que está quemado es aquel que genera
+una respuesta al estrés crónico que le produce su trabajo,
+conformada por actitudes y sentimientos negativos hacia las
+personas con las que trabaja e, incluso, hacia el rol profesional
+que ocupa. Suele ir acompañado de agotamiento emocional.
+Así, el burnout abarca tres dimensiones:
+
+Baja realización personal
+Reducción
+de
+la
+autoestima
+profesional que deriva en una autoevaluación negativa de uno mismo,
+sobre todo, de la propia capacidad
+para hacer el trabajo y relacionarse
+con los demás. El sentimiento es de
+desilusión, fracaso e insatisfacción.
+
+8
+
+Itinerario personal para la empleabilidad I | UNIDAD 2
+Evaluación de riesgos profesionales
+
+2.2.
+
+Factores de riesgo laboral
+y medidas preventivas
+Se puede definir el riesgo laboral como la posibilidad que hay
+de que el trabajo o las condiciones de este provoquen un daño
+en la salud del empleado. Por su parte, los factores de riesgo
+serían aquellas condiciones de trabajo que pueden suponer un
+peligro para la salud de los trabajadores.
+¿SABÍAS QUÉ?
+El riesgo laboral se considera grave e inminente cuando es probable que suceda en un futuro muy próximo y suponga un daño
+importante para la salud.
+
+2.3.1. Factores de riesgo derivados
+de las condiciones de seguridad:
+lugares y espacios de trabajo
+Los lugares de trabajo son los espacios del centro de trabajo, ya estén edificados o no, en los que los empleados deben
+permanecer o a los que deben acceder como consecuencia
+de la realización de su labor. Es decir, se incluyen pasillos,
+locales, escaleras o aseos, entre muchos otros.
+En los lugares de trabajo, el trabajador está expuesto a daños
+como caídas (al mismo y a distinto nivel), golpes contra objetos,
+atrapamientos, enganches, arrastres, cortes, proyecciones de
+partículas o resbalones.
+
+› Medidas de prevención y protección
+» Los locales deben tener, al menos, 3 metros de
+altura, a excepción de las oficinas, en las que se
+permiten 2,5 metros.
+» El trabajador debe tener un espacio de trabajo de 2
+m² de superficie y 10 m³ de volumen.
+» Los pasillos principales deberán tener una anchura
+mínima de 1 metro.
+» La limpieza y el orden es primordial en las zonas de
+paso y en los lugares de trabajo.
+» Habrá iluminación natural o artificial adaptada al tipo
+de actividad que se vaya a realizar. Se contará con
+iluminación de emergencia.
+» Puertas y salidas estarán señalizadas, podrán abrirse
+hacia el exterior y tendrán una anchura mínima de
+80 centímetros.
+» Las escaleras serán de, al menos, 1 metro de ancho
+(las de servicio podrán ser de 55 centímetros). Además,
+incluirán barandillas de 90 centímetros de alto.
+» Los suelos serán fijos y no resbaladizos, sin irregularidades ni pendientes peligrosas.
+» Las aberturas y los desniveles en los que haya riesgo
+de caída se protegerán con barandillas.
+
+9
+
+Itinerario personal para la empleabilidad I | UNIDAD 2
+Evaluación de riesgos profesionales
+
+2.3.2 Factores de riesgo medioambientales
+En los lugares de trabajo se pueden encontrar agentes físicos,
+químicos o biológicos cuyas características son generadoras
+de daños en la salud del trabajador. Su importancia y gravedad
+dependerá del nivel de concentración y el tiempo de exposición.
+
+Agentes físicos
+
+› Ruido. Se denomina ruido a cualquier sonido no
+
+deseado que produce una sensación desagradable,
+provocando a corto, medio y largo plazo consecuencias
+nocivas para el trabajador. Mientras que un sonido es
+un fenómeno físico que activa las sensaciones propias
+del sentido humano de la audición, el ruido es un
+sonido peligroso, molesto, inútil o desagradable, que
+está conformado por tres elementos:
+» Intensidad: es el volumen, medido en decibelios (dB).
++ dBA (decibelios A): calcula el nivel de exposición
+diario equivalente.
++ dBC (decibelios C): mide los picos producidos
+en un momento dado.
+» Frecuencia: determina si el tono es agudo o grave.
+Se mide en hercios (Hz).
+» Duración: diferencia si es continuo, discontinuo o de
+impacto (súbito e inesperado).
+
+Daños por ruido y medidas protectoras
+Daños
+
+Medidas de prevención y protección
+
++ Físicos (disminución de la capacidad
+auditiva o sordera).
++ Psicológicos (estrés, cansancio, irritabilidad o ansiedad).
++ Accidentes laborales por falta de concentración y distracciones.
+
++ Elegir la maquinaria menos ruidosa.
++ Realizar un buen mantenimiento y aislamiento de la maquinaria.
++ Insonorizar los lugares de trabajo.
++ Disminuir el tiempo de exposición.
++ Proporcionar EPIS (tapones y orejeras)
++ Control médico habitual.
++ Formación e información a los empleados.
+
+Existe una relación entre los valores de exposición al
+ruido y las medidas de prevención y protección que
+se han de aplicar, que se determina en el Real Decreto 286/2006, de 10 de marzo, sobre la protección de
+la salud y la seguridad de los trabajadores contra los
+riesgos relacionados con la exposición al ruido.
+En este texto se señalan los valores límite de exposición
+y los valores de exposición que dan lugar a una acción
+preventiva, referidos a los niveles de exposición diaria y a
+los niveles de pico, expresados en decibelios (dB).
+
+10
+
+Itinerario personal para la empleabilidad I | UNIDAD 2
+Evaluación de riesgos profesionales
+
+› Vibraciones. Todo movimiento oscilatorio de un cuerpo
+
+sólido, respecto a una posición de referencia inicial, que
+se caracterice por su frecuencia (número de veces por
+segundo que realiza el ciclo completo de oscilación,
+medida en Hz) y su amplitud (intensidad de la vibración),
+se denomina vibración.
+Una vibración se transmite por el interior de un objeto
+y a través de los puntos de contacto entre diferentes
+objetos. En el caso del cuerpo de un trabajador, las vibraciones se podrán transferir de dos formas:
+» Sistema mano-brazo: los dedos o las manos
+tienen contacto con herramientas como los martillos neumáticos, los taladros o las pulidoras. Esto
+provoca hinchazón y dolor en los huesos y las articulaciones de las manos y los brazos.
+» Vibraciones de cuerpo completo: se transmiten
+desde una fuente vibrante a todo el cuerpo. Suelen
+afectar a la columna vertebral y ocasionan lumbalgias, trastornos musculoesqueléticos, pinzamientos
+discales, deformaciones óseas y artrosis.
+
+En función de la frecuencia de la vibración, se pueden
+distinguir los siguientes tipos:
+» Vibraciones de muy baja frecuencia: tienen frecuencias inferiores a 1 Hz. Estimulan el laberinto del oído
+interno, provocando mareos y vómitos (por ejemplo,
+el movimiento de balanceo de un barco).
+» Vibraciones de baja frecuencia: tienen frecuencias
+de 1 a 20 Hz. Generalmente, son las vibraciones
+de cuerpo completo que dañan la zona lumbar
+(asientos de vehículos industriales, de transporte,
+tractores, plataformas vibratorias, etc.).
+» Vibraciones de alta frecuencia: frecuencias de 20 a
+1000 Hz. Se suelen dar en las vibraciones transmitidas al sistema mano-brazo, producidas por el uso de
+herramientas manuales vibrantes o por objetos que
+se sujetan (mandos o volantes). Pueden provocar
+artrosis del codo, lesiones de muñeca, calambres,
+trastornos prolongados de la sensibilidad, etc.
+No hay que pasar por alto que la exposición prolongada
+a vibraciones está detrás de patologías como los trastornos en el sistema nervioso central, las lesiones raquídeas
+menores, las lesiones por malas posturas, los problemas
+neurológicos relacionados con la variación del ritmo
+cerebral o la dificultad del equilibrio y los trastornos de
+visión por resonancia.
+Vibraciones: medidas de prevención y protección
+Aislar la maquinaria para que la onda vibratoria no se propague.
+Se puede hacer uso de elementos elásticos que actúen como filtro.
+Usar amortiguadores como el caucho.
+Limitar el tiempo de exposición.
+Hacer uso de EPIS (muñequeras, ropa acolchada, calzado aislante...).
+
+11
+
+Itinerario personal para la empleabilidad I | UNIDAD 2
+Evaluación de riesgos profesionales
+
+› Radiaciones ionizantes y no ionizantes. Las radiaciones
+
+son una fuente de energía que se desplaza de un punto
+a otro sin que haya un soporte material. Su peligrosidad
+depende de la categoría y el tiempo de exposición. Se
+diferencian dos clases:
+» Radiaciones ionizantes: son potentes y peligrosas
+para el ser humano. Se usan para crear energía,
+esterilizar alimentos y realizar diagnósticos y tratamientos médicos.
+Destacan los rayos X, los rayos gamma, las partículas a y b y los neutrones. Sus efectos nocivos son
+tanto inmediatos (náuseas, vómitos, diarreas y pérdida de cabello) como a largo plazo (cáncer, leucemia,
+envejecimiento prematuro y malformaciones genéticas hereditarias).
+» Radiaciones no ionizantes: no poseen energía
+suficiente para ionizar la materia, por lo que son
+menos peligrosas. Abarcan aquellas radiaciones
+en el rango que va desde la baja frecuencia (3 Hz)
+a las radiaciones ultravioleta (hasta 1660 THz), por
+ejemplo, los campos eléctricos, la radiofrecuencia,
+las microondas, los infrarrojos y los rayos láser.
+Son muy frecuentes, ya que se utilizan en equipos
+electrónicos, hornos microondas, secadores, sistemas de telecomunicaciones, móviles, etc. Sus
+efectos nocivos más comunes son quemaduras,
+lesiones oculares y de piel, perturbación de los
+sistemas nervioso, circulatorio y digestivo y cáncer.
+Medidas de prevención y protección ante radiaciones.
+Señalizar las zonas de riesgo.
+Vigilar y controlar las zonas y tiempos de exposición.
+
+Colocar barreras de protección entre las fuentes de radiación
+y las personas.
+Facilitar EPIS (gafas, pantallas con filtros especiales, etc.).
+Informar y formar a los trabajadores.
+Realizar controles médicos de forma periódica.
+
+12
+
+Itinerario personal para la empleabilidad I | UNIDAD 2
+Evaluación de riesgos profesionales
+
+› Temperatura, humedad y corrientes de aire.Tal y como
+
+dispone el Real Decreto 486/1997, de 14 de abril, por el
+que se establecen las disposiciones mínimas de seguridad y salud en los lugares de trabajo, hay parámetros en
+los que es obligatorio mantener ciertos niveles:
+» Temperatura:
++ En los trabajos sedentarios (oficinas y similares),
+entre 17ºC y 27ºC.
++ En los trabajos ligeros, entre 14ºC y 25ºC.
+» Humedad relativa: entre el 30% y el 70%, excluyendo los locales que tengan riesgo por electricidad
+estática, en cuyo caso el límite será del 50%.
+» Corrientes de aire: la velocidad de las corrientes
+estará limitada en función del tipo de trabajo:
++ Trabajo en ambiente no caluroso: 0,25 m/s
++ Trabajos sedentarios en ambientes calurosos:
+0,5 m/s
++ Trabajos no sedentarios en ambientes calurosos: 0,75m/s
++ Para las corrientes de aire acondicionado, el
+límite será de 0,25 m/s en el caso de trabajos
+sedentarios y 0,35m/s en los demás casos.
+Una temperatura inadecuada puede derivar en resfriados, deshidrataciones, hipotermias, golpes de calor e,
+incluso, pérdida de consciencia, lesiones cerebrales y
+paros cardíacos.
+
+¿SABÍAS QUÉ?
+El confort térmico es aquella situación
+en la que no se percibe de manera
+especial ninguna sensación relacionada con la temperatura. Por tanto, sería
+el escenario que reúne las condiciones
+ideales para desarrollar una labor.
+
+› Iluminación. Una buena iluminación es fundamental
+para trabajar de forma segura y productiva. Su ausencia
+o deficiencia ocasiona el aumento de los accidentes de
+trabajo generados por la fatiga ocular, el escozor en los
+ojos, los dolores de cabeza, las distracciones y las dificultades para atender indicaciones.
+
+El nivel de iluminación de la zona en la que se ejecute
+una tarea se medirá desde la altura en la que se realice.
+En el caso de zonas de uso general, a 85 centímetros del
+suelo, y en las vías de circulación, a nivel del suelo.
+Con respecto a las condiciones óptimas de iluminación
+se puede afirmar que:
+
+Las unidades de medida
+que se utilizan para este factor son:
++ Lumen (lm): determina la cantidad
+de luz que puede emitir una fuente
+luminosa.
++ Lux (lx): iluminación producida por 1
+lumen en 1 m² de superficie. El instrumento de medida es el luxómetro.
+
+» Es preferible la iluminación natural antes que la
+artificial. Con ella, se distinguen los colores correctamente, se promueven los cambios de acomodación
+visual, se amplía el campo de visión y se reduce la
+fatiga visual. La iluminación artificial es recomendable como complemento a la natural.
+» La distribución ha de ser uniforme y la intensidad
+apropiada. Es importante evitar brillos, reflejos,
+deslumbramientos, contrastes y luces intermitentes.
+» El uso de luz general o localizada depende del trabajo.
+» Son obligatorias unas luces de emergencias que
+garanticen 1 lux durante 1 hora.
+
+13
+
+Itinerario personal para la empleabilidad I | UNIDAD 2
+Evaluación de riesgos profesionales
+
+Agentes químicos
+Un agente químico es una sustancia o mezcla de sustancias,
+de origen natural o artificial, que puede generar un riesgo sobre
+la salud del trabajador cuando queda expuesto a su acción.
+Estos elementos suelen ser materias primas que forman parte
+de los procesos productivos e interaccionan con el ser humano
+de diferentes maneras y con múltiples efectos.
+
+Los efectos que provoquen se
+medirán a través de los valores
+límites ambientales, que están
+condicionados por:
+
+Los agentes químicos pueden ser peligrosos por sus propiedades, por la manera en la que se hace uso de ellos o por su
+forma de almacenamiento en el lugar de trabajo. Los efectos
+que provoquen se medirán a través de los valores límites
+ambientales, que están condicionados por:
+
+El nivel de concentración, es decir,
+la cantidad de sustancia presente en
+el ambiente.
+El tiempo de exposición al agente
+contaminante.
+
+A continuación, se incluyen los agentes químicos que están
+clasificados como sustancias o preparados peligrosos,
+acompañados por sus respectivos pictogramas:
+Agentes químicos clasificados como sustancias o preparados peligrosos
+
+Explosivos: explotan al contacto con el
+fuego o por fricción. Incluso en ausencia
+de oxígeno, pueden detonar o deflagrar de
+manera muy rápida; bajo el efecto del calor,
+explosionan.
+Explosivos
+
+Comburentes: al contacto con otro tipo
+de sustancias, sobre todo las inflamables,
+causan una reacción exotérmica potente
+(reacción química que desprenderá calor).
+Líquidos
+comburentes
+
+Inflamables: arden fácilmente, por lo que
+son sustancias y preparados que pueden
+encenderse a una temperatura baja.
+
+Tóxicos: ya sea por inhalación, ingestión o
+penetración cutánea en pequeñas cantidades, pueden provocar efectos agudos o
+crónicos e, incluso, la muerte
+
+Nocivos: pueden causar daños o perjuicios
+a las personas y provocar enfermedades,
+trastornos o lesiones.
+
+Corrosivos: al entrar en contacto con tejidos
+vivos, pueden destruirlos.
+
+Líquidos
+Inflamables
+
+Irritantes: sustancias y preparados no
+corrosivos que, en contacto breve, prolongado o repetido con la piel o las mucosas,
+pueden provocar una reacción inflamatoria.
+
+Irritación cutánea
+
+Sensibilizantes: pueden ocasionar una
+reacción de hipersensibilidad, de forma
+que una exposición posterior a esa
+sustancia o preparado dé lugar a efectos
+negativos característicos.
+
+Peligrosos para el medio ambiente:
+sustancias y preparados cuya utilización
+presente riesgos inmediatos o diferidos
+para el medio ambiente.
+
+Carcinógenos: sustancias y preparados
+que, por inhalación, ingestión o penetración
+cutánea, pueden producir cáncer o aumento de su frecuencia.
+Mutagénicos: sustancias y preparados que, por inhalación, ingestión o
+penetración cutánea, pueden producir alteraciones genéticas hereditarias o
+aumentar su frecuencia.
+Tóxicos para la reproducción: pueden
+producir efectos negativos no hereditarios
+en la descendencia, aumentar la frecuencia de estos trastornos o afectar de forma
+negativa a la capacidad reproductora.
+
+14
+
+Itinerario personal para la empleabilidad I | UNIDAD 2
+Evaluación de riesgos profesionales
+
+Para poder evaluar mejor sus peligros y tomar las precauciones necesarias, existe una clasificación internacional que
+abarca los reactivos más frecuentes y los agrupa en cuatro
+grandes categorías:
+
+› Por sus propiedades fisicoquímicas: algunas sustancias
+
+químicas son peligrosas por sí mismas, más allá de su
+capacidad de reacción con otras sustancias. Normalmente, la mayor peligrosidad viene de la capacidad para
+arder o explotar, encontrando las siguientes clases:
+» Inflamable (F): punto de inflamabilidad igual o
+superior 21ºC, e inferior o igual 55ºC. A las temperaturas indicadas, estas sustancias tienden a formar
+gases que arden con facilidad al acercar una llama.
+» Altamente inflamable (F+): punto de ignición igual a
+0ºC y punto de ebullición superior a 21ºC e inferior
+o igual a 35ºC. Estas sustancias arden fácilmente al
+encontrarse en las condiciones indicadas.
+» Comburente (O): en contacto con otros elementos
+(particularmente los inflamables) originan reacciones fuertemente exotérmicas. No arden con tanta
+facilidad como los productos inflamables, pero
+propagan el fuego fácilmente.
+» Explosivo (E): estallan bajo el efecto de una llama o
+con los golpes y la fricción.
+
+› Por sus propiedades toxicológicas: sustancias que
+tienen efectos nocivos para la salud a corto o medio
+plazo. Entre ellas se diferencian:
+
+» Tóxico (T): por inhalación, ingestión o penetración
+cutánea pueden generar riesgos graves, agudos o
+crónicos, incluso la muerte.
+» Muy Tóxico (T+): por inhalación, ingestión o penetración cutánea en muy pequeñas cantidades pueden
+provocar efectos agudos, crónicos e, incluso, la
+muerte.
+» Nocivo (Xn): por inhalación, ingestión o penetración cutánea pueden provocar dolencias de
+gravedad limitada.
+» Irritante (Xi): en contacto breve, prolongado o repetido con la piel o las mucosas pueden provocar una
+reacción inflamatoria.
+» Corrosivo (C): en contacto con tejidos vivos, ejercen
+sobre ellos efectos destructivos.
+» Sensibilizante: por inhalación, ingestión o penetración cutánea pueden ocasionar una reacción del
+sistema inmunitario, de forma que una exposición
+posterior a esa sustancia o preparado desencadena
+efectos negativos característicos.
+
+15
+
+Itinerario personal para la empleabilidad I | UNIDAD 2
+Evaluación de riesgos profesionales
+
+› Por sus efectos en la salud humana: todas aquellas
+
+sustancias que son nocivas para el ser humano, cuyos
+efectos se dan a largo plazo y que, en muchos casos, no
+son tratables. Son citotóxicos, es decir, que por inhalación, ingestión o penetración cutánea pueden provocar
+efectos:
+» Mutagénicos: generan alteraciones
+hereditarias y no hereditarias.
+
+genéticas
+
+» Carcinógenos: producen cáncer.
+» Teratogénicos: provocan lesiones en el feto durante el embarazo y tienen efectos peligrosos para la
+reproducción (efectos negativos no hereditarios en
+la descendencia o sobre la capacidad reproductora).
+
+› Por sus efectos sobre el medio ambiente: ya sea por su
+
+toxicidad, por alterar el metabolismo de los seres vivos
+o modificar el equilibrio natural de los ecosistemas. Se
+identifica a estas sustancias como peligrosas para el
+medio ambiente (N), con independencia de que el
+peligro sea inmediato o a largo plazo.
+
+Agentes biológicos
+El agente biológico es aquel contaminante capaz de replicarse, al tratarse de materia viva. Dentro de esta categoría entran
+bacterias, virus, hongos, protozoos y cualquier otro organismo
+con la capacidad de interactuar, contagiar, dañar y reproducirse en contacto con un ser humano.
+Estos seres vivos están presentes en los lugares de trabajo y
+son la causa de enfermedades e infecciones. Suelen afectar,
+principalmente, a los trabajadores del sector sanitario, los
+laboratorios, la alimentación, la hostelería, la limpieza y a los
+que están en contacto con animales, por ejemplo, en mataderos y granjas.
+La transmisión puede darse mediante el agua, el aire, el suelo,
+los animales, las materias primas, la sangre, la orina, la saliva y
+los conductos del aire acondicionado, entre otros medios. Los
+daños más frecuentes son alergias, hepatitis, tuberculosis, sida,
+tétanos, rabia o fiebre de Malta.
+Medidas de prevención y protección
+frente a los riesgos químicos y biológicos
+
+Imagen 1. Pictograma de riesgos biológicos
+
+¿Cuáles son las vías de entrada al
+organismo de los agentes biológicos?
+
+Sustitución de los agentes por otros
+menos contaminantes o aislamiento.
+
++ Respiratoria: nariz, laringe, bronquios
+y pulmones.
+
+Sistemas de ventilación, extracción, detección y alarma.
+
++ Digestiva: boca, conductos digestivos, estómago e intestinos.
+
+Medidas higiénicas (limpieza, aseo personal, etc.).
+
++ Dérmica: a través de la piel llegan a
+la sangre.
+
+Instalaciones para la higiene personal y EPIS adecuados.
+
++ Parenteral: mediante heridas o llagas
+entran directos a la sangre.
+
+Control médico y vacunas.
+
+16
+
+Itinerario personal para la empleabilidad I | UNIDAD 2
+Evaluación de riesgos profesionales
+
+2.3.3 Factores de riesgo psicosociales.
+Los factores psicosociales consisten en interacciones entre el
+trabajo, su medio ambiente y las condiciones de organización
+y, por otra parte, las capacidades del trabajador, sus necesidades, su cultura y su situación personal fuera del trabajo. Todo
+ello, a través de percepciones y experiencias, puede influir en
+la salud, el rendimiento y la satisfacción laboral.
+En consecuencia, los factores psicosociales abarcan todas
+aquellas variables técnicas y organizativas que afectan a la
+satisfacción de un trabajador, como el tipo de trabajo, la organización o las particularidades que influyan en su salud.
+
+Efectos negativos en el trabajador
+
+Los principales riesgos psicosociales que se detectan en las
+empresas son:
+
+›
+› Violencia laboral.
+› Mobbing o acoso laboral.
+› Acoso sexual.
+› Inseguridad contractual.
+› Burnout o desgaste profesional.
+› Conflicto familia-trabajo.
+Estrés.
+
+Psicológicos
+Ansiedad,
+estrés,
+depresión,
+tabaquismo, drogadicción, burnout,
+inseguridad, desmotivación y baja
+autoestima.
+
+Psicosomáticos
+Fatiga mental, dolores de cabeza,
+insomnio y trastornos circulatorios.
+
+Psicosociales
+Absentismo, accidentes y aislamiento.
+
+Factores psicosociales y medidas de prevención
+Factores psicosociales
+
+Medidas de prevención
+
+Se relacionan con los rasgos de la tarea:
++ Nivel de responsabilidad.
++ Nivel de atención.
++ Ritmo de trabajo.
++ Cantidad de información recibida.
++ Escaso o excesivo trabajo.
++ Grado de autonomía.
+
++ Dar forma y estructura a las tareas para enriquecerlas y provocar interés.
++ Dar autonomía, responsabilidad y control sobre el trabajo.
++ Asignar tareas más específicas cuando el trabajador tiene experiencia
+y autoconfianza.
++ Realizar rotación de puestos.
+
++ Monotonía.
+Organización de los tiempos de trabajo:
++ Trabajo por turnos.
+
++ Acortar los turnos de tarde y noche.
+
++ Nocturnidad.
+
++ Proporcionar de antemano los turnos.
+
++ Ciclos cortos de trabajo.
+
++ Organizar y distribuir el tiempo correctamente.
+
++ Plazos cortos de entrega.
+
++ Proporcionar medios y espacios para los empleados, como comedores.
+
++ Presión en el tiempo de ejecución.
+Relacionados con la estructura y comunicación empresarial:
++ Estilo de mando.
++ Escasa o confusa información sobre funciones.
++ Inexistencia de ayuda para la resolución de incidencias.
++ Inexistencia o poca utilidad en los medios de comunicación
+proporcionados y poca participación.
++ Inestabilidad en el trabajo.
++ Pocas posibilidades para el desarrollo profesional.
+
++ Posibilitar la participación.
++ Fomentar el trabajo en equipo.
++ Dar formación a los líderes.
++ Ayudar a los trabajadores y fomentar la comunicación con el jefe
+para que pidan asesoramiento.
++ Facilitar la promoción, así como apostar por la estabilidad.
++ Establecer planes de actuación.
+
+17
+
+Itinerario personal para la empleabilidad I | UNIDAD 2
+Evaluación de riesgos profesionales
+
+2.3.4. Factores de riesgo
+relacionados con la ergonomía.
+En las actividades de trabajo, los esfuerzos manuales e intelectuales coexisten en una proporción variable, que depende
+directamente de la tarea que se realice. En línea con este
+planteamiento, es importante entender que la carga de trabajo se compone de todos aquellos requerimientos psicofísicos
+que el empleado tiene que afrontar durante su jornada laboral.
+Es decir, se trata de una carga física y mental. Cuando un
+puesto no está diseñado correctamente o las tareas no se han
+analizado como es debido, la carga de trabajo puede aumentar, provocando perjuicios en la salud del trabajador.
+La ergonomía es una técnica dirigida a la adaptación de las
+condiciones de trabajo para que haya mayor seguridad, confort
+y eficiencia en los puestos de trabajo. Diseñar un puesto
+ergonómico implica valorar ciertos factores:
+
+› La carga del trabajo en relación con las capacidades del
+empleado.
+
+› La posición del cuerpo, los movimientos y esfuerzos.
+› Los espacios de trabajo.
+› El diseño y situación de los mandos y controles.
+› El método y el ritmo de trabajo.
+› La cantidad y calidad de la información recibida.
+› Distribución de las pausas.
+› Confort ambiental.
+Procedimiento para la manipulación manual de cargas
+1. Examinar la carga y planificar su levantamiento.
+2. A la hora de hacer el levantamiento:
+
+» Separar los pies y apoyarlos fuertemente.
+» Flexionar ligeramente las rodillas.
+» Acercar el objeto al cuerpo.
+» Levantar el peso de forma gradual.
+» No girar el tronco.
+
+Imagen 1. Posturas correctas e
+incorrectas en la manipulación de cargas
+
+3. Transportar la carga a la altura de la cadera y lo más
+
+cerca posible del cuerpo.
+
+Daños y medidas de prevención para la ergonomía de los puestos de trabajo
+Daños
+
+Medidas de prevención y protección
+
++ Alteraciones musculoesqueléticas.
++ Lumbalgias.
+
++ Realizar una sustitución de la manipulación
+manual por el uso de máquinas para el levantamiento de cargas.
+
++ Hernias discales.
+
++ Hacer pausas durante la realización del trabajo.
+
++ Dolores de cabeza.
+
++ Rotar tareas.
+
++ Fatiga física o mental.
+
++ Dar formación e información a los trabajadores
+
++ Estrés.
+
+18
+
+Itinerario personal para la empleabilidad I | UNIDAD 2
+Evaluación de riesgos profesionales
+
+Posturas en el puesto de trabajo
+
+› Sentado:
+» Mantener la espalda recta y apoyada en el respaldo
+de la silla.
+» Regular la altura de la mesa para que los codos
+estén apoyados.
+» Colocar los pies en el suelo o en el reposapiés.
+» Utilizar una silla regulable y ajustarla por debajo de
+la superficie.
+
+Imagen 2. Postura correcta sentado
+
+› De pie:
+» Alternar posturas.
+» Adaptar la altura del puesto a la persona que realiza
+el trabajo.
+» Repartir el peso del cuerpo combinando la posición
+de los pies.
+
+Imagen 3. Postura correcta de pie
+
+19
+
+Itinerario personal para la empleabilidad I | UNIDAD 2
+Evaluación de riesgos profesionales
+
+2.3.5. El riesgo eléctrico
+La electricidad es una forma de energía que está presente en
+todos los lugares de trabajo. El paso de la corriente eléctrica a
+través del cuerpo humano es un factor de riesgo que puede
+causar graves daños en los trabajadores.
+En un accidente eléctrico, la gravedad dependerá de cuatro
+elementos:
+Factores de riesgo eléctrico
+Intensidad
+
+A mayor corriente eléctrica,
+mayor daño sufrido en el organismo.
+Cuanto mayor sea la resistencia que el cuerpo
+ofrece al paso de la corriente, menor será el
+daño sufrido. Depende de:
+
+Resistencia
+
++ Superficie de contacto.
++ Dureza de la piel.
++ Presión de contacto.
++ Salida de corriente (normalmente por los pies).
+
+Tiempo de
+exposición
+
+A mayor tiempo en contacto con la corriente,
+mayores daños en el cuerpo.
+
+Frecuencia
+de la señal
+
+Se superpone con el ritmo cardiáco,
+provocando arritmias o espamos.
+
+Los tipos de daños que se sufren como consecuencia de un
+accidente eléctrico son:
+
+› Quemaduras.
+» De primer grado: superficiales (solo afectan a la capa
+externa de la piel).
+» De segundo grado: llegan a la epidermis y parte de
+la dermis.
+» De tercer grado: destruyen dermis y epidermis y
+pueden afectar a huesos, músculos y tendones.
+
+› Paro cardíaco. La corriente atraviesa el corazón y rompe
+
+el ritmo cardiaco, provocando que no bombee sangre.
+Esta situación puede causar graves lesiones en el
+cerebro si no se realiza cuanto antes un masaje cardíaco
+o desfibrilación.
+
+› Fibrilación ventricular. Es un tipo de ritmo cardíaco
+
+anormal, denominado arritmia. Durante la fibrilación
+ventricular, las señales cardíacas desorganizadas hacen
+que las cámaras cardíacas inferiores (ventrículos)
+se contraigan inútilmente, por lo que el corazón no
+bombeará sangre a todo cuerpo adecuadamente.
+
+› Paro respiratorio. La corriente eléctrica provoca daños
+en el sistema nervioso y corta el proceso de respiración.
+
+›
+
+Asfixia. La tetanización (contracción sostenida y máxima)
+en los pulmones impide la entrada de aire.
+
+› Agarrotamiento muscular o tetanización. Contracción
+de los músculos que impide su relajación voluntaria.
+
+¿Cuáles serían las medidas preventivas
+adecuadas para el riesgo eléctrico?
++ Instalaciones diseñadas
+para que sean seguras.
++ Conexiones a tierra.
++ Equipos de desconexión automática.
++ Interruptores diferenciales.
++ Aislamiento doble en equipos
+y maquinaria.
++ EPIS adecuados.
++ Formación e información
+para los trabajadores.
+
+20
+
+Itinerario personal para la empleabilidad I | UNIDAD 2
+Evaluación de riesgos profesionales
+
+21
+
+

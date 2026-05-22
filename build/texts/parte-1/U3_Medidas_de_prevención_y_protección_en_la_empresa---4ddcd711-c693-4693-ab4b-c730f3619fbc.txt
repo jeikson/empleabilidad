@@ -1,0 +1,2364 @@
+Unidad 3
+
+Medidas de
+prevención y
+protección en
+la empresa
+Itinerario personal
+para la empleabilidad I
+
+Índice
+3.1.
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+Marco normativo básico de la prevención
+
+3.2. Derechos y deberes en materia de prevención de riesgos laborales
+3.3. Responsabilidades y sanciones
+3.4. Representación de los trabajadores en materia de prevención
+3.5. Organización de la prevención
+3.6. Sistema de gestión de la prevención
+3.7.
+
+Principios y técnicas de prevención de riesgos laborales
+
+3.8. Medidas de protección
+3.8.1. Medidas de protección colectiva
+3.8.2. Medidas de protección individual
+
+3.9. Señalización de seguridad
+3.9.1. Señales en forma de panel
+
+3.10. Plan de autoprotección y plan de actuación en emergencias
+3.10.1. Plan de actuación en emergencias
+3.10.2. Plan de evacuación
+
+3.11. Técnicas básicas de primeros auxilios
+3.11.1. Protocolo de actuación ante una situación de emergencia
+3.11.2. El botiquín
+3.11.3. Proteger, Avisar y Socorrer (PAS): las tres claves de los primeros auxilios
+3.11.4. Clasificación de los heridos
+3.11.5. Técnicas de primeros auxilios en función de las lesiones
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+Introducción
+A lo largo de esta unidad se pondrá el
+foco en el marco normativo y la gestión
+de la prevención. Se analizarán una
+amplia gama de regulaciones y leyes
+que establecen los derechos y obligaciones tanto de empleadores como de
+empleados en materias de prevención
+de riesgos laborales. También se abordará la planificación de la prevención de
+riesgos en la empresa, es decir, el sistema de gestión de la prevención que cada
+organización debe implantar en su seno.
+Para ello, el primer paso es definir con
+nitidez la política de la prevención que
+rige en la empresa y cómo esta se traduce en una organización efectiva de las
+medidas pertinentes.
+La representación de los empleados
+en cuestiones de prevención es igualmente importante, ya que garantiza que
+sus intereses y preocupaciones sean
+considerados en la toma de decisiones
+relacionadas con la seguridad y la salud
+en el trabajo.
+
+Las responsabilidades derivadas de
+la prevención no solo recaen en los
+empleadores, sino que también implica
+la corresponsabilidad de los trabajadores
+para seguir las normas y contribuir a un
+ambiente de trabajo seguro.
+A pesar de tener definido un plan de prevención detallado, se pueden dar una serie de
+situaciones adversas que ocasionen daños
+a los trabajadores o a cualquier persona
+en general, llegando a suponer, incluso,
+un perjuicio para la vida o la integridad.
+Por tanto, se adquirirán los conocimientos
+básicos necesarios para ayudar en caso de
+accidente laboral o cualquier situación de
+urgencia en el lugar de trabajo, definiendo
+cómo se debe actuar hasta la llegada del
+personal médico especializado. Para ello,
+se analizarán las tres claves de los primeros
+auxilios: proteger (alejar al accidentado y a
+nosotros mismos de la fuente de peligro),
+avisar (a los servicios de emergencia) y
+socorrer (proceder a la atención directa de
+la persona accidentada).
+
+Al finalizar esta unidad
++ Sabremos los derechos y obligacio- + Entenderemos los principios de la
+nes tanto de la empresa como del
+trabajador en cuanto a prevención de
+riesgos laborales.
+
++ Estudiaremos la organización y gestión
+
+de la prevención de riesgos en la
+empresa, dando especial importancia a
+la evaluación y estimación de la magnitud de los riesgos.
+
++ Conoceremos la participación de los
+trabajadores en la prevención.
+
+acción preventiva.
+
++ Analizaremos las medidas de protección colectiva e individual.
+
++ Conoceremos las tres claves de los
+
+primeros auxilios: proteger, avisar y
+socorrer.
+
++ Determinaremos las diferentes técni-
+
+cas de primeros auxilios, en función
+de las diferentes lesiones, heridas,
+quemaduras, hemorragias y fracturas.
+
+3
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+3.1.
+
+Marco normativo
+básico de la prevención
+El desarrollo legislativo en materia de prevención parte desde
+el Derecho Comunitario y la Constitución española. Tanto
+es así que la Constitución impone a los poderes públicos la
+obligación de velar por la seguridad e higiene en el trabajo:
+«Asimismo, los poderes públicos fomentarán una política
+que garantice la formación y readaptación profesionales;
+velarán por la seguridad e higiene en el trabajo y garantizarán el descanso necesario, mediante la limitación de la
+jornada laboral, las vacaciones periódicas retribuidas y la
+promoción de centros adecuados» (Art.40.2)
+«Se reconoce el derecho a la protección a la salud» (Art. 43.1)
+La Unión Europea también ha jugado un papel relevante en
+la armonización de las normas relativas a las condiciones
+de seguridad y salud en los centros de trabajo de todos los
+Estados miembros. La más importante es la Directiva Marco
+89/391/CEE, cuya transposición al derecho interno se tradujo en la Ley 31/1995, de 8 de noviembre, de Prevención
+de Riesgos Laborales. Esta ley, con sus posteriores modificaciones (Ley 54/2003, de 12 de diciembre, de reforma del
+marco normativo de la prevención de riesgos laborales), es la
+que sentó las bases normativas en España sobre seguridad y
+salud en el trabajo. Su desarrollo se ha ido realizando a través
+de distintos decretos.
+Lo más característico de la LPRL es que se trata de una ley
+con un carácter activo, es decir, que actúa sobre los riesgos
+laborales incluso antes de que se hagan realidad. Su contenido puede mejorarse mediante los convenios colectivos, pero
+nunca empeorarse.
+
+Protección de la salud en el trabajo a través del Derecho
+
+› Derecho comunitario: Directiva Marco 89/391/CEE.
+› Constitución española de 1978.
+› Derecho Internacional: Convenios de la Organización
+
+Internacional del Trabajo (OIT) en materia de Prevención
+de Riesgos Laborales.
+
+› Derecho nacional:
+» Ley 31/1995, de 8 de noviembre, de Prevención de
+Riesgos Laborales.
+» Real Decreto Legislativo 8/2015, de 30 de octubre,
+por el que se aprueba el texto refundido de la Ley
+General de la Seguridad Social.
+» Real Decreto Legislativo 5/2000, de 4 de agosto,
+por el que se aprueba el texto refundido de la Ley
+sobre Infracciones y Sanciones en el Orden Social.
+
+4
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+› Normativa nacional de desarrollo:
+» Real Decreto 39/1997, de 17 de enero, por el que se
+aprueba el Reglamento de los Servicios de Prevención.
+» Real Decreto 485/1997, de 14 de abril, sobre disposiciones mínimas en materia de señalización de
+seguridad y salud en el trabajo.
+» Real Decreto 486/1997, de 14 de abril, por el que se
+establecen las disposiciones mínimas de seguridad
+y salud en los lugares de trabajo.
+» Real Decreto 487/1997, de 14 de abril, sobre disposiciones mínimas de seguridad y salud relativas a la
+manipulación manual de cargas que entrañe riesgos,
+en particular dorso lumbares, para los trabajadores.
+» Real Decreto 488/1997, de 14 de abril, sobre disposiciones mínimas de seguridad y salud relativas al trabajo
+con equipos que incluyen pantallas de visualización.
+» Real Decreto 664/1997, de 12 de mayo, sobre la
+protección de los trabajadores contra los riesgos
+relacionados con la exposición a agentes biológicos
+durante el trabajo.
+» Real Decreto 773/1997, de 30 de mayo, sobre disposiciones mínimas de seguridad y salud relativas a la
+utilización por los trabajadores de equipos de
+protección individual.
+
+Organismos públicos
+Dentro y fuera de nuestras fronteras, se han constituido diversos organismos de carácter público cuya labor es la de velar
+por la seguridad y la salud en el trabajo:
+Organismos con funciones relativas
+a seguridad y salud en el trabajo
+Nacional
+
+Internacional
+
+Instituto Nacional
+de Seguridad, Salud
+y Bienestar en el Trabajo
+(INSST)
+
+Organización Internacional
+del Trabajo
+(OIT)
+
+Inspección de Trabajo y
+Seguridad Social
+(ITSS)
+
+Agencia Europea
+para la Seguridad y la Salud
+en el Trabajo
+(EU-OSHA)
+
+Comisión Nacional de Seguridad y Salud en el Trabajo
+(CNSST)
+Fundación para la Prevención
+de Riesgos Laborales
+
+5
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+3.2.
+
+Derechos y deberes en
+materia de prevención de
+riesgos laborales
+Para evitar o, al menos, minimizar los daños que los empleados
+pueden sufrir en el trabajo, los implicados en la relación laboral
+deben aceptar y cumplir los derechos y las obligaciones que
+tienen legalmente atribuidas.
+
+Deberes de la empresa (pública o privada)
+1. Deberes generales
+
+» Garantizar la seguridad y la salud de sus trabajadores.
+» Integrar la actividad preventiva en toda la actividad empresarial.
+» Cumplir la normativa de prevención de riesgos laborales.
+» Asumir el coste de las medidas de seguridad y salud.
+2. Deberes con respecto a los trabajadores
+
+» Informar y formar a los trabajadores acerca de:
++ Los riesgos que existen en el centro de trabajo y
+en cada puesto.
++ Las medidas de prevención y protección que se
+aplican ante los riesgos.
++ El correcto uso de máquinas, herramientas y
+dispositivos de seguridad.
++ El uso de nuevos equipos y tecnologías de
+trabajo y la aplicación de cambios en su puesto
+o funciones.
+» Consultar y permitir la participación en materia
+de prevención.
+» Proporcionar los medios y equipos necesarios para
+su protección.
+» Vigilar su salud.
+» Proteger de manera especial a ciertos colectivos
+(embarazadas, menores, empleados temporales o
+de ETT…).
+» Paralizar la actividad cuando haya riesgos graves
+o inminentes.
+3. Deberes con respecto al centro de trabajo
+
+» Elaborar un plan de prevención que incluya la
+identificación, la evaluación y el control de los
+riesgos de la empresa, así como la actividad de
+prevención y protección.
+» Organizar los recursos necesarios para la actividad preventiva.
+» Adoptar medidas para las situaciones de emergencia.
+» Elaborar y conservar la documentación relacionada.
+» Coordinar las medidas de prevención cuando haya
+varias empresas en un grupo o cuando haya contratas y subcontratas.
+
+Protección eficaz frente a
+los riesgos en materia de
+seguridad y salud.
+
+Integración de la prevención de riesgos laborales
+en la organización
+
+Seguimiento permanente
+de la actividad preventiva
+para su mejora continua.
+Imposibilidad de delegar la
+responsabilidad, aunque la
+actividad preventiva se derive
+a una entidad especializada.
+
+6
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+Derechos y deberes de los trabajadores
+El hecho de que los trabajadores tengan reconocidos unos
+derechos supone la existencia correlativa de unas obligaciones asociadas.
+
+Derechos del trabajador
+
+› Ser informado de los riesgos para su salud y su seguridad y de las medidas preventivas adoptadas.
+
+› Recibir formación teórica y práctica, suficiente y adecua-
+
+da, en el momento de su contratación y cuando cambie
+la tarea encomendada o se introduzcan nuevas tecnologías o equipos de trabajo.
+
+› Interrumpir su actividad e, incluso, abandonar el lugar de
+
+Correspondencia
+entre derechos y
+deberes del trabajador
+
+trabajo, cuando haya un riesgo grave e inminente para
+su vida o su salud.
+
+› Tener garantizada una vigilancia periódica de su estado
+de salud, en función de los riesgos inherentes a su
+puesto de trabajo.
+
+›
+
+Disponer de medidas de protección específicas cuando
+así lo demanden sus características personales, su
+estado biológico conocido o una incapacidad física,
+psíquica o sensorial.
+
+› Ser consultado y participar en cuestiones de seguridad y
+salud en el trabajo.
+
+Deberes del trabajador
+
+› Velar, según sus posibilidades y mediante el cumpli-
+
+miento de las medidas de prevención, por su propia
+seguridad y salud y por la de quienes le rodean.
+
+› Usar adecuadamente máquinas, herramientas, sustan-
+
+cias peligrosas, equipos y cualquier otro medio de trabajo.
+
+› Usar correctamente los medios y equipos de protección
+
+facilitados por el empresario, conforme a las instrucciones que indique.
+
+› Utilizar correctamente los dispositivos de seguridad y no
+suspender su funcionamiento.
+
+›
+
+Informar inmediatamente a su superior jerárquico, a los
+trabajadores con funciones de protección y prevención y
+al servicio de prevención, sobre cualquier situación que
+pueda entrañar un riesgo para la seguridad y/o salud.
+
+Derecho a la información
+Deber de respetar las
+normas que conocen
+
+Derecho a la formación
+Deber de hacer un uso
+adecuado de máquinas,
+herramientas y equipos
+
+Derecho a paralizar la
+actividad en caso de riesgo
+grave o inminente
+Deber de informar de las
+situaciones que puedan
+suponer un riesgo
+
+Derecho a la vigilancia
+de su salud
+Deber de velar por su
+seguridad y la de sus
+compañeros
+
+› Contribuir al cumplimiento de las obligaciones estable-
+
+Derecho a participar
+y ser consultados
+
+› Cooperar con el empresario para garantizar unas condi-
+
+Deber de cooperar para
+garantizar la prevención
+y protección
+
+cidas por la autoridad competente.
+ciones de trabajo seguras.
+
+7
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+3.3.
+
+Responsabilidades
+y sanciones
+Responsabilidades del empresario
+
+› Tipos de responsabilidad:
+» Administrativa: incumplimiento de la normativa legal, incluidos los convenios colectivos. Esta
+responsabilidad concurre sin la necesidad de que
+ocurra un accidente.
+» Civil: daños y perjuicios causados a las personas.
+Puede ser de dos tipos:
++ Contractual: por incumplir las obligaciones en
+materia de prevención de riesgos recogidas en
+el contrato laboral.
++ Extracontractual: por incumplir otras obligaciones en materia de prevención de riesgos.
+» Penal: comisión de faltas o delitos contemplados en
+el Código Penal.
+
+› Sanciones:
+» Por responsabilidad administrativa:
++ Económicas.
++ Suspensión temporal o cierre de la empresa.
++ Paralización de trabajos.
++ Recargo en las prestaciones de la Seguridad Social.
++ Aumento de las primas.
++ Abono directo de las prestaciones económicas
+de la Seguridad Social.
++ Inhabilitación.
+» Por responsabilidad civil:
++ Indemnización por daños y perjuicios.
+» Por responsabilidad penal:
++ Multas.
++ Prisión.
++ Indemnización por daños y perjuicios.
+
+› Órgano sancionador:
+» Por responsabilidad administrativa: la autoridad
+laboral. La Inspección de Trabajo y Seguridad Social
+iniciará el proceso, pero no será quien sancione.
+» Por responsabilidad civil:
++ Si es contractual, los tribunales sociales.
++ Si es extracontractual, los tribunales civiles.
+» Penal: los tribunales penales.
+
+8
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+Responsabilidades del trabajador
+
+› Tipos de responsabilidad:
+» Administrativa: con carácter disciplinario, por incumplir las obligaciones en materia de prevención.
+» Civil: extracontractual, por causar daños a terceros.
+» Penal: por cometer un delito que esté reflejado en
+el Código Penal.
+
+› Sanciones:
+» Por responsabilidad administrativa: según lo que
+se establezca en la norma o convenio colectivo
+(amonestación, suspensión de empleo y sueldo,
+despido disciplinario, etc.).
+» Por responsabilidad civil:
++ Indemnización por daños y perjuicios.
+» Por responsabilidad penal:
++ Multas.
++ Prisión.
+
+› Órgano sancionador:
+» Por responsabilidad administrativa:
++ El empresario (las sanciones que imponga serán
+revisables por la jurisdicción competente).
++ La autoridad laboral.
+» Por responsabilidad civil: tribunales civiles.
+» Por responsabilidad penal: tribunales penales.
+
+9
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+3.4.
+
+Representación de
+los trabajadores en
+materia de prevención
+La participación de los trabajadores de la empresa en aquellas
+actividades relacionadas con su seguridad y su salud en el
+trabajo es uno de los aspectos básicos que caracterizan a la
+gestión de los riesgos laborales. Para que esta participación
+sea mucho más activa, existen unos representantes designados de forma específica para que se involucren en la actividad
+preventiva: los delegados de prevención y el Comité de Seguridad y Salud de la empresa.
+
+Delegados de prevención
+La elección de los delegados de prevención se hará a través
+de los representantes de los trabajadores y de entre ellos,
+atendiendo a los siguientes criterios:
+Representación de los trabajadores en materia de prevención
+Número de
+trabajadores
+
+Delegados de Prevención
+
+1 - 30
+
+1 delegado de prevención, que
+será el delegado de personal
+
+31 - 49
+
+1 delegado de prevención,
+elegido por y entre los
+delegados de personal
+
+Comité de Seguridad y Salud
+
+50 – 100
+
+2 delegados de prevención
+
+101 - 500
+
+3 delegados de prevención
+
+501 - 1000
+
+4 delegados de prevención
+
+1001 - 2000
+
+5 delegados de prevención
+
+2001 - 3000
+
+6 delegados de prevención
+
+3001 – 4000
+
+7 delegados de prevención
+
+4001 en adelante
+
+8 delegados de prevención
+
+Las competencias generales de los delegados de prevención
+son las siguientes:
+
+› Colaborar con la dirección de la empresa en la mejora
+de la acción preventiva.
+
+› Promover y fomentar la cooperación de los trabajado-
+
+res en la ejecución de la normativa sobre prevención de
+riesgos laborales.
+
+› Ser consultados sobre las materias objeto de consulta
+obligatoria para el empresario.
+
+› Vigilar y controlar el cumplimiento de la normativa de
+prevención de riesgos laborales.
+
+10
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+Comité de Seguridad y Salud
+Se constituirá un Comité de Seguridad y Salud en todas las
+empresas o centros de trabajo que cuenten con 50 o más
+trabajadores. Estará formado por los delegados de prevención, por un lado, y por el empresario y/o sus representantes
+en número igual al de los delegados de prevención, por otro.
+En las reuniones del Comité de Seguridad y Salud participarán, con voz, pero sin voto, los delegados sindicales y los
+responsables técnicos de la prevención en la empresa, en el
+caso de que no estén incluidos en la composición anterior. Las
+reuniones serán trimestrales, aunque las partes representadas podrán solicitar una en cualquier momento. Las empresas
+que cuenten con varios centros de trabajo dotados de Comité
+de Seguridad y Salud podrán acordar con sus trabajadores la
+creación de un Comité Intercentros.
+El Comité de Seguridad y Salud tendrá las siguientes
+competencias:
+
+› Participar en la elaboración, puesta en práctica y
+evaluación de los planes y programas de prevención
+de riesgos de la empresa. A tal efecto, en su seno se
+debatirá la elección de la modalidad organizativa de
+la empresa, los proyectos en materia de planificación,
+organización del trabajo e introducción de nuevas
+tecnologías, el desarrollo de las actividades de protección y prevención y la organización de la formación en
+materia preventiva.
+
+› Promover iniciativas sobre métodos y procedimientos
+para la efectiva prevención de los riesgos.
+
+En el ejercicio de sus competencias, el Comité estará facultado para conocer directamente la situación relativa a la
+prevención de riesgos en el centro de trabajo, acceder a los
+documentos e informes relativos a las condiciones de trabajo
+y analizar los daños producidos en la salud o en la integridad
+física de los trabajadores.
+
+11
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+3.5.
+
+Organización de la prevención
+Una empresa cuenta con cinco fórmulas diferentes para
+organizar su actividad preventiva, cada una con sus características propias:
+1. El empresario asume personalmente la actividad
+
+preventiva. Podrá optar por esta alternativa si cumple
+los requisitos:
+» La empresa puede tener un máximo de 10 trabajadores (25 si solo cuenta con un centro de trabajo).
+» El empresario debe poseer la capacitación necesaria, adquirida mediante un curso de “Nivel Básico de
+Prevención de Riesgos Laborales”, de una duración de
+entre 30 y 50 horas, según la actividad de la empresa.
+» El empresario debe desempeñar su trabajo en la
+empresa de forma habitual.
+» El empresario no puede desarrollar por sí mismo la
+medicina de la salud.
+» La empresa no puede desarrollar una actividad que
+sea considerada como especialmente peligrosa en
+el Reglamento de los Servicios de Prevención (RD
+39/1997, de 17 de enero).
+
+2. Uno o varios trabajadores asumen la actividad preven-
+
+tiva. Para dicha designación hay que tener en cuenta
+varios condicionantes:
+» El número de trabajadores que forman la empresa.
+» Los trabajadores deben ser dotados con el material
+y el tiempo necesario, además de contar con acceso
+a toda la información y documentación de la empresa necesaria para la labor de prevención.
+» Los trabajadores designados tendrán la garantía de
+no sufrir ningún perjuicio por realizar esta actividad.
+» Los trabajadores deben tener capacidad suficiente
+para desarrollar las distintas funciones de prevencionistas (su nivel será básico, intermedio o superior).
+» Rigen los deberes de sigilo profesional y de colaboración.
+
+3. La empresa crea un servicio de prevención propio. Se
+
+destinarán los medios materiales y humanos que requieran
+las actividades preventivas a un área propia que garantice
+la protección de la salud y la seguridad de los trabajadores.
+Su creación será obligatoria en los siguientes supuestos:
+» Cuando la empresa cuente con más de 500 trabajadores.
+» Cuando la empresa tenga entre 250 y 500 trabajadores y realice alguna de las actividades recogidas en
+el Anexo I del Reglamento de Prevención de Riesgos.
+» En aquellos casos en los que las autoridades laborales obliguen a su creación por la peligrosidad de la
+actividad realizada o la frecuencia y gravedad de la
+siniestralidad en la empresa.
+
+12
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+4. Se contrata un servicio de prevención ajeno a la
+
+empresa. Una entidad especializada y que no pertenece
+a la empresa desarrollará las actividades de prevención,
+apoyo y asesoramiento que la empresa necesite.
+
+5. Servicio de prevención mancomunado. En este caso,
+
+una misma entidad especializada presta servicio a
+distintas empresas. Esta modalidad será posible únicamente si al prestar atención a varias empresas a la vez no
+disminuye la eficacia y operatividad del servicio. Podrá
+acordarse un servicio mancomunado cuando varias
+organizaciones desarrollen su actividad en un mismo
+centro comercial, edificio o centro de trabajo y, también,
+para aquellas empresas que se encuentren en la misma
+área geográfica o polígono industrial y que pertenezcan
+al mismo grupo empresarial o sector productivo.
+
+13
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+3.6.
+
+Sistema de gestión
+de la prevención
+El diseño e implementación de un sistema de gestión que
+contribuya a la integración de la prevención en la empresa y
+que consiga que todos sus miembros se involucren de forma
+activa en este ámbito debe ser un objetivo prioritario para
+cualquier organización.
+Para la buena gestión de un sistema preventivo es imprescindible abordar las siguientes acciones:
+1. Política de prevención: establece objetivos generales y
+
+directrices básicas en materia de prevención de riesgos
+laborales. Dicha política debe contener una declaración
+de principios en los que se manifieste el compromiso
+de la empresa con la labor de prevención, que debe
+ser desarrollada y asumida por todos los trabajadores.
+Esto implica:
+
+» Un propósito de mejora continua en la labor
+de prevención.
+» La elaboración de un plan de prevención de
+riesgos laborales.
+2. Organización de la prevención: la empresa tiene que
+
+establecer uno de los modelos de organización del sistema preventivo que permita la normativa de Prevención
+de Riesgos Laborales. Además, también debe organizar
+la representación de los trabajadores.
+
+3. Identificar y evaluar los riesgos que no se puedan eliminar.
+4. Establecer las medidas oportunas para eliminar y reducir
+
+los riesgos detectados, especificando tanto los plazos
+como las prioridades. Es lo que se conoce como planificación de la actividad preventiva de la empresa.
+
+5. Una vez llevados a cabo todos los puntos anteriores,
+
+llega el momento de coordinar y ejecutar todo lo planificado previamente.
+
+6. Finalmente, llega el momento de examinar de forma
+
+sistemática, objetiva y documentada todos los elementos que integran el sistema de gestión de prevención
+para poder evaluar su eficacia, a través del proceso de
+auditoría. Así, el ciclo quedaría cerrado, ya que la Ley de
+Prevención de Riesgos Laborales (LPRL) establece que
+el sistema de Prevención de Riesgos Laborales debe
+estar debidamente auditado y documentado.
+
+Se diferencian dos tipos de auditorías:
+
+› Auditorías externas: son de carácter obligatorio y las
+llevan a cabo organismos ajenos a la empresa.
+
+› Auditorías internas: de carácter voluntario y ordenadas
+
+Ciclo del Sistema
+de gestión de prevención
+
+1
+
+Política de prevención
+
+2
+
+Organización de la prevención
+
+3
+
+Evaluación de Riesgos
+
+4
+
+Planificación de
+la actividad preventiva
+
+5
+
+Ejecución y Coordinación
+
+6
+
+Auditoría
+
+por propia iniciativa de la empresa.
+
+14
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+3.7.
+
+Principios y técnicas de
+prevención de riesgos laborales
+El artículo 15 de la LPRL establece una serie de principios
+generales que regulan la acción preventiva:
+
+› Evitar y eliminar los riesgos, sin que importe el coste.
+› Evaluar los riesgos que no se puedan evitar, para saber
+su gravedad exacta y la probabilidad de que sucedan.
+
+› Combatir los riesgos en su origen y no en el lugar de
+transmisión o recepción.
+
+› Adaptar el trabajo a la persona (concepción de los
+puestos de trabajo, elección de los equipos y aplicación
+de los métodos de trabajo y producción), con miras, en
+particular, a atenuar el trabajo monótono y repetitivo.
+
+› Estudiar los riesgos que cualquier innovación técnica
+conlleve, además de considerar los avances tecnológicos que puedan evitar riesgos.
+
+› Sustituir lo peligroso por lo que entrañe poco o
+ningún peligro.
+
+› Planificar la prevención, buscando un conjunto coherente.
+› Adoptar medidas que antepongan la protección colectiva a la individual.
+
+› Dar instrucciones adecuadas e informar siempre de los
+peligros del lugar de trabajo y del puesto específico.
+
+En cualquier caso, el empresario tendrá presentes las capacidades profesionales de los trabajadores en materia de seguridad
+y de salud en el momento de encomendarles las tareas. Solo
+aquellos que hayan recibido información suficiente y adecuada
+podrán acceder a las zonas de riesgo grave y específico. Por otro
+lado, las medidas preventivas deberán prever las distracciones o
+imprudencias no temerarias que pudiera cometer el trabajador.
+Las técnicas de prevención de riesgos laborales que se encargan de promover la mejora de las condiciones de trabajo y la
+salud de los trabajadores son:
+
+› Seguridad en el trabajo: está orientada a evitar acciden-
+
+tes de trabajo. Dado que no siempre es posible, tratará
+de detectar y corregir todos aquellos factores de riesgo
+que puedan derivar en accidentes de trabajo, además
+de controlar aquellos que no se hayan podido evitar y
+han tenido lugar.
+
+› Higiene en el trabajo: su finalidad es prevenir las posibles
+
+enfermedades profesionales que se pueden derivar de
+la actividad laboral, en especial por los contaminantes
+ambientales. Por tanto, se encargará de:
+» Detectar los contaminantes físicos, biológicos y/o
+químicos.
+» Medirlos y valorarlos, concretando el periodo de
+exposición que resulte perjudicial para la salud.
+» Establecer las medidas correctoras que se consideren adecuadas.
+
+15
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+› Ergonomía: adapta tanto el puesto de trabajo como su
+
+medio ambiente a las distintas condiciones fisiológicas y
+psicológicas que presente un trabajador, de manera que
+se optimice la seguridad, la eficacia y el confort. Dentro
+de la ergonomía hay distintas áreas:
+» Ambiental: hace referencia a factores como iluminación, humedad, temperatura o ruidos, entre otros.
+» Geométrica: condiciones relativas al tamaño del
+puesto de trabajo, es decir, las distancias y dimensiones óptimas para cuidar las posturas y los
+movimientos.
+» Comunicativa: comunicación entre los trabajadores y entre estos y la maquinaria que deben utilizar
+(mediante señalizaciones, tableros, pantallas y
+similares).
+» Temporal: estudio y adaptación de los turnos y
+horarios dedicados al trabajo.
+» Perceptiva: adaptación de los utensilios, máquinas
+y herramientas necesarios para el desempeño del
+trabajo a las características de los trabajadores.
+
+› Psicología aplicada: el desempeño del trabajo puede
+
+llegar a causar ciertos daños psicológicos, derivados
+tanto del propio trabajo como de la organización de
+este. Con el fin de evitarlos, esta técnica se encarga de
+estudiar los factores causantes, como la monotonía en
+las tareas, el grado de responsabilidad y autonomía o el
+clima laboral.
+
+› Medicina laboral: su finalidad es que el trabajador
+mantenga su salud en un estado óptimo. Podemos
+distinguir diferentes líneas de actuación, en función de si
+su aplicación es preventiva (para evitar que el trabajador
+enferme), curativa (intentando paliar los efectos una vez
+que el trabajador ha enfermado), o reparadora (aplicando técnicas de rehabilitación).
+
+16
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+3.8.
+
+Medidas de protección
+La existencia de multitud de riesgos que no pueden llegar a
+ser eliminados por completo implica la necesidad de evitar
+o reducir al máximo sus posibles consecuencias y efectos
+nocivos sobre el trabajador. El medio para conseguirlo serán las
+medidas de protección. Se dispone de dos tipos de medidas
+de protección, las colectivas y las individuales.
+
+3.8.1. Medidas de protección colectiva
+Este tipo de medidas pretenden proteger de un riesgo concreto a todas las personas que se puedan encontrar expuestas
+a él de forma simultánea. Tienen prioridad con respecto a las
+individuales, que solo serán utilizadas en el caso de actuar
+como complemento a las colectivas, o cuando estas no pudieran ser utilizadas o resultaran ineficaces.
+
+3.8.2. Medidas de protección individual
+Estas medidas protegen únicamente al trabajador que las utiliza, por lo que suponen la última barrera ante un riesgo que no
+se ha podido eliminar. La LPRL define el Equipo de Protección
+Individual (EPI) como todo aquel equipo que el trabajador lleva
+puesto o sujeto a él mismo para que le proteja de uno o varios
+riesgos que amenacen su seguridad o su salud. También se
+considera como tal cualquier complemento o accesorio que
+cumpla esa misma función.
+Según lo establecido en el artículo 17 de la LPRL, el empresario
+deberá proporcionar a sus trabajadores equipos de protección
+individual adecuados para el desempeño de sus funciones y
+velar por el uso efectivo de los mismos cuando, por la naturaleza de los trabajos realizados, sean necesarios.
+Es importante que el empresario proporcione al trabajador todas las instrucciones necesarias (preferentemente por
+escrito) y, si es posible, que se realice una formación con
+entrenamiento práctico, en especial si se trata de equipos
+complejos. Las instrucciones proporcionadas por el fabricante también se deben encontrar en un lugar accesible para el
+trabajador, procurando que su comprensión sea sencilla.
+Por su parte, tras haber recibido la formación e instrucciones
+correspondientes, los trabadores deben:
+
+› Utilizar y cuidar los EPI de forma correcta.
+› Una vez utilizados, devolverlos a su lugar siguiendo los
+protocolos establecidos.
+
+› Informar de forma inmediata a su superior de cualquier
+defecto o daño en el equipo que pueda suponer una
+disminución en su protección.
+
+17
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+Características de los EPI
+Los EPI deben cumplir con una serie de características:
+
+› La protección que garanticen debe ser eficaz y su uso no
+debe ocasionar ni molestias ni riesgos adicionales.
+
+› Cuando surja algún cambio o evolución en la técnica, es
+importante revisar sus características e idoneidad.
+
+› Deben poseer la homologación de la CE.
+› Su uso se acota al fin para el que están previstos, durante
+
+el tiempo y de la forma que indique el fabricante, salvo
+casos excepcionales.
+
+› Su uso será de carácter personal. Si tuvieran que ser
+utilizados por más de una persona, es imprescindible
+acometer labores de higiene y desinfección.
+
+› Para un correcto almacenamiento, mantenimiento y
+reparación, hay que seguir las instrucciones facilitadas
+por el fabricante.
+
+› En aquellos casos en los que el puesto de trabajo
+
+conlleve riesgos múltiples y requiera de la utilización de
+varios EPI de forma simultánea, hay que asegurarse de
+su compatibilidad para garantizar su eficacia.
+
+Equipos de protección individual
+
+› Protectores de cara y ojos
+» Pantallas faciales.
+» Gafas de montura universal.
+» Pantallas para soldadura (acoplables al casco, de
+cabeza o de mano).
+
+› Protectores de cabeza
+» Cascos de protección contra impactos y choques.
+» Cascos de protección frente a productos químicos,
+fuego, etc.
+» Cascos de seguridad
+(construcción, minas, obras públicas).
+» Sombreros y gorros para proteger la cabeza.
+
+› Protectores de las vías respiratorias
+» Mascarillas.
+» Equipos filtrantes.
+» Equipos respiratorios.
+» Equipos aislantes del aire libre con suministro de aire.
+» Equipos de submarinismo.
+
+› Protectores de oído
+» Tapones.
+» Protectores auditivos desechables.
+» Protectores auditivos con aparatos de intercomunicación.
+» Cascos antirruido.
+
+18
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+› Protectores de manos y brazos
+» Guantes de protección frente a infecciones, perforaciones, cortes o vibraciones.
+» Manoplas, mangas y manguitos.
+» Guantes para evitar agresiones químicas o eléctricas.
+
+› Protectores de piernas y pies
+» Calzado de seguridad o protección.
+» Protectores amovibles del empeine y suelas amovibles (antiperforación, antitranspiración, antitérmicas).
+» Rodilleras.
+» Cubre calzado contra el frío, el calor o la electricidad.
+
+› Protectores de la piel
+» Pomadas y cremas de protección.
+
+› Protectores del abdomen y el tronco
+» Chalecos salvavidas.
+» Mandiles para Rayos X.
+» Chaquetas, chalecos y mandiles de protección
+contra agresiones mecánicas y químicas.
+» Fajas y cinturones antivibraciones.
+» Cinturones de sujeción al tronco.
+
+› Protección para todo el cuerpo
+» Arneses y cinturones de sujeción.
+» Equipos de protección contra caídas de altura.
+» Ropa de protección térmica, contra agresiones
+mecánicas o químicas, infecciones o radioactividad.
+» Ropa antipolvo, antigás y accesorios de señalización
+(fluorescente, reflectante...).
+
+› Elementos que no son considerados EPI
+» Ropa de trabajo, bien sea de calle o uniformes, que
+no esté destinada específicamente a la protección
+de la salud.
+» Equipos utilizados por los servicios de salvamento
+y socorro.
+» Los EPI propios de los policías, los servicios de
+mantenimiento del orden y los militares.
+» Los EPI de los medios de transporte por carretera.
+» El material de autodefensa o disuasión y el de deporte.
+» Los aparatos portátiles que se utilizan para la señalización y/o detección de riesgos.
+
+Imagen 1. Equipos de protección Individual
+
+19
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+3.9.
+
+Señalización de seguridad
+La señalización de seguridad es una técnica de seguridad que
+ofrece indicaciones u obligaciones, dependiendo del caso
+concreto, en relación con la seguridad o la salud en el puesto
+de trabajo. Dicha señalización no elimina el riesgo, por lo que
+suele ir acompañada de la adopción de otras medidas de
+prevención y protección, según corresponda. Tampoco exime
+al empresario de la obligación de informar y formar a sus trabajadores en materia de salud y seguridad.
+Dentro de las distintas señales de seguridad encontramos las
+siguientes:
+
+› Señales auditivas:
+» Acústicas: aviso sonoro codificado que se emite
+sin intervención de voz, ni sintética ni humana. Se
+trata, por ejemplo, de sirenas o alarmas de incendio,
+evacuación o emergencias. Pueden ser continuas o
+intermitentes, dependiendo del caso.
+» Comunicación verbal: mensaje verbal a través de una
+voz humana o sintética, que suele ser predeterminado y está formado por frases simples, claras y cortas.
+
+› Señales táctiles: se utilizan en recipientes con sustancias
+
+tóxicas, en forma de rugosidades que advierten del peligro.
+
+› Señales olfativas: a determinados gases tóxicos se les
+añaden una serie de aditivos olorosos que facilitan la
+detección de un escape.
+
+› Señales ópticas:
+
+» Luminosas: si son intermitentes significa que hay
+mayor peligro.
+» Gestuales: están definidas en el Anexo VI del Real
+Decreto 485/1997, de 14 de abril, sobre disposiciones mínimas en materia de señalización de seguridad
+y salud en el trabajo.
+
+20
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+Gestos generales
+Significado
++ Comienzo
++ Atención
++ Toma de mando
+
++ Alto
++ Interrupción
++ Fin de movimiento
+
++ Fin de las operaciones
+
+Descripción
+
+Ilustración
+
+Los dos brazos extendidos de
+forma horizontal, las palmas
+de las manos hacia delante
+
+El brazo derecho extendido
+hacia arriba, la palma de la
+mano derecha hacia delante
+
+Las dos manos juntas a la
+altura del pecho
+
+Movimientos horizontales
+Significado
+
+Descripción
+
++ Izar
+
+Brazo derecho extendido hacia
+arriba, la palma de la mano
+derecha hacia adelante, describiendo lentamente un círculo
+
++ Bajar
+
+Brazo
+derecho
+extendido
+hacia abajo, palma de la mano
+derecha hacia el interior, describiendo lentamente un círculo
+
++ Distancia vertical
+
+Las manos indican la distancia
+
+Ilustración
+
+› De panel, las cuales describiremos en el siguiente apartado.
+
+21
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+3.9.1. Señales en forma de panel
+Este tipo de señales combinan colores y formas geométricas.
+Esta combinación determina tanto el tipo de señal ante la que
+nos encontramos como su significado. Deben ser visibles y de
+fácil comprensión y suelen incluir un dibujo básico o pictograma que facilita la interpretación de su significado.
+
+Significado de la señal según el color y la forma
+
+› El color rojo con un contraste blanco tiene un significado distinto según la forma:
+
+» Circular: señal de prohibición
+» Rectangular o cuadrada: lucha contra incendios,
+peligro o alarma.
+
+› El amarillo o anaranjado con contraste negro y forma
+
+Imagen 2. Señalizaciones
+
+triangular es una señal de advertencia.
+
+› Cuando la señal sea azul con contraste blanco y forma
+circular, es una obligación.
+
+› Las señales verdes con contraste blanco y forma
+
+rectangular o cuadrada hacen referencia a una situación
+de seguridad, salvamento o auxilio.
+
+Tipos de señales
+
+› Señales de obligación
+
+Imagen 3. Señales de Obligación
+
+22
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+› Señales de salvamento o auxilio
+
+Imagen 4. Señales de Salvamento o Auxilio
+
+› Señales de advertencia
+
+Imagen 5. Señales de Advertencia
+
+23
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+› Señales de prohibición
+
+Imagen 6. Señales de Prohibición
+
+› Señales de lucha contra incendios
+
+Imagen 7. Señales contra incendios
+
+24
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+3.10.
+
+Plan de autoprotección y plan
+de actuación en emergencias
+
+El Real Decreto 393/2007, de 23 de marzo por el que se
+aprueba la Norma Básica de Autoprotección de los centros,
+establecimientos y dependencias dedicados a actividades
+que puedan dar origen a situaciones de emergencia, define
+el Plan de Autoprotección como el documento que establece el marco orgánico y funcional previsto para un centro,
+establecimiento, espacio, instalación o dependencia en
+materia de prevención y control de los riesgos sobre las
+personas y los bienes.
+Este plan persigue responder adecuadamente a las posibles
+situaciones de emergencia, garantizando la integración de las
+actuaciones con el sistema público de protección civil.
+Por tanto, aborda la identificación y evaluación de los riesgos,
+las acciones y medidas necesarias para la prevención y
+control de esos riesgos y las actuaciones a adoptar en caso
+de emergencia. Debe ser actualizado y revisado, al menos,
+cada tres años y su responsable será el titular de la actividad.
+
+3.10.1. Plan de actuación en emergencias
+Dentro de las situaciones de emergencia que se puedan dar
+en una empresa, es imprescindible tener en cuenta aspectos
+como la actividad de la empresa, su tamaño o la presencia de
+personas que sean ajenas a la misma.
+Así, el Plan de Autoprotección incluirá un Plan de Actuación
+en Emergencias, que indicará cómo se debe proceder ante
+las emergencias y qué medidas de protección e intervención,
+procedimientos y secuencias de actuación se han de seguir.
+Al igual que sucede con el resto de los planes, se debe verificar
+su idoneidad de forma periódica.
+
+Organización de respuesta
+y medidas de protección e intervención
+El empresario tiene la responsabilidad de tomar todas aquellas
+medidas que se consideren necesarias para actuar ante
+cualquier emergencia que pueda surgir, ya sean incendios,
+evacuaciones o primeros auxilios. Para ello, es importante que
+la empresa disponga de una jerarquía interna de emergencia,
+con empleados formados de manera específica para tal fin y
+con acceso a todo el material que necesiten.
+
+25
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+Las responsabilidades y funciones que se suelen dar en la
+empresa se recogen en la siguiente tabla:
+Funciones y responsabilidades habituales
+Director del Plan
+de Emergencias
+
+Encargado de activar el Plan de Emergencias y de dirigir y
+coordinar la actuación de todos los intervinientes.
+
+Jefe de Intervención
+
+Dirige a los equipos de intervención e informa al director.
+
+Centro de Control
+
+Centraliza la información y da los avisos de alarma.
+
+Equipos de
+Primera Intervención (EPI)
+
+Intentan eliminar la emergencia de forma inmediata.
+
+Equipos de
+Segunda Intervención (ESI)
+
+Actúan si los EPI no pueden controlar la emergencia.
+
+Equipos de
+Alarma y Evacuación (EAE)
+
+En caso de evacuación, la dirigen y supervisan hasta que
+todo el mundo es evacuado.
+
+Equipos de
+Primeros Auxilios (EPA)
+
+Se encargan de prestar primeros auxilios, hasta la llegada
+de la asistencia médica.
+
+Equipos de Apoyo
+
+Prestan asistencia especializada a otros equipos.
+
+La Norma Básica de Autoprotección de los centros, establecimientos y dependencias dedicados a actividades que puedan
+dar origen a situaciones de emergencia, regula una serie
+de procedimientos y secuencias de actuación que pretenden garantizar la detección, alerta, intervención coordinada,
+evacuación y socorro durante la emergencia.
+La empresa debe cuidar la organización de sus relaciones
+con aquellos servicios externos a los que sea necesario acudir
+en caso de emergencia, como policía, salvamento, servicios
+sanitarios o bomberos, entre otros. Por este motivo, es necesario que el plan de emergencias tenga en cuenta la integración
+y coordinación con el sistema público de protección civil, que
+intervendrá como unidad de mando externa para socorrer a la
+empresa en caso necesario.
+En resumen, ante una situación de emergencia se seguirían
+cuatro pasos:
+Actuación ante situación de emergencia
+1
+
+2
+
+Se localiza la emergencia y se
+da la voz de alarma:
+
+Se procede a comprobar que no
+se trata de una falsa alarma. Se
+recopilan datos del lugar de los
+hechos, de lo que está ocurriendo y sobre quien informa.
+
++ Alarma Directa: una persona
+es quien la activa.
++ Alarma Automática: es
+detectada por un dispositivo.
+
+3
+Se declara la emergencia:
++ Conato de emergencia:
+los EPI la pueden controlar
+y suele afectar a una zona
+determinada de la empresa.
+
+4
+Transmisión externa y/o interna de la emergencia a través
+de sirenas, megafonía, radio,
+teléfono o a viva voz, dependiendo del caso.
+
++ Emergencia parcial: precisa de la intervención de los
+ESI y puede requerir una
+evacuación parcial
++ Emergencia general: precisa ayuda exterior y una
+evacuación total.
+
+Final de la emergencia, declarado oficialmente por el Director del Plan de Emergencias
+
+26
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+3.10.2. Plan de evacuación
+El conjunto de actuaciones destinadas a desplazar a los
+ocupantes de una determinada zona o edificio hacia un espacio
+exterior que se considere seguro es lo que se conoce como el
+Plan de Evacuación.
+Dicha evacuación debe seguir la secuencia de actuaciones
+que se indica a continuación:
+
+› Detección de la emergencia: el director del Plan de
+
+Actuación, de forma conjunta con el jefe de Intervención
+y el EPI, debe valorar la gravedad de la situación y decidir
+si es necesaria la evacuación total o parcial del lugar.
+
+› Alarma y alerta: el Centro de Control será el encargado
+
+de informar a los equipos de emergencia, los trabajadores y las unidades externas (si procede) de la situación
+de emergencia. Si se decide evacuar, la orden ha de ser
+clara y llegar a todos los afectados.
+
+› Evacuación: reducir lo máximo posible el tiempo de
+
+evacuación, pero manteniendo el orden y respetando
+siempre el procedimiento establecido. Para conseguirlo,
+es recomendable realizar al menos un simulacro al año,
+con el fin de detectar posibles fallos y mejoras. Habrá
+unos responsables que irán comprobando la completa
+evacuación de cada planta y zona.
+
+› Desalojo y finalización de la evacuación: se alcanza el
+punto de reunión en el exterior, donde los empleados se
+deben de agrupar para poder hacer recuento y comunicar si falta alguien. Se prohíbe volver al puesto de trabajo
+mientras persista el riesgo.
+
+Son principios básicos de la evacuación la rapidez, la calma,
+el orden, el control por parte de los responsables y la eficacia.
+
+27
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+3.11.
+
+Técnicas básicas
+de primeros auxilios
+
+Cuando se produce un accidente o una situación de
+emergencia, ser capaz de actuar de forma inmediata resulta
+fundamental para minimizar la gravedad de las consecuencias.
+Por este motivo, es imprescindible contar con ciertos conocimientos para intervenir ante accidentes, enfermedades súbitas
+o cualquier otra casuística similar, mientras se espera la llegada del personal sanitario especializado al lugar de los hechos.
+Tal y como indican las distintas instituciones y organizaciones
+de ámbito nacional, europeo e internacional, conviene que
+todos los ciudadanos sean capaces de actuar ante dichas
+situaciones, gracias a la adquisición de unas nociones básicas
+y primarias de primeros auxilios, que serán válidas para la
+vida real, ya sea laboral o no. Cualquier persona puede verse
+frente a la necesidad cívica y moral de actuar ante una enfermedad repentina o un accidente.
+Poseer un conocimiento básico de determinadas técnicas de
+primeros auxilios será beneficioso tanto a nivel particular
+como a nivel general, pues será de ayuda para cualquiera
+que se pudiera encontrar ante la necesidad de ayuda en un
+momento puntual.
+
+28
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+3.11.1. Protocolo de actuación
+ante una situación de emergencia
+Los pasos que se deben seguir ante una situación de emergencia son los siguientes:
+1. Mantener la calma y actuar de forma serena, pero con
+
+rapidez, tratando en todo momento de tranquilizar a la
+persona accidentada.
+
+2. Examinar el lugar rápidamente y comprobar si existen
+
+otros peligros (riesgos eléctricos, gases tóxicos…). En
+caso afirmativo, eliminarlos o, si no es posible, trasladar a
+los heridos a una zona sin peligro.
+
+3. No mover a un herido, salvo que sea estrictamente
+
+necesario para apartarlo de una amenaza. Se le trasladará
+con mucho cuidado, comprobando su estado y proporcionándole cuidados hasta que llegue la ayuda especializada.
+
+4. Atender primero a aquellos que se encuentren más
+
+graves. Hay que examinar a los accidentados de forma
+detallada para determinarlo (consciencia, respiración,
+pulso, hemorragias, heridas, fracturas…).
+
+5. Ante una víctima que no responde, se debe solicitar
+
+ayuda y abrir las vías aéreas. Si aun así no respira, avisar
+inmediatamente a Emergencias (112).
+
+6. No hacer más que lo imprescindible (cuidados simples)
+
+hasta que lleguen los servicios médicos.
+
+7. Intentar mantener caliente al accidentado, tapándolo
+
+con abrigos o mantas.
+
+8. Si se producen vómitos, poner la cabeza de lado para
+
+evitar que penetren en el aparato respiratorio.
+
+9. No dar nada de beber a una persona aparentemente
+
+inconsciente, ya que podría ahogarse.
+
+10. No dejar solo al accidentado, salvo que otra persona
+
+más grave requiera de ayuda.
+
+11. Intentar evitar lo que se conoce como shock, caracteri-
+
+zado por una caída de la presión arterial que dificulta la
+circulación de la sangre y su oxigenación. En este caso,
+además de abrigar al afectado para evitar que pierda
+temperatura, habrá que mantenerle en posición horizontal, decúbito supino. Si no hay pulso, iniciar la reanimación
+cardiorrespiratoria de inmediato.
+
+Es importante que el empresario adopte las medidas
+oportunas en materia de
+primeros auxilios, formando e
+informando a los trabajadores
+y designando, en su caso, a un
+socorrista laboral voluntario.
+
+3.11.2. El botiquín
+Todas las empresas deben contar con un botiquín portátil. En
+los centros de trabajo de más de 50 trabajadores (o más de 25
+que realicen trabajos peligrosos) ubicados en un lugar en el
+que sea complicado llegar a un centro de asistencia, se contará también con una camilla y una fuente de agua potable.
+El botiquín debe contener los materiales básicos: desinfectantes, antisépticos, gasas estériles, vendas, pinzas, guantes
+desechables, tijeras, esparadrapos, gel hidroalcohólico, termómetro, tiritas o bolsa de frío, entre otros. Todos estos elementos
+deben estar ordenados y etiquetados y se revisarán de forma
+periódica para sustituir los que caduquen y reponer los que
+escaseen. También se aconseja incluir en el botiquín un listado
+con los teléfonos de urgencias más cercanos.
+
+29
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+3.11.3. Proteger, Avisar y Socorrer (PAS):
+las tres claves de los primeros auxilios
+Una vez desarrollado el protocolo inicial, para realizar una correcta actuación en la aplicación de los primeros auxilios y proceder
+en el orden adecuado, es importante conocer en qué consiste la
+conducta PAS¸ que corresponde a las siglas de los tres principios
+básicos que rigen ante cualquier situación de auxilio:
+
+› Proteger: tanto el accidentado como a la propia persona
+
+que lo está auxiliando deben evitar la fuente de peligro.
+Es necesario señalizar la zona del accidente, identificar la
+fuente del peligro y eliminar las posibles amenazas, No se
+moverá al accidentado, salvo que sea imprescindible para
+protegerle, supuesto en el que será prioritario mantener
+recto el eje cabeza-cuello-tronco durante el traslado.
+
+› Avisar: tras completar las medidas de protección, lo
+
+siguiente es alertar a los servicios de emergencia (112) y
+facilitarles la información de lo sucedido de forma clara,
+además de aportar detalles del estado del accidentado y del lugar exacto donde deben acudir. La precisión
+de los datos facilitados a los servicios de emergencia
+puede influir en las consecuencias finales del accidente.
+
+› Socorrer: por último, se procede a la atención directa de
+
+la persona accidentada. En una primera actuación
+rápida y dinámica, se lleva a cabo una valoración inicial
+de su estado de consciencia, respiración y pulso y se
+comprueba si tiene alguna hemorragia visible, heridas o
+fracturas de gravedad. En cualquier caso, se transmitirá
+al accidentado calma y tranquilidad, informándole en
+todo momento de los pasos que se siguen para ayudarle
+y de que ya se ha avisado a los servicios sanitarios.
+
+Claves de los primeros auxilios
+
+P A S
+P
+
+Proteger
+
+A
+
+Avisar
+
+S
+
+Socorrer
+
+1. Tú mismo.
+
+Llama al 112:
+
+Valoración 1ª:
+
+2. El entorno.
+
++ Informa sobre el estado
+del accidentado.
+
++ Conciencia y respiración
+(RCP si preciso).
+
++ Informa sobre el lugar
+exacto.
+
+Valoración 2ª:
+
+3. Al accidentado.
+
++ No cuelgues hasta que
+te lo indiquen.
+
++ Cabeza, tronco y extremidades.
++ No mover si es posible.
+
+30
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+Atendiendo a lo expuesto por el European Resuscitation
+Council (ERC 2021), es recomendable mantener una mínima
+oxigenación de los órganos vitales, mediante un conjunto de
+auxilios básicos conocido como Soporte Vital Básico.
+
+Protocolo PAS
+(Proteger, Avisar
+y Socorrer)
+
+Avisar al 112
+Valorar consciencia (sacudir, gritar)
+
+Con respuesta
+
+Sin respuesta
+
+Comprobar respiración (OVACE)
+
+Valorar la respiración
+(10 s ver, oir, sentir)
+
+Valoración secundaria
+
+Respira
+PLS
+
+No respira
+R.C.P.
++ 30 compresiones
++ 2 ventilaciones
+
+Imagen 8. Valoración primaria dentro del PAS
+
+Al valorar el estado de consciencia, se comprobarán los signos
+vitales y la respuesta de la víctima a estímulos, sacudiéndola
+de forma suave por los hombros y preguntándole con un tono
+elevado de voz cómo se encuentra o qué ha sucedido:
+
+› Si responde, a través de movimientos y/ o palabras, se
+
+le deja en la posición en la que está (siempre que no se
+exponga a mayores peligros) y se intenta concretar cuál
+es su estado y sus dolencias, para informar al 112.
+
+› Si no responde, se efectuarán estímulos más intensos
+e incluso dolorosos. Si continúa sin responder, convendremos que la víctima se encuentra inconsciente y se
+solicitará ayuda, sin abandonarla.
+
+Al comprobar la respiración, se pueden dar dos situaciones:
+
+› Si respira con normalidad, se controlarán otras lesiones
+
+y se le colocará en posición de recuperación o posición
+lateral de seguridad (PLS), siempre que no haya sufrido traumatismos (no se podría mover a los heridos salvo
+que se expongan a peligros mayores). A continuación,
+se pide asistencia médica y se vigila regularmente el
+estado de la respiración y de la persona en sí.
+
+› Si no respira con normalidad, se pedirá ayuda, aunque
+
+si no hay nadie cerca habrá que llamar al servicio de
+emergencia sin apartarse de la víctima. Seguidamente, se comenzará con las maniobras de recuperación
+cardiopulmonar.
+
+31
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+Durante la comprobación de la ventilación, se verifica que no
+existan cuerpos extraños en el conducto de respiración. Si
+existe una obstrucción, se aplica el protocolo de actuación
+en caso de obstrucción de la vía aérea por cuerpo extraño
+(OVACE), conocido como maniobra de Heimlich. Esta técnica
+de desobstrucción de la vía aérea consiste en realizar cinco
+compresiones abdominales para empujar el cuerpo extraño
+hacia la tráquea y la boca, provocando su expulsión. La maniobra comienza con cinco golpes interescapulares, seguidos
+de las cinco compresiones abdominales (Heimlich).
+Las compresiones se realizan en la boca del estómago, con un
+movimiento de presión hacia dentro y hacia arriba que desplace
+el diafragma. Este desplazamiento comprime los pulmones y
+aumenta la presión del aire que se encuentra en las vías respiratorias, es decir, simula una tos artificial cuando el paciente ya no
+puede respirar.
+
+Imagen 9. Maniobra de Heimlich
+
+A TENER EN CUENTA
++ En niños, podremos colocarnos de rodillas, a la altura del niño,
+para hacer la maniobra de forma efectiva y cómoda.
++ En mujeres embarazas o personas muy obesas, las compresiones serán torácicas y no abdominales
++ En lactantes, las compresiones son torácicas, sujetando la cabeza
+del bebé con nuestra mano y apoyado en nuestro antebrazo.
+
+32
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+Si la víctima se encuentra inconsciente y no respira, se
+comienza con la maniobra de reanimación cardio pulmonar,
+más conocida como RCP, siguiendo los pasos que se detallan
+a continuación:
+
+› Arrodillarse junto al paciente y colocarlo en posición
+decúbito supino (boca arriba).
+
+› Para evitar la hipoxia, utilizar una cánula de Guedel de
+
+instalación bucofaríngea, que levante la base de la
+lengua (si se dispone de ella).
+
+› Abrir la vía aérea con la maniobra frente mentón cada
+vez que se insufle aire.
+
+› Proceder al masaje cardiopulmonar.
+Imagen 10. Maniobra frente-mentón
+
+Imagen 11. RCP en Adultos
+
+33
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+Masaje cardiado - RCP
+1. De rodillas, junto al paciente colocado en decúbi-
+
+to supino, se posiciona el talón de una mano sobre el
+punto de presión, en la mitad inferior del esternón (apófisis xifoides). El talón de la otra mano irá sobre la primera,
+entrelazando los dedos de ambas.
+
+2. Mantener los brazos rectos y utilizar el propio peso
+
+corporal para hacer la compresión.
+
+3. Presionar el esternón hacia abajo, con la fuerza necesa-
+
+ria para desplazarlo de 5 a 6 centímetros, a un ritmo de
+100 compresiones por minuto.
+
+4. Combinar las compresiones con las insuflaciones, boca
+
+a boca o boca a boca-nariz en bebés.
+
+5. Mantener un ritmo de 30 compresiones torácicas y
+
+2 insuflaciones. Se aconseja cambiar de reanimador
+cada dos minutos, ya que es una técnica agotadora. Si
+no se consigue ventilar, no se pierde tiempo y se pasa a
+efectuar compresiones torácicas.
+
+Imagen 12. Colocación de las manos
+para el masaje cardiaco externo
+
+Las maniobras de reanimación continuarán hasta que llegue la
+ayuda, hasta el agotamiento o hasta que la víctima se recupere. En este último caso, la colocaremos en PLS, reevaluando
+continuamente su estado. Como se mencionaba con anterioridad, este tipo de acciones que se realizan sin ningún tipo de
+equipamiento son conocidas como Soporte Vital Básico (SVB).
+
+RCP en niños
+Es muy común que los niños menores de un año sufran episodios de asfixia por atragantamiento, por lo que es de vital
+importancia conocer cómo actuar para salvar su vida.
+Si el niño está inconsciente, se comprueba la respiración y la
+circulación y si no tiene signos de vida, se comienza la reanimación con cinco insuflaciones de rescate, seguidas de quince
+compresiones torácicas más dos ventilaciones, hasta que
+lleguen los servicios de emergencia. En personal lego se
+recomiendan ciclos de 30:2. Las compresiones se podrán
+realizar con una o dos manos, dependiendo del cuerpo del
+niño y la fuerza del reanimador.
+
+Imagen 13. Colocación de las manos para
+el masaje cardiaco externo. Brazos rectos
+
+Imagen 14. RCP en niños
+
+34
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+La Posición Lateral de Seguridad o PLS
+La posición lateral de seguridad (PLS) tiene como objetivo que
+la persona no se atragante con los fluidos que necesite arrojar
+por la boca. En la imagen se muestra cómo ejecutarla:
+Tal y como se observa, la persona que está ayudando sitúa el
+brazo más próximo de la víctima en ángulo recto con el cuerpo,
+con el codo doblado y la palma de la mano hacia arriba. A continuación, hay que traer el brazo que se encuentra más alejado
+cruzando por encima del tórax, apoyando la mejilla del lado
+contrario sobre el dorso de esa mano. Después, se debe agarrar
+la pierna más alejada y ponerla justo por encima de la rodilla,
+levantándola y manteniendo el pie apoyado en el suelo para
+poder girar el cuerpo, hasta que finalmente quede de lado.
+
+3.11.4. Clasificación de los heridos
+Dependiendo de las circunstancias, puede ocurrir que la actuación de socorro sea demandada por varias personas de forma
+simultánea, lo que requiere un primer análisis de la situación
+para realizar lo que se conoce como triaje. Este término, de
+origen francés, hace referencia a una técnica en la cual se
+realiza una rápida clasificación de los heridos para garantizar
+la supervivencia del mayor número de ellos, en función de la
+prioridad de atención que requiera cada uno.
+A través del triaje, se pretende atender en el menor tiempo
+posible al mayor número de víctimas implicadas en el suceso,
+mediante maniobras imprescindibles y sencillas, hasta que
+lleguen refuerzos y/o asistencia sanitaria especializada. Se
+suelen utilizar cartulinas de diferentes colores que identifiquen,
+agrupen y asignen una prioridad de atención a las personas,
+basadas en el código internacional de colores:
+
+Imagen 15. Posición Lateral de Seguridad (PLS)
+
+Triaje.
+Código internacional de colores
+ROJO
+
+AMARILLO
+
+Representa la
+MÁXIMA PRIORIDAD.
+El herido precisa para su
+supervivencia, una atención
+médica de forma inmediata.
+Se trataría del caso por
+ejemplo de personas con
+hemorragias severas o quemaduras graves entre otras.
+
+Los heridos precisan de cuidados pero su superviviencia no
+depende de ellos, no obstante
+precisan de una evacuación
+para una mejor atención.
+En este caso es importante
+estabilizar al accidentado.
+
+VERDE
+
+NEGRO
+
+Los accidentados son capaces
+de valerse por sí mismos, por
+lo que en el caso de tener
+heridas o síntomas éstos son
+leves y tras una exploración
+médica pueden continuar con
+sus tareas.
+
+Personas
+FALLECIDAS
+
+35
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+La identificación de las víctimas mediante tarjetas de triaje
+permite garantizar que tengan un cuidado continuado, según
+su situación y grado de prioridad. Están diseñadas de tal forma
+que la parte inferior quede precortada con cuatro o cinco
+bandas con los códigos que indican la clasificación del paciente. Los colores están ordenados de la situación menos grave a
+la más grave, de abajo hacia arriba, para ir cortando en función
+de la gravedad de la víctima.
+Los métodos de triaje siguen protocolos que hacen que esta
+actividad la pueda realizar personal no sanitario, como bomberos, protección civil, socorristas, etc. Uno de los más utilizados
+es el Método SHORT:
+
+› S: Sale caminando
+› H: Habla sin dificultad
+› O: Obedece órdenes
+› R: Respira
+› T: Taponar heridas
+También es muy utilizado el método START:
+
+START
+SÍ
+
+¿Camina?
+NO
+Abrir vía
+aérea
+
+¿Respira?
+
+NO RESPIRA
+
+SÍ
+SÍ RESPIRA
+SÍ
+
+NO
+SÍ
+CONTROL DE HEMORRAGIAS
+NO
+
+Obedece
+órdenes
+sencillas
+
+NO
+Imagen 16. Modelo tarjeta triaje
+
+SÍ
+Imagen 17. Método START de triaje
+
+36
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+3.11.5. Técnicas de primeros auxilios
+en función de las lesiones
+Heridas
+En las heridas se produce una rotura de la piel, lo cual aumenta
+notablemente el riesgo de infección, al ser una vía de entrada al
+interior de nuestro cuerpo. A la hora de evaluar su gravedad, se
+tienen en cuenta seis aspectos:
++ Profundidad.
+
+Utilizando estos criterios podemos establecer dos clases de
+heridas, leves y graves.
+Características de las heridas
+Tipo de
+herida
+
+Características
+
++ Extensión.
++ Localización.
++ Sangrado o hemorragia.
++ Órganos afectados.
++ Combinación de los factores anteriores.
+
++ Poca extensión
++ Poca profundidad
+Leve
+
++ No afecta a estructuras u órganos internos
++ No está infectada
++ No contiene cuerpos extraños
++ Extensión severa
++ Profundidad importante
+
+Grave
+
++ Contaminación del objeto causante
++ Hemorragia que puede derivar en shock hipovolémico
+
+Sin embargo, existen otras maneras de clasificar las heridas. Es
+muy común la que viene dada por la forma y el aspecto que
+presentan:
+
+› Incisas: tienen bordes limpios y bien definidos. Normalmente están producidas por objetos cortantes afilados.
+
+› Contusas: los bordes son irregulares y presentan contu-
+
+siones en la zona afectada. Se producen comúnmente
+por impactos con objetos contundentes.
+
+› Punzantes: tienen poca extensión, pero una profundidad
+considerable. Pueden ser difíciles de desinfectar.
+
+› Laceradas: tienen una forma característica, producida
+por bordes dentados o irregulares, pero afilados. Son
+heridas que se infectan con facilidad.
+
+› Abrasiones: se producen por rozamiento, teniendo gran
+superficie en relación con su profundidad.
+
+› Desgarros: se produce una pérdida de superficie dérmica, como en mordeduras.
+
+› Avulsión: desgarro parcial o completo de la piel y
+destrucción del tejido debajo de ella. Presenta bordes
+irregulares y es sangrante e infecciosa.
+
+› Amputación: herida que separa una extremidad.
+
+Imagen 18. Algunos tipos de herida.
+
+37
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+Heridas leves
+En el caso de este tipo de herida, el primer paso es desinfectarla limpiándola con agua y jabón o suero fisiológico, siempre
+desde dentro de la herida hacia afuera. Una vez limpia, se
+aplica un antiséptico incoloro (clorhexidina) que permita observar si existe alguna posible infección. No son recomendables el
+alcohol o el agua oxigenada, por su efecto irritante.
+Si el ambiente no está sucio o contaminado, se dejará la herida
+descubierta para favorecer el proceso de cicatrización. En caso
+contrario, se debe tapar con una gasa sujeta con esparadrapo
+para reducir el riesgo de infección.
+
+Heridas graves
+Este tipo de heridas llegan a tejidos internos y pueden afectar
+a órganos clave, por lo que su tratamiento debe ser más cuidadoso y su tratamiento requiere atención especializada. En esta
+circunstancia, se comienza con la búsqueda de los puntos más
+dolorosos de la herida y los síntomas de fracturas, hemorragias o contusiones, para actuar de la manera más adecuada en
+función de la situación concreta que presente la víctima.
+El protocolo de actuación general en heridas graves será el
+siguiente:
+
+› Avisar a los servicios de emergencias.
+› Retirar la ropa que pueda obstaculizar el acceso a la herida.
+› Localizar la hemorragia y detenerla, aplicando presión
+directa sobre la zona con gasas o compresas estériles.
+
+› Si las gasas se empapan de sangre no se retiran, sino que
+
+se colocan las nuevas por encima (si se retiran las gasas
+arrastraríamos los primeros coágulos que se forman al
+taponar la herida).
+
+› Si la hemorragia está controlada, se retiran las manos y
+se aplica un vendaje compresivo.
+
+› Si la compresión directa no es efectiva o practicable,
+se aplicará un torniquete en extremidades y un agente
+hemostático tópico con presión directa en zonas donde
+no se pueda aplicar torniquete.
+
+› Una vez controlada la hemorragia, colocar a la persona
+afectada en la posición más cómoda posible.
+
+› Comprobar qué órganos pueden verse afectados.
+› Nunca extraer objetos clavados, sino asegurarlos en
+
+posición fija para evitar hemorragias y daños mayores en
+otras estructuras.
+
+› Esperar a la llegada de los servicios de emergencias.
+
+RECUERDA QUE…
+En el tratamiento de heridas no
+se debe:
++ Desinfectar con alcohol.
++ Usar algodón u otros tejidos que
+desprendan fibras.
++ Aplicar pomadas,
+remedios caseros.
+
+cremas
+
+o
+
++ Retirar el primer apósito.
++ Retirar cuerpos extraños enclavados.
++ Manipular la herida.
+
+38
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+Algunos manuales aún mencionan dos pasos más para
+detener una hemorragia severa en un miembro: la elevación
+del miembro y la presión arterial directa, como paso previo a
+la aplicación del torniquete. La mayoría de las nuevas guías
+los han suprimido porque no existen suficientes evidencias
+sobre su efectividad cuando se trata de hemorragias severas
+que amenazan la vida. No obstante, para hemorragias menos
+graves y que no son potencialmente mortales, sí que se
+podrían aplicar, ya que pueden ayudar a detener la hemorragia.
+El protocolo sería como se indica en el diagrama:
+
+En cualquier caso, si la hemorragia se localiza en un brazo o
+en una pierna y se sospecha de una posible fractura ósea, no
+se elevará el miembro afectado en ningún caso, dado que la
+aplicación de esta maniobra puede causar que una fractura cerrada se convierta en abierta o provocar un aumento de
+la hemorragia interna. Es preferible mantener al paciente en
+decúbito supino.
+Con respecto a la compresión directa sobre la arteria que lleva
+la sangre a la zona lesionada, se hará siempre en un plano duro,
+hueso o músculo principal de la zona, por encima de la herida
+y en los mismos puntos de palpación de pulso. Con ello, se
+reducirá el flujo de sangre que llega a la herida. Es importante saber que las zonas de comprensión arterial se encuentran
+en el cuello (sobre la arteria carótida), la cara interna del brazo
+(arteria humeral), la zona radial de la muñeca (arteria radial) y
+en el muslo (donde se encuentra el triángulo de Scarpa y la
+arteria femoral).
+
+39
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+Quemaduras
+Las quemaduras son lesiones que se producen por la sobreexposición de calor sobre los tejidos del cuerpo humano. Se
+clasifican en tres categorías:
+Ante un accidentado con quemaduras, lo primero es alejarlo
+de la fuente de calor e intentar establecer el tipo de quemadura que presenta. En caso de duda, se tratará como una
+quemadura grave y se llamará al número de emergencias 112.
+Si el herido está ardiendo, hay que cubrirlo con una manta y/o
+conseguir que ruede por el suelo (evitar que corra para que no
+avive las llamas). Salvo que la ropa se encontrara impregnada
+en líquido inflamable o algún producto químico, no hay que
+quitársela. En grandes quemaduras, solo se retirará aquella
+ropa que no esté pegada y se cubrirá a la víctima con un abrigo
+o manta para evitar la hipotermia.
+Para quemaduras leves, es importante que se lave la zona
+afectada con agua templada y limpia durante 10 minutos, aproximadamente. Después, se cubre con un pañuelo limpio o gasas
+estériles (empapadas con suero fisiológico, si es posible). Hay que
+tratar al accidentado con mucho cuidado para que no se rompan
+las ampollas y nunca se usará alcohol, algodón o agua oxigenada.
+Si se forman ampollas y están rotas, se tapan con apósitos estériles para evitar que se infecten, pero no se aplican cremas.
+
+Clasificación de las quemaduras
+
+Primer Grado
+Afectan a las capas más superficiales de la piel. Suelen presentar
+enrojecimiento
+
+Segundo Grado
+Producen ampollas con un líquido
+amarillento y pueden afectar a la
+dermis y la hipodermis.
+
+Tercer Grado
+Pueden llegar a causar daño tanto
+a los nervios como a los músculos y el tejido graso. En este caso,
+producen una destrucción total de la
+epidermis, la dermis y la hipodermis,
+así como necrosis de las glándulas
+sudoríparas y los folículos pilosos.
+
+En el caso de las quemaduras graves, se debe trasladar de
+forma urgente a un centro sanitario para recibir atención de
+personal especializado. Mientras, la aplicación de primeros
+auxilios consistirá en:
+
+› Neutralizar el agente causante del daño (llama, electricidad, químicos, etc.).
+
+› Pedir ayuda llamando al 112.
+› Si la ropa está en llamas, tapar a la víctima con una manta
+o hacerla rodar por el suelo hasta que se apague.
+
+› Retirar la ropa que no esté pegada a la piel de la víctima.
+› No dar comida ni bebida al accidentado.
+› Retirar anillos, pulseras y relojes que puedan comprimir
+o conservar el calor.
+
+› No aplicar antisépticos, medicamentos, cremas, aceites,
+hielo ni ningún remedio casero.
+
+› En las quemaduras por productos químicos, aplicar
+abundante agua en la quemadura durante 20-30
+minutos, sin salpicar otras partes del cuerpo.
+
+› No tocar las ampollas de las quemaduras.
+› Tapar con apósitos estériles las zonas quemadas para
+evitar que se infecten.
+
+› Controlar signos vitales, comprobar que la persona está
+respirando y, si fuera necesario, comenzar las maniobras
+de resucitación cardiopulmonar.
+
+› Prevenir el shock. Si la persona no tiene lesiones en
+cuello, cabeza, espalda o piernas, se le colocará en
+decúbito supino, elevando la parte del cuerpo quemada
+por encima del nivel del corazón, y se le cubrirá con una
+manta o un abrigo.
+
+40
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+Hemorragias
+Una hemorragia supone la salida de sangre fuera del sistema
+circulatorio. bien sea hacia el exterior del organismo o hacia
+las cavidades del cuerpo, no pudiendo volver a su recorrido
+natural. Los signos y síntomas de una hemorragia van a depender de su gravedad, pero los más frecuentes son palidez,
+sudor, pulso rápido y débil, hipotensión, alteración del nivel de
+consciencia y aumento de la frecuencia respiratoria.
+La forma en la que se manifiesta una hemorragia varía según
+la velocidad y la cantidad de sangrado y de la edad y/o
+patologías previas del herido. Algunos medicamentos como
+los anticoagulantes (heparina) y los trastornos hemorrágicos,
+como la hemofilia, aumentan la gravedad de la hemorragia.
+Una primera clasificación de las hemorragias hace referencia
+al tipo de vaso sanguíneo del que proceden:
+
+Imagen 19. Tipos de hemorragia en función del vaso sanguíneo de procedencia.
+
+41
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+Más allá de esta primera clasificación, a la hora de tratar las
+hemorragias es más práctico diferenciar entre internas, externas e internas exteriorizadas:
+
+› Internas: la sangre no sale al exterior y se considera muy
+grave. Es necesario mantener al accidentado quieto,
+en decúbito supino y vigilando sus signos vitales. Se
+pueden aplicar paños de agua fría sobre la zona afectada mientras acuden los servicios sanitarios Es importante
+no dar de beber al afectado, protegerlo del frio o el calor
+y retirar las prendas que opriman su cuerpo.
+
+› Externas: la sangre sale al exterior a través de una
+
+herida que se encuentra abierta. Se tapona la zona con
+un apósito limpio y se presiona para tratar de detener
+la hemorragia. Si no funciona, se realiza una compresión arterial para intentar cortar la circulación de la
+zona. Como último recurso, se hace un torniquete en
+miembros, empaquetamiento en zonas de no torniquete y parches sellados en tórax y abdomen (protocolo de
+actuación general en heridas graves).
+
+› Exteriorizadas: se caracterizan por ser internas, pero
+
+con salidas de sangre de manera secundaria a través de
+orificios naturales (oído, nariz, boca, vagina, ano, etc.). Las
+hemorragias exteriorizadas más comunes son:
+» Epistaxis (sangrado por la nariz): es muy frecuente y
+tiene causas diversas, desde traumatismos a presión
+sanguínea elevada. Para tratarlas se presiona el orificio nasal contra el tabique nasal, con el paciente
+sentado levemente inclinado hacia adelante, hasta
+que el sangrado cese.
+» Otorragia (sangrado por el oído): no se tapona el
+oído, sino que se coloca a la víctima en PLS sobre el
+oído sangrante, con una gasa o apósito estéril debajo
+del oído para que vaya absorbiendo la sangre. No
+se extraerá ningún cuerpo extraño y, si se sospecha
+que la hemorragia tiene su origen en un traumatismo craneoencefálico, no se moverá al afectado
+hasta la llegada de los servicios de emergencia.
+» Hemoptisis (salida de sangre por la boca procedente de las vías respiratorias): se produce por lesiones
+en las vías respiratorias, apreciándose sangre disuelta en la saliva o expulsada mediante toses. Se dejará
+al paciente en posición decúbito supino semisentado, sin darle de comer ni de beber y controlando
+constantemente su estado.
+» Hematemesis (salida de sangre por la boca procedente del tracto digestivo): vómito de sangre con
+restos digestivos, como manifestación de una
+hemorragia procedente del aparato digestivo. El
+color de la sangre es rojo oscuro o café. Se dejará
+al afectado en PLS o decúbito supino con piernas
+flexionadas. No se le dará de comer ni de beber y se
+controlará constantemente su estado.
+
+42
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+Torniquete
+Un torniquete es un dispositivo quirúrgico que se utiliza para
+evitar o contener la hemorragia en operaciones y heridas en
+las extremidades. Es un método simple y eficaz para controlar de forma aguda la hemorragia. No obstante, solo se utiliza
+cuando han fracasado todas las medidas anteriores para intentar detener la hemorragia profusa en la extremidad.
+Como excepción, en las amputaciones sí podrá ser la primera opción. Las amputaciones son cortes o interrupciones
+parciales de una o más estructuras anatómicas mediante un
+traumatismo o cirugía. Cuando esta interrupción se produce de
+manera irregular, quedando colgajos, se denomina avulsión.
+Las amputaciones traumáticas se producen como consecuencia de accidentes de tráfico, accidentes laborales o
+congelaciones, entre otros. Cuando las amputaciones se realizan por métodos quirúrgicos, siempre es debido a que no
+existe otra opción y conservar el miembro supone un riesgo
+para la vida de la persona
+En resumen, el torniquete solo está indicado en caso de:
+
+Imagen 1. Torniquete
+
+1. Amputación de un miembro.
+2. Aplastamiento de un miembro (antes de liberarlo para
+
+evitar el sangrado).
+
+3. Sangrado que amenaza la vida del paciente.
+4. Sangrados múltiples en diferentes áreas.
+5. Fallo de hemostasia en las técnicas tomadas anterior-
+
+mente.
+
+El protocolo para colocar un torniquete es el siguiente:
+1. Si no se dispone de torniquete comercial, se usará un
+
+material blando, ancho y no cortante. Se colocará al
+menos 5 centímetros por encima de la herida (nunca
+sobre el codo o la rodilla).
+
+2. Enrollar y anudar el vendaje blando en el miembro.
+3. Dar vueltas alrededor del miembro y sujetarlo con un
+
+nudo. Encima de este nudo se sitúa un objeto duro, tipo
+barra, sujeto con varios nudos.
+
+4. Girar el objeto hasta que deje de salir sangre por la
+
+herida. Se aplicará la presión que sea necesaria para
+detener la hemorragia, hasta que desaparezca el pulso
+distal Si resultase inefectivo, se puede aplicar otro torniquete por encima y próximo al primero.
+
+5. Colocar un tensor y dejarlo fijo para que no se afloje el
+
+torniquete.
+
+6. Anotar la hora y la zona en la que se ha colocado el torni-
+
+quete. El tiempo máximo de aplicación se fija en 2 horas,
+pero hay experiencias militares en las que se han salvado miembros después de 6 horas con un torniquete
+
+7. Comprobar el pulso de la extremidad.
+8. Trasladar a la víctima tumbada, con el torniquete a la
+
+vista, y no aflojarlo hasta la llegada al centro sanitario.
+
+43
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+Fracturas
+Una fractura, supone una rotura del hueso, ya sea completa o
+incompleta. Diferenciamos dos tipos:
+
+› Fracturas abiertas: aquellas que presentan una herida,
+lo que conlleva un riesgo de infección.
+
+› Fracturas cerradas: no hay herida y la piel se encuen-
+
+tra intacta. Se debe tener mucha precaución si hay que
+mover al accidentado, ya que pueden existir fragmentos de huesos puntiagudos que atraviesen el músculo o
+dañen algún vaso sanguíneo.
+
+Ante una fractura, lo primero es tranquilizar a la persona
+accidentada e inmovilizar la zona afectada. A partir de ahí, se
+debe avisar a los servicios sanitarios para evacuar al accidentado a un centro hospitalario, donde realicen el diagnóstico y
+tratamiento adecuado, según el criterio del personal especializado. También se protegerá térmicamente al accidentado para
+evitar la hipotermia.
+En fracturas abiertas, se lavará la herida a chorro con agua o
+suero fisiológico (preferiblemente), siempre hacia fuera para
+arrastrar todo lo que pueda contaminarla. Se cubrirá con un
+material limpio (sin hacer presión) y nunca se intentará reducir
+la fractura.
+Para realizar las inmovilizaciones hay que tener en cuenta la
+ubicación de la fractura:
+
+› Fractura de mano: colocar la mano encima de una tabli-
+
+lla o similar que sobresalga de la muñeca, poniendo el
+brazo en cabestrillo. Intentar mantener la mano alineada.
+
+› Fractura de hombro: sujetar el brazo contra el tórax con
+el cabestrillo.
+
+› Fractura de brazo: inmovilizar el hombro y el codo con
+cabestrillo. En este caso, la función de férula la realiza
+el tórax.
+
+› Fractura de codo: intentar mantener la misma posición
+del codo. Si está flexionado, se empleará un cabestrillo,
+y si está extendido, una férula.
+
+› Fractura de vértebras: mantener al accidentado tumba-
+
+do sobre su espalda e intentar no moverlo hasta la
+llegada de los servicios de emergencia.
+
+› Fractura de cráneo: si se sospecha de lesión medular,
+procurar no mover al herido hasta la llegada de los servicios de emergencia. Si no, ponerlo en PLS.
+
+› Fractura de pierna y rodilla: inmovilizar bloqueando con
+férulas o elementos de fortuna desde la rodilla a tobillo.
+
+44
+
+Itinerario personal para la empleabilidad I | UNIDAD 3
+Medidas de prevención y protección en la empresa
+
+45
+
+

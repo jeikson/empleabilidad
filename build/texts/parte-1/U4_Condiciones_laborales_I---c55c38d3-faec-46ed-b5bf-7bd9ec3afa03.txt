@@ -1,0 +1,1237 @@
+Unidad 4
+
+Condiciones
+laborales I
+Itinerario personal
+para la empleabilidad I
+
+Índice
+4.1.
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+
+El Derecho del trabajo: fuentes y principios
+
+4.2. Análisis y requisitos de la relación laboral individual
+4.3. Derechos y deberes derivados de la relación laboral
+4.4. La Inspección de Trabajo y la jurisdicción social
+4.5. Representación de los trabajadores: unitaria y sindical
+4.5.1. La representación colectiva unitaria
+4.5.2. La representación colectiva sindical
+
+4.6. El convenio colectivo
+4.6.1. Contenido del convenio
+4.6.2. La negociación de los convenios colectivos
+4.6.3. Los conflictos laborales
+
+Condiciones laborales I
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+Introducción
+Durante esta unidad se desarrollarán los conceptos básicos del
+Derecho laboral, incidiendo en sus fuentes y características y
+en los efectos que genera en las relaciones laborales. Hay que
+tener en consideración que el Estatuto de los Trabajadores
+considera como relación laboral ordinaria a la que reúne cinco
+características: voluntaria, por cuenta ajena, remunerada, personalista y dependiente.
+También se abordará la normativa y estructura que caracteriza
+a los representantes legales de los trabajadores, donde será
+fundamental identificar las diferentes formas de representación
+colectiva, los órganos que tienen capacidad para negociar un
+convenio colectivo y las consecuencias que emanan de este
+proceso. Con respecto a dichas consecuencias, los conflictos
+laborales ocuparán una posición preminente, dado el impacto
+que pueden causar en el entorno laboral, sea cual sea el nivel al
+que se produzcan.
+
+Al finalizar esta unidad
++ Comprenderemos la importancia del derecho laboral, sus
+fuentes y principios.
+
++ Analizaremos la relación laboral individual.
++ Conoceremos los derechos y deberes que se derivan de la
+relación laboral.
+
++ Analizaremos el concepto de contrato de trabajo, así como
+la capacidad para contratar
+
++ Comprenderemos las funciones principales de la Inspección
+de Trabajo y la jurisdicción social.
+
++ Distinguiremos las formas de representación colectiva en la
+empresa.
+
+3
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+4.1.
+
+El Derecho del trabajo:
+fuentes y principios
+El Derecho del trabajo o laboral es una rama del Derecho que
+tiene como misión regular todo lo concerniente a las relaciones
+laborales, es decir, el modo en el que se vinculan trabajadores
+y empleadores durante todo el proceso que conlleva el trabajo. Aunque el trabajo es inherente a las personas y se ha dado
+desde el principio de los tiempos, el Derecho del trabajo no
+surgiría hasta el siglo XIX, derivado de las problemáticas provocadas por la Revolución Industrial.
+Las sociedades occidentales vieron como la industrialización
+masiva se cimentó sobre la imposición de condiciones de
+trabajo abusivas y peligrosas para los trabajadores. La explotación de la masa obrera mediante jornadas interminables
+(hasta 18 horas) y salarios ínfimos, que afectó especialmente
+a mujeres y niños, trajo consigo también altas tasas de mortalidad entre la población trabajadora y accidentalidad en las
+fábricas. La combinación de todos estos factores fue generando, de manera progresiva, una conciencia obrera en la que el
+proletariado industrial se identificó como una clase social y
+comenzó a organizarse para reivindicar la mejora de su situación. Es así como se inicia el movimiento obrero.
+Su reclamación de instrumentos políticos y legales que permitiesen cambiar su situación socioeconómica fue perseguida
+y criminalizada en primera instancia; incluso la huelga llegó
+a considerarse un delito. Fueron necesarios años de revueltas y protestas, que incluyeron acciones violentas, sabotajes
+y destrucción de medios de producción, para que el proletariado lograra doblegar el orden establecido por la burguesía
+industrial. Los trabajadores fueron consiguiendo que se
+establecieran leyes para su protección, con el fin de dignificar
+sus condiciones de trabajo, dando origen al derecho laboral.
+En España, este camino se iniciaría con la huelga industrial de
+julio de 1855, la primera de este tipo que se convocó en nuestro
+país. Su impacto obligó a Baldomero Espartero, presidente del
+Consejo de Ministros, a elevar a las Cortes un proyecto de ley
+que recogía algunas de las reclamaciones de los trabajadores.
+En ese bienio de 1854-1856 llegaron a permitirse las asociaciones de obreros, aunque el Gobierno de Narváez las volvería a
+prohibir posteriormente.
+Desde entonces, el Derecho laboral ha estado en continuo
+cambio y evolución. A pesar de que siempre intenta velar por
+el crecimiento, la calidad y el bienestar en el ámbito laboral, la
+experiencia nos demuestra que depende en gran medida de
+los ciclos de la economía, las políticas de Estado y el contexto
+nacional e internacional.
+
+4
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+Sin embargo, en la actualidad existen una serie de principios
+propios del Derecho laboral, que actúan como garantías o
+derechos fundamentales en cuestiones laborales. Son de gran
+utilidad porque cubren los vacíos que pueda dejar la legislación laboral y, al mismo tiempo, sirven para interpretar dicha
+legislación. Diferenciamos un total de siete principios básicos:
+
+› Principio protector: obliga a dar un amparo mayor al
+trabajador, al encontrarse en una posición de inferioridad
+dentro de la relación laboral. De este principio derivan
+algunos de los siguientes.
+
+› Principio in dubio pro operario: cuando haya confusión
+en la interpretación de una norma, se aplicará aquella
+que favorezca al trabajador.
+
+› Principio de irrenunciabilidad de derechos: los trabajadores no pueden renunciar a los derechos que les
+otorgan las normas.
+
+› Principio de norma más favorable: si en una situación
+
+es susceptible la aplicación de más de una norma, se
+aplicará aquella que más favorezca al trabajador. La
+norma siempre se aplicará en su totalidad, no se podrá
+obviar lo menos favorable.
+
+› Principio de condición más beneficiosa: en caso de que
+se apruebe una norma posterior con condiciones menos
+beneficiosas que las que se estén disfrutando en un
+contrato, prevalecerán las del contrato.
+
+› Principio de norma mínima: son las normas superio-
+
+res quienes establecen las condiciones mínimas que
+un trabajador debe disfrutar. Así, una norma inferior no
+podrá empeorar las normas, pero sí mejoraras.
+
+› Principio de primacía de la realidad: en los supuestos
+
+en los que la práctica no coincida con lo reflejado a nivel
+contractual o documental, siempre se tendrán en cuenta
+los hechos reales acreditados.
+
+5
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+En consonancia con estos principios se encuentran las fuentes
+de las que se nutre el Derecho del trabajo, que no son más que
+los medios empleados para componer, interpretar y ejecutar
+todas las normas que rigen en el ámbito laboral.
+Así pues, al hablar de fuentes debemos considerar que existen
+distintos criterios de clasificación. Si nos atenemos a su procedencia, se utilizan:
+
+› Fuentes internas: si provienen de fuentes nacionales.
+› Fuentes externas: si provienen de fuentes internacionales.
+
+Imagen 1. Jerarquía de las fuentes internas del derecho laboral
+
+6
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+Las fuentes nacionales o internas del derecho son las siguientes:
+
+La Constitución española de 1978 (CE)
+Es la norma de mayor rango, ninguna ley nacional puede
+contradecirla, por lo que todas deben ajustarse a sus disposiciones y principios.
+
+Las leyes y normas con rango de ley
+
+› Leyes: son las que aprueban las Cortes Generales, es
+decir, el Congreso y el Senado.
+
+» Las leyes orgánicas: para aprobarse, modificarse o derogarse necesitan una mayoría absoluta
+del Congreso, es decir, que deberán votar a favor
+la mitad más uno de los miembros de la cámara.
+Como recoge el artículo 81 de la CE, se emplean
+para regular derechos y libertades públicas, aprobar
+estatutos de autonomía y regular el régimen electoral general. En lo referente al derecho laboral,
+tocarán dos materias: el derecho de libertad sindical
+y el derecho a huelga.
+» Las leyes ordinarias: no necesitan más que la
+mayoría simple para ser aprobadas. Se encargan de
+la regulación de las materias que no necesiten una
+ley orgánica.
+
+› Normas con rango de ley: emanan del Gobierno y
+derivan de las leyes. Podemos dividirlas en:
+
+» Decretos legislativos: los dicta el Gobierno por
+delegación expresa de las Cortes, ya que en ellas
+reside el poder legislativo o de creación de leyes. Por
+tanto, las Cortes determinan la materia a tratar, que
+no será ninguna que se reserve a una ley orgánica.
+» Decretos-Ley: los dicta el Gobierno sin necesidad
+de que se delegue previamente por las Cortes.
+Suelen elaborarse de forma extraordinaria o cuando
+hay una necesidad urgente. Los decretos-Ley son
+normas con carácter provisional y se someterán
+a debate y votación en el Congreso en los 30 días
+posteriores a su publicación. No pueden afectar a
+materias relacionadas con ley orgánica ni tampoco
+con las instituciones básicas del Estado.
+
+› Reglamentos: son normas inferiores a una ley. La
+
+CE otorga potestad reglamentaria al Gobierno, a las
+comunidades autónomas e incluso a entidades locales.
+Los reglamentos son:
+» De ejecución: cuando desarrollan una ley anterior.
+No pueden modificar las órdenes establecidas por
+la ley de la que derivan.
+» Independientes o autónomos: abordan cuestiones
+que no están reguladas por ley o cuya regulación
+no está reservada a esta. Cuando provienen del
+Gobierno, adquieren la forma de decretos u órdenes
+ministeriales.
+
+7
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+› Convenio colectivo: acuerdo suscrito por los represen-
+
+tantes de los trabajadores y los empresarios para fijar las
+condiciones de trabajo y productividad, con sujeción a lo
+previsto en el Título III del Estatuto de los Trabajadores.
+Su particularidad reside en que, aunque es un acuerdo
+privado, tiene fuerza de ley. Todos los afectados dentro
+del ámbito de aplicación deben cumplirlo.
+
+› Contrato de trabajo: acuerdo entre el empresario y el
+trabajador que consta en un documento firmado, donde
+llegan a un compromiso mutuo y voluntario de intercambiar una prestación de servicios por una remuneración.
+
+SABÍAS QUE…
+Una norma y una ley no son lo mismo.
+Mientras que la norma es un precepto
+jurídico, la ley es un tipo de norma.
+
+› Usos y costumbres locales y profesionales: aquellas
+
+normas que se crean e imponen de manera espontánea, derivadas de la actividad diaria de los trabajadores y
+empresarios de una determinada localidad o rama especifica de producción, profesión u oficio. Sólo se aplican en
+defecto de disposiciones legales o contractuales.
+
+España, en su relación con otros países, organismos e instituciones internacionales, asume una serie de obligaciones
+que resultan en la incorporación al Derecho español de unas
+fuentes de origen internacional que se caracterizan por su
+primacía sobre el derecho interno. Las fuentes internacionales
+o externas del Derecho laboral son:
+
+› El Derecho comunitario: la integración europea ha
+supuesto la entrega de autoridad a las instituciones de la
+Unión Europea para elaborar normas aplicables a todos los
+Estados miembros. El derecho comunitario se situará en
+un nivel superior al derecho nacional. Diferenciamos entre:
+» Derecho originario: conjunto de tratados constitutivos y fundamentales de la UE, así como sus
+modificaciones y anexos. Son la base del ordenamiento comunitario.
+» Derecho derivado: reglamentos, directivas, recomendaciones, decisiones y dictámenes que componen el
+grueso legislativo comunitario.
+
+› Los tratados internacionales firmados y ratificados por el
+Congreso también pasan a conformar el derecho español.
+
+› La normativa proveniente de la Organización Interna-
+
+cional del Trabajo (OIT): este organismo internacional
+depende de las Naciones Unidas y tiene como objetivo principal la mejora de las condiciones de trabajo y
+el nivel de vida de todos los trabajadores. La OIT crea
+programas de asistencia y asesoramiento a las naciones
+que los requieren. Su directiva está formada por representantes de los países miembros y de las asociaciones
+empresariales y sindicales.
+
+Ante esta variedad de normas nacionales e internacionales del
+derecho laboral, es necesario establecer un criterio que
+indique cómo, cuándo y qué norma debemos aplicar en cada
+caso. Este criterio será el principio de jerarquía normativa,
+según el cual las normas de rango superior prevalecen sobre
+las de rango inferior.
+Imagen 2. Jerarquía normativa de
+las fuentes del Derecho Laboral
+
+8
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+4.2.
+
+Análisis y requisitos de la
+relación laboral individual
+No todos los vínculos profesionales tienen la consideración de
+relación laboral. Así pues, hay que hacer dos distinciones:
+
+Relaciones laborales
+Se dan entre un empleado y un empresario. El empelado se
+compromete de forma personal y voluntaria a prestar servicios
+profesionales al empresario, que será quien dirija su labor y se
+beneficie de los resultados obtenidos. A cambio, proporcionará
+un salario al empleado.
+Aquí encontramos dos categorías:
+
+› Relación laboral ordinaria: según el Real Decreto Legis-
+
+lativo 2/2015, de 23 de octubre, por el que se aprueba
+el texto refundido de la Ley del Estatuto de los Trabajadores (ET) se considera relación laboral ordinaria la que
+reúne cinco características:
+» Voluntaria: el trabajador actúa de manera libre y
+consentida.
+» Por cuenta ajena: toda la producción del trabajador
+pertenece un tercero, el empresario o la empresa.
+» Remunerada: como compensación se recibe un
+salario.
+» Personalista: el trabajo debe realizarse de manera
+personal por el propio trabajador, nadie puede
+hacerlo en su nombre.
+» Dependiente: el empresario organiza y dirige la
+actividad laboral y el trabajador sigue sus órdenes,
+pudiendo ser penalizado en caso de desobediencia.
+
+› Relación laboral especial: además de cumplir las cinco
+
+características de las relaciones ordinarias, estas relaciones tienen ciertas peculiaridades. Están reguladas cada
+una por su propia norma específica y se aplicará el
+Estatuto de los Trabajadores en las cuestiones que esta
+no contemple.
+Algunas de ellas son las del servicio del hogar familiar,
+los deportistas profesionales, los artistas, los penados
+en instituciones penitenciarias, los abogados que
+prestan servicios en despachos o los residentes para la
+formación en especialidades de la salud (se encuentran
+enumeradas en el artículo 2 del ET).
+
+9
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+Relaciones no laborales o relaciones excluidas
+El ET excluye ciertas actividades profesionales de la categoría
+de relaciones laborales:
+
+› Los funcionarios públicos: a pesar de que sí cumplen las
+
+características de una relación laboral, tienen una normativa reguladora propia (Estatuto Básico del Empleado
+Público), debido a las labores que desempeñan y a la
+información a la que tienen acceso.
+
+› Las prestaciones personales obligatorias: ya que no
+son voluntarias.
+
+› Consejeros o miembros del consejo de administración:
+
+cuando sea la única actividad que desempeñen en la
+empresa.
+
+› Trabajos realizados a títulos de amistad, benevolencia
+o buena vecindad: se trata de labores no remuneradas.
+
+› Trabajos familiares: son realizados por familiares que
+
+convivan con el empresario, hasta el segundo grado de
+consanguinidad o afinidad y por adopción (ver diagrama). Se considerará así salvo si demuestran la condición
+de asalariados.
+
+› Representantes de comercio: intervienen en operaciones mercantiles, por cuenta de uno o más empresarios,
+y responden por su gestión y ante los riesgos asumidos,
+por lo que no cumplen con la característica de ajenidad.
+
+› Transportistas: cuando presten sus servicios con
+
+autorización administrativa propia mediante vehículos
+comerciales de servicio público de los que son propietarios, aunque se haga de manera continua para un
+mismo empresario.
+
+› Autónomos y TRADE: el trabajo por cuenta propia está
+
+regulado por la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo. Contempla tanto la figura del
+trabajador autónomo como la del autónomo económicamente dependiente (TRADE).
+
+SABÍAS QUE…
+Dentro de los grados de parentesco, el
+pariente consanguíneo es aquel ligado
+a la familia por vínculos de sangre. Por
+su parte, el pariente afín está vinculado
+por lazos matrimoniales, es decir, son
+los parientes políticos.
+
+Imagen 3. Grados de parentesco hasta 4º nivel
+
+10
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+4.3.
+
+Derechos y deberes derivados
+de la relación laboral
+Los trabajadores cuentan con los siguientes derechos:
+
+› Derechos procedentes de la Constitución y el Estatuto
+de los Trabajadores:
+
+» Derecho al trabajo y a elegir libremente una profesión u oficio.
+» Derecho a la libre sindicación y a fundar sindicatos.
+» Derecho a la huelga.
+» Derecho a la negociación colectiva.
+» Derecho a la adopción de medidas de conflicto
+colectivo.
+» Derecho de reunión.
+» Derecho a la participación en la empresa a través de
+sus representantes.
+
+› Otros derechos derivados de la relación laboral:
+» Derecho a la ocupación efectiva: asignación de
+unas tareas y funciones específicas y de los medios
+necesarios para el desarrollo de estas.
+» Derecho a promocionarse laboralmente y a la
+formación profesional: incluye la formación que se
+dirige a la adaptación a las tareas propias del puesto
+y aquella enfocada a promover la empleabilidad.
+» Derecho a la no discriminación en el acceso al puesto:
+tampoco una vez se ocupe el puesto, ya sea por
+razones de sexo, estado civil, edad, origen racial o
+étnico, condición social, religión o ideologías políticas,
+orientación sexual, afiliación o no a sindicatos, etc.
+» Derecho a la integridad física y a una adecuada
+política de seguridad e higiene.
+» Derecho a la intimidad del trabajador y a la preservación de la dignidad: prohíbe el acoso o cualquier
+tipo de ofensa, estando la empresa obligada a tomar
+medidas para el fin de esa situación.
+» Derecho a la percepción puntual de su salario.
+» Derecho de ejercer de forma individual las acciones derivadas del contrato de trabajo y a cualquier
+derecho que se especifique en dicho contrato.
+
+11
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+Con respecto a los deberes laborales:
+
+12
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+4.4.
+
+La Inspección de Trabajo
+y la jurisdicción social
+Tanto la Inspección de Trabajo como la jurisdicción social son
+dos elementos que aseguran el cumplimiento de las normas y
+la resolución de conflictos en el ámbito laboral.
+
+La Inspección de Trabajo y Seguridad Social (ITSS)
+Es un organismo autónomo adscrito al Ministerio de Trabajo
+que trata de garantizar que las empresas y los trabajadores
+cumplan con la legislación laboral vigente. Las funciones principales que lleva a cabo son:
+
+› Vigilancia y exigencia del cumplimiento de las normas
+
+legales y el contenido de los acuerdos y convenios
+colectivos.
+
+› Asesoramiento por parte de los inspectores a emplea-
+
+dores y a empleados respecto a sus derechos y
+obligaciones laborales.
+
+› Conciliación, mediación y arbitraje en huelgas y otros
+conflictos laborales.
+
+› Investigación y sanción, si se sospecha que una empre-
+
+sa no cumple la normativa. Puede investigar, recoger
+pruebas y, en caso de encontrar irregularidades, proponer sanciones.
+
+Los trabajadores pueden presentar denuncias ante la ITSS si
+consideran que sus derechos laborales están siendo vulnerados.
+Los inspectores realizarán visitas programadas o por sorpresa a
+las empresas para verificar que se está cumpliendo la normativa. Tras las visitas, elaboran informes en los que propondrán las
+sanciones que correspondan, en caso de infracción.
+
+La jurisdicción social
+Es la rama del sistema judicial que garantiza que se cumplan
+los derechos y deberes de los trabajadores. Cuando un conflicto no ha podido ser resuelto por la ITSS puede ser necesario
+acudir a los tribunales, momento en el que la jurisdicción social
+se encargada de resolverlo. Sus funciones principales son:
+
+› Resolución de conflictos que no se han resuelto de
+forma amistosa o por la vía administrativa.
+
+› Interpretación y aplicación de las leyes laborales por
+parte de los jueces, para resolver cada caso.
+
+› Supervisión del cumplimiento de las decisiones judiciales.
+Tanto la Inspección de Trabajo como la jurisdicción social son
+esenciales para mantener el orden y la justicia en el ámbito
+laboral. La ITSS trata de prevenir y corregir irregularidades,
+mientras que la jurisdicción social resuelve los conflictos que
+no pueden solucionarse de otra manera.
+
+13
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+4.5.
+
+Representación de los
+trabajadores: unitaria y sindical
+Los trabajadores tienen derecho a la participación efectiva en
+la empresa, tal y como reconoce la Constitución y en el Estatuto de los Trabajadores. Esto implica:
+
+› El derecho a informar y ser informados.
+› La colaboración en la gestión empresarial.
+› La aceptación de la facultad de ius variandi del empresario en ciertos casos (capacidad para modificar algunas
+cuestiones no esenciales del contrato).
+
+El derecho de participación se ejercerá mediante los
+representantes de los trabajadores, que deben ser
+elegidos por estos a través de una de las dos fórmulas de
+representación previstas:
+
+› Representación colectiva unitaria.
+› Representación colectiva sindical.
+Las garantías de los representantes de los trabajadores
+Con el fin de evitar que se tomen medidas contra los
+representantes de los trabajadores por el hecho de realizar las
+tareas de su cargo, se le concederán algunas garantías:
+
+› Prioridad de permanencia con respecto a los demás
+
+empleados: ya sea en la empresa o en lugar de trabajo
+específico, en supuestos de movilidad geográfica y de
+suspensión o extinción de contratos por razones económicas o tecnológicas.
+
+› Prohibición de despido o sanción por el ejercicio de su
+
+mandato: tampoco durante el año siguiente a la finalización del mandato, siempre que la razón sea la acción
+del trabajador en el ejercicio de su representación. Se
+exceptúan los despidos disciplinarios en los que se
+acredite la motivación.
+
+› Apertura de un expediente contradictorio: si son
+sancionados por faltas graves o muy graves, se tendrá
+que escuchar la versión de la persona y de los demás
+representantes.
+
+› Prohibición de discriminación: en su promoción económica o profesional.
+
+› Libertad de expresión: en los asuntos relacionados
+
+con su representación, pudiendo publicar y distribuir
+materiales de interés laboral o social, siempre que no
+perturbe el desarrollo habitual del trabajo.
+
+› Asignación de un crédito de horas para realizar sus
+
+funciones: dispondrá de un determinado número de
+horas retribuidas al mes para su actividad de representación. Si quedase relevado del trabajo, percibiendo su
+remuneración de origen, se le llamaría liberado sindical.
+
+14
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+4.5.1. La representación colectiva unitaria
+Los trabajadores de una organización tienen derecho a la
+representación, independientemente de la afiliación o no a un
+sindicato. Para ello, se contemplan las figuras de los delegados
+de personal y el comité de empresa. Su existencia dependerá
+de la cantidad de trabajadores que tenga un centro de trabajo.
+
+Los delegados de personal
+Cuando haya menos de 50 trabajadores, la representación
+unitaria se realiza mediante los delegados de personal,
+teniendo en cuenta la siguiente escala:
+Número de delegados de personal
+que deben tener las empresas
+Número de
+trabajadores
+
+Número de delegados de personal
+
+De 6 a 10
+
+No es obligatorio. Los trabajadores podrán tener
+uno si lo deciden por mayoría.
+
+De 11 a 30
+
+Es obligatorio que haya, al menos, un delegado
+de personal.
+
+De 31 a 49
+
+Habrá tres delegados de personal.
+
+Los delegados de personal ejercerán la representación de los
+trabajadores ante el empresario de común acuerdo.
+
+El comité de empresa
+Cuando una organización cuente con 50 trabajadores o más, la
+representación unitaria deberá ejercerse mediante un comité
+de empresa. Este órgano se conformará según la cantidad de
+trabajadores que tenga la empresa o el lugar de trabajo:
+Miembros del comité de empresa según trabajadores
+Número de
+trabajadores
+
+Número de miembros del
+comité de empresa
+
+De 50 a 100
+
+5 miembros
+
+De 101 a 250
+
+9 miembros
+
+De 251 a 500
+
+13 miembros
+
+De 501 a 750
+
+17 miembros
+
+De 751 a 1000
+
+21 miembros
+
+A partir de 1.001
+
+2 miembros por cada 1.000 trabajadores
+o fracción, con un máximo de 75
+
+15
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+Este órgano actuará de manera colegiada, tomará acuerdos
+por mayoría y ejercerá acciones administrativas y judiciales
+y podrá elaborar su propio reglamento de procedimiento.
+Se escogerá, de entre los miembros que lo componen, un
+secretario y un presidente. Además, se reunirán cada 2 meses o
+cuando sea necesario o lo soliciten un tercio de sus miembros
+o de los trabajadores.
+
+Competencias de delegados de personal y comités de
+empresa
+El Ministerio de Trabajo ofrece una guía laboral que expone
+que las competencias de los delegados de personal y los
+comités de empresa son las mismas a nivel de representación
+del personal.
+En primer lugar, es obligatorio informar y consultar al comité
+de empresa sobre las cuestiones que afecten directa o
+indirectamente a los trabajadores, incluyendo aquellas
+relativas a la situación de la empresa y la evolución del empleo.
+Esta comunicación se producirá en los términos siguientes:
+
+› Información trimestral sobre la situación económica del
+sector y de la empresa, con alusión a la evolución probable
+de la actividad o la contratación, entre otras estadísticas.
+
+› Información anual sobre la aplicación en la empresa
+
+del derecho de igualdad de trato y de oportunidades
+entre mujeres y hombres, así como los resultados de los
+planes de igualdad, si se hubieran establecido.
+
+› Con la periodicidad que proceda, conocimiento del
+balance, las cuentas de resultados, la memoria y demás
+documentación que se facilite a los socios.
+
+› Con la periodicidad que proceda, entrega de los modelos
+
+de contrato empleados y los documentos de terminación de la relación laboral. También, de las sanciones por
+faltas muy graves y las copias básicas de los contratos y
+prórrogas y sus denuncias, en el plazo de 10 días.
+
+› Cuando se tomen decisiones empresariales que puedan
+
+generar cambios importantes en la organización del
+trabajo y en los contratos, tendrán que ser consultados.
+También antes de aplicar medidas preventivas, sobre
+todo si hay riesgo para el empleo.
+
+16
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+Por otro lado, el comité de empresa tendrá derecho a emitir
+un informe previo, en un plazo máximo de 15 días desde
+que hayan sido solicitadas y remitidas las informaciones
+correspondientes, en las siguientes cuestiones:
+
+› Reestructuraciones de plantilla y ceses totales, definitivos, parciales o temporales de la actividad.
+
+› Reducciones de jornada.
+› Traslado total o parcial de las instalaciones.
+› Fusiones, absorciones o modificaciones del estatus jurídico de la empresa que afecten al volumen de empleo.
+
+› Planes de formación profesional.
+› Sistemas de organización y control del trabajo.
+Por último, al comité de empresa se le reconocen otras
+competencias complementarias:
+
+› Vigilar el cumplimiento de la normativa laboral, en
+
+especial, en materias como seguridad social y empleo,
+condiciones de seguridad y salud o aplicación del
+principio de igualdad de trato.
+
+› Participar en la gestión de obras sociales en beneficio de
+los trabajadores y sus familiares.
+
+› Cuando así lo contemple el convenio colectivo, cooperar
+con la dirección de la empresa en el incremento de
+la productividad y la implementación de medidas de
+conciliación.
+
+› Informar a sus representados de los asuntos que afecten
+a las relaciones laborales.
+
+17
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+Sistema para la elección de delegados de personal y
+comités de empresa
+La elección de los delegados de personal se efectuará
+mediante un sufragio personal, directo, libre y secreto, aunque
+se permite el voto por correo. Del resultado del escrutinio
+se levantará acta y se enviará una copia al empresario, los
+interventores de las candidaturas y los representantes electos.
+El resultado de la votación se publicará en los tablones de
+anuncios. En caso de empate entre los candidatos, saldrá
+elegido el de mayor antigüedad. El original del acta, junto
+con las papeletas de votos nulos o impugnados y el acta
+de constitución de la mesa electoral, serán presentados en
+el plazo de tres días a la Oficina pública dependiente de la
+autoridad laboral
+Para la elección de los miembros del comité de empresa
+habrá que seguir unas directrices más concretas:
+
+› En las empresas de 50 trabajadores o más, el censo
+
+de electores y elegibles se dividirá en dos colegios:
+uno de técnicos y administrativos y otro de trabajadores especialistas y no cualificados. El convenio podrá
+establecer otro colegio si las peculiaridades del sector
+de actividad así lo demandan.
+
+› La votación se efectuará mediante sufragio personal
+directo, libre y secreto. Se permite el voto por correo.
+
+› Las listas presentadas contendrán, al menos, tantos
+
+nombres como puestos a cubrir. Constarán las siglas del
+sindicato o grupo de trabajadores que la presenten.
+
+› Será necesario alcanzar el 5 % de los votos para obtener
+representantes en el comité.
+
+› A cada lista se le atribuirán los puestos que le correspon-
+
+dan de manera proporcional (número de votos válidos
+entre puestos a cubrir).
+
+› Del resultado del escrutinio se levantará acta y se remitirá una copia al empresario, los interventores de las
+candidaturas y los representantes electos.
+
+› El resultado se publicará en los tablones de anuncios
+
+y el original del acta, junto con las papeletas de votos
+nulos o impugnados y el acta de constitución de la mesa
+electoral, serán presentados en el plazo de tres días a la
+Oficina pública dependiente de la autoridad laboral.
+
+18
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+4.5.2. La representación colectiva sindical
+Los sindicatos son asociaciones de trabajadores que tienen
+como finalidad original la protección de los derechos laborales
+de los miembros que los componen, así como la mejora de sus
+condiciones de trabajo y su situación socioeconómica. Pueden
+formar parte de ellos los trabajadores por cuenta ajena, los
+parados, los trabajadores de la Administración pública, los
+incapacitados, los trabajadores por cuenta propia que no
+tengan empleados y los jubilados.
+La Constitución de 1978 establece la libertad sindical como
+un derecho fundamental, que está desarrollado por la Ley
+Orgánica 11/1985, de 2 de agosto, de Libertad Sindical. Esta ley
+reconoce el derecho a fundar sindicatos, afiliarse a ellos, elegir
+de forma libre la representación dentro del sindicato y ejercer
+la actividad sindical. Sólo se priva de la libertad sindical a los
+miembros de las Fuerzas Armadas y de los Institutos Armados
+de carácter militar y a los jueces, magistrados y fiscales,
+mientras se hallen en activo.
+
+Organización interna de los sindicatos
+Los sindicatos organizan a los trabajadores por actividades
+profesionales o ramas de producción. La agrupación de
+federaciones de un mismo sindicato recibirá el nombre de
+confederación sindical. A partir de ahí, distinguimos:
+
+› Secciones sindicales: se constituyen en el ámbito de la
+
+empresa o centro de trabajo. Se reconoce su derecho a
+la negociación colectiva, según lo previsto en la legislación vigente. Dispondrán de un tablón de anuncios y, en
+empresas o centros de trabajo con más de 250 trabajadores, de un local para desarrollar su actividad.
+
+› Delegados sindicales: las secciones sindicales estarán
+
+representadas, cuando cuenten con representantes en
+el comité o centro de trabajo y ocupen a más de 250
+trabajadores, por delegados sindicales elegidos por y
+entre sus afiliados. Las secciones sindicales con presencia en el comité de empresa tendrán:
+» Al menos, un delegado sindical, si el sindicato no
+ha alcanzado el 10 % de los votos de elección de
+miembros del comité.
+» Si supera el 10 % de los votos, de 1 a 4 delegados
+sindicales, en función del número de trabajadores:
+Número de
+trabajadores
+
+Número de delegados
+sindicales
+
+De 250 a 750
+
+1
+
+De 751 a 2.000
+
+2
+
+De 2.001 a 5.000
+
+3
+
+A partir de 5.001
+
+4
+
+NOTA
+Si los delegados sindicales no forman
+parte del comité de empresa tendrán
+las mismas garantías que las establecidas legalmente para los miembros
+de este, acceso a la misma información y documentación que la empresa
+ponga a su disposición, asistirán a las
+reuniones sobre seguridad e higiene
+y deberán ser oídos antes de adoptar
+medidas colectivas que afecten a los
+trabajadores o a sus afiliados.
+
+19
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+El nivel de representatividad de los sindicatos
+Hay que tener en cuenta que la representatividad de los
+sindicatos tiene varios grados, en los que difiere su capacidad:
+
+› Sindicatos más representativos:
+» Ámbito estatal: acreditarán el 10% o más del total
+de delegados de personal y miembros de comité de
+empresa.
+» Ámbito autonómico: acreditarán el 15% o más de los
+delegados de personal y miembros de los comités
+de empresa, siempre y cuando tengan mínimo 1.500
+representantes y no estén afiliados a organizaciones
+sindicales de ámbito estatal.
+
+› Sindicatos con menor representatividad:
+» Otro ámbito territorial o funcional: acreditarán el
+10% o más del total de delegados de personal y
+miembros de comité de empresa.
+
+Derechos de los sindicatos más representativos
+Las organizaciones que tengan la consideración de sindicatos
+más representativos a nivel estatal o de comunidad autónoma
+gozarán, en su ámbito, de la capacidad para:
+
+20
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+4.6.
+
+El convenio colectivo
+La negociación colectiva es el mecanismo clave del diálogo
+social, consistente en un proceso voluntario de interlocuciones
+entre los representantes de las empresas y los de los
+trabajadores, destinado a alcanzar acuerdos para regular
+sus relaciones laborales. Dichos acuerdos se recogen en los
+convenios colectivos.
+El convenio colectivo es una de las fuentes del Derecho laboral,
+que ocupa en la jerarquía normativa un rango superior al del
+contrato de trabajo. Además, es el reflejo de la participación
+efectiva de los trabajadores, dado que sus representantes
+legítimos son quienes los negocian.
+En definitiva, el convenio colectivo es un pacto alcanzado
+libremente, que se adopta entre los representantes de los
+trabajadores y los empresarios para regular las condiciones
+de trabajo, el entorno laboral y otros aspectos relacionados,
+respetando siempre lo que establecen las normas de rango
+superior.
+El ámbito de aplicación del convenio tiene cuatro dimensiones:
+
+› Geográfico: extensión territorial en la que produce sus
+
+efectos (nacional, autonómico, interprovincial, provincial
+o local).
+
+› Funcional: rama, sector, actividad o empresa a la que
+afecta.
+
+› Personal: trabajadores sobre los que resulta aplicable.
+› Temporal: período de vigencia del convenio, establecido
+por las partes.
+
+21
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+4.6.1. Contenido del convenio
+El Ministerio de Trabajo establece un contenido mínimo que
+tiene que ser incluido en todos los convenios. A partir de ahí,
+las materias que podrá abordar son variadas:
+
+› Económica: salarios y otro tipo de remuneraciones.
+› Laboral: duración de la jornada, descansos, clasificación
+profesional, características de los contratos o rendimiento exigible.
+
+› Sindical: actividad de los comités de empresa y los
+delegados de personal, canon de negociación, etc.
+
+› Condiciones de empleo.
+› Constitución de los servicios de prevención mancomunados.
+
+La vigencia del convenio será la que decidan las partes.
+Salvo pacto en sentido contrario, los convenios colectivos se
+prorrogan de año en año, a no ser que haya denuncia expresa
+de alguna de las partes. Si pasa un año desde la denuncia y
+no se ha pactado uno nuevo o dictado un laudo arbitral, el
+convenio pierde la vigencia. Se aplicaría, en esa situación, el
+convenio colectivo de ámbito superior.
+Las partes que están legitimadas para negociar un convenio
+pueden adherirse a la totalidad de uno en vigor, siempre
+que no estuvieran ya afectadas por otro. Para ello, deben
+comunicarlo a la autoridad laboral competente a efectos de
+registro. Por otro lado, el Ministerio de Trabajo o el órgano de
+las CC.AA. con competencia en la materia, pueden extender
+las disposiciones de un convenio en vigor a una pluralidad de
+empresas y trabajadores.
+
+4.6.2. La negociación de los convenios colectivos
+Es necesario diferenciar a los individuos o entidades que deben
+negociar un convenio colectivo en nombre de los trabajadores:
+
+› Cuando afectan a más de una empresa:
+» Los sindicatos más importantes y representativos
+a nivel nacional o autonómico. para convenios de
+ámbito territorial.
+» Los sindicatos menos representativos participarán
+en el ámbito geográfico y funcional del convenio.
+
+› Ámbito empresarial o inferior:
+» El comité de empresa, los delegados de personal o
+las secciones sindicales.
+
+› Convenios específicos:
+» Las secciones sindicales que se designen de
+forma mayoritaria por los representantes mediante
+votación personal, libre, directa y secreta.
+
+22
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+En lo relativo a la representación de la empresa en la negociación
+de los convenios colectivos, se harán las siguientes distinciones:
+
+› En los convenios colectivos sectoriales:
+» Asociaciones empresariales que en el ámbito
+geográfico y funcional tengan un 10% de los
+empresarios y den ocupación al 10% de los trabajadores a los que afecte el convenio.
+» Asociaciones empresariales que en el ámbito
+geográfico y funcional den ocupación al 15 % de los
+trabajadores afectados.
+
+› En los convenios que afectan a más de una empresa:
+» La representación de las empresas implicadas.
+
+› En el ámbito empresarial o inferior:
+» El empresario.
+
+4.6.3. Los conflictos laborales
+En primer lugar, es conveniente diferenciar los dos grados del
+conflicto laboral:
+
+› Conflicto individual: se produce entre un solo trabajador
+y la empresa.
+
+› Conflicto colectivo: manifestación de las discrepancias
+
+laborales entre los empresarios y un grupo más o menos
+amplio de trabajadores, que afecta a los intereses
+generales de estos últimos. Se concretan como:
+» Conflictos de interpretación y aplicación de una
+norma legal o convencional, de pactos o acuerdos
+de empresa o de una decisión o práctica del empresario, de carácter colectivo.
+» Conflictos de intereses, en los que se pretende la
+modificación o sustitución de una norma reguladora
+aplicable.
+
+Las partes implicadas en un conflicto colectivo podrán
+adoptar medidas de presión como la huelga (por parte de los
+trabajadores) y el cierre patronal (por parte de los empresarios).
+
+23
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+La huelga
+La huelga es la cesación de la prestación de trabajo llevada a
+cabo de forma colectiva y concertada por los trabajadores. El
+ejercicio del derecho de huelga es reconocido individualmente,
+aunque se ejerce de forma colectiva:
+
+› El reconocimiento individual implica que cada traba-
+
+jador decidirá de manera libre si quiere o no participar.
+Ningún trabajador podrá renunciar a este derecho, pero
+tampoco podrá ser coaccionado para ejercerlo.
+
+› El ejercicio colectivo alude a que un trabajador no
+
+puede ejercer su derecho en solitario, es decir, no puede
+declararse en huelga sin más. Tanto la convocatoria de
+huelga como su desarrollo y finalización se decidirán de
+manera colectiva, a través de los representantes de los
+trabajadores.
+Huelgas ilícitas
+
+Huelgas ilegales
+
+Rotatorias.
+
+Por motivos políticos.
+
+De celo o trabajo a reglamento.
+
+De solidaridad o apoyo.
+
+En sectores estratégicos para
+interrumpir todo el proceso
+productivo.
+
+Alterar lo pactado en un
+convenio colectivo.
+
+Cualquier forma de alteración
+colectiva del régimen de
+trabajo distinta a la huelga.
+
+La huelga provocará una serie de efectos:
+
+› No extingue la relación de trabajo, sino que el contrato se
+
+considera en suspenso (el trabajador no tendrá derecho
+al salario y se suspenderá la obligación de cotización a la
+SS por parte de la empresa y del trabajador).
+
+› Los trabajadores en huelga podrán publicitarla de
+manera pacífica y recaudar fondos, sin coaccionar a
+aquellos trabajadores que no participen ni amenazar su
+libertad de trabajo.
+
+› Los huelguistas no pueden ser reemplazados por traba-
+
+jadores que no estuviesen en la empresa cuando se
+declaró la huelga.
+
+› Pueden estar obligados a trabajar aquellos empleados
+con labores de seguridad o mantenimiento.
+
+› En las empresas que presten servicios públicos o de
+
+reconocida e inaplazable necesidad, el gobierno correspondiente puede acordar unos servicios mínimos.
+
+› Los trabajadores no tendrán derecho a la prestación
+económica por incapacidad temporal, cuando se inicie
+durante la huelga y mientras esta se mantenga.
+
+› Los trabajadores no tendrán derecho a la prestación por
+desempleo con la suspensión del contrato de trabajo.
+
+24
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+Por último, cabe señalar que existe un procedimiento a seguir
+para poder convocar una huelga:
+1. Declaración de huelga: tras acuerdo por mayoría
+
+entre los representantes de los trabajadores, adoptado
+en una reunión conjunta y reflejado en el acta correspondiente. También pueden acordarla los propios
+trabajadores afectados por el conflicto (por mayoría
+simple tras votación secreta) y las organizaciones sindicales con implantación en el ámbito laboral en el que se
+extienda.
+
+2. Comunicación al empresario y a la autoridad laboral:
+
+por escrito y con una antelación de cinco días naturales
+a la fecha de inicio. En caso de empresas de servicios
+públicos, el preaviso se eleva a diez días naturales.
+
+3. Formación del comité de huelga: integrado, como
+
+máximo, por 12 trabajadores de los centros de trabajo
+afectados. Le corresponde intervenir en las acciones
+sindicales, administrativas o judiciales que se propongan para la resolución del conflicto, así como garantizar
+durante la huelga la prestación de los servicios necesarios para la seguridad de las personas y de las cosas, el
+mantenimiento de locales, maquinaria e instalaciones y
+las demás atenciones imprescindibles para reanudar la
+actividad de la empresa.
+
+El cierre patronal
+El cierre patronal es la suspensión colectiva del trabajo y la
+clausura del centro laboral por decisión del empresario. Se
+podrá llevar a cabo en caso de huelga o por otra irregularidad
+colectiva en el régimen de trabajo, cuando concurra alguna de
+las circunstancias siguientes:
+
+› Peligro evidente de violencia hacia las personas o de
+daños graves para las cosas.
+
+› Ocupación ilegal del centro de trabajo o peligro cierto
+de que se produzca.
+
+› Inasistencia o irregularidades en el trabajo de tal
+volumen que impidan gravemente el proceso normal de
+producción.
+
+Este cierre durará el tiempo justo y necesario para conseguir
+que desaparezcan las causas que lo motivaron. El empresario
+deberá comunicarlo en el plazo de 12 horas a la autoridad
+laboral.
+Los efectos del cierre patronal con respecto a los trabajadores
+serán los mismos que para la huelga. En consecuencia, los
+contratos de trabajo quedarán suspendidos.
+
+25
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+Procedimientos de solución de conflictos colectivos
+El diálogo social, es decir, el fomento de espacios de
+interlocución entre sindicatos, empleadores e instituciones
+públicas, es la primera etapa para prevenir conflictos de
+forma colectiva, A partir de ahí, los conflictos colectivos del
+ámbito laboral podrán resolverse por la vía judicial o mediante
+métodos extrajudiciales, como la negociación, la conciliación,
+la mediación y el arbitraje, que brindan a los implicados
+la oportunidad de superar sus discrepancias mediante un
+acuerdo voluntario y evitan la lentitud y el coste añadido de los
+procedimientos judiciales:
+
+› Negociación: solo se involucran las partes afectadas.
+
+Son ellas las que eligen las reglas del proceso y las que
+llegan o no a un acuerdo.
+
+› Mediación: se trata de una negociación asistida por
+
+un tercero. Las partes intentan buscar una solución al
+conflicto conjuntamente y el mediador solo interviene
+para facilitar la comunicación entre estas.
+
+› Conciliación: en este método se involucra a un terce-
+
+ro que intenta ayudar a las partes con una participación
+activa, ya sea proponiendo soluciones o facilitando el
+acercamiento de posturas y la comunicación.
+
+› Arbitraje: las partes deciden contar con un tercero
+
+imparcial para que solucione el problema. Por tanto, lo
+que decida este árbitro será vinculante para los
+involucrados.
+
+26
+
+Itinerario personal para la empleabilidad I | UNIDAD 4
+Condiciones laborales I
+
+27
+
+
