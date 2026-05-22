@@ -80,25 +80,10 @@ def load_quiz():
     return json.loads(CUESTIONARIO.read_text(encoding="utf-8"))
 
 
-def build():
-    pdfs_by_unit = load_pdfs()
-    questions = load_quiz()
-    total_docs = sum(len(v) for v in pdfs_by_unit.values())
-
-    # Build all HTML parts as a list
-    parts = []
-
-    parts.append('''<!DOCTYPE html>
-<html lang="es">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>Empleabilidad — Guía Interactiva Parte 1</title>
-<style>
+CSS = """
 :root{--bg:#0a0f1f;--card:#111827;--card2:#1a2332;--a:#00d4aa;--a2:#7c5bf0;--t:#e8ecf5;--t2:#8892b0;--b:#4a9eff;--y:#f5c842;--o:#ff9f43}
 *{margin:0;padding:0;box-sizing:border-box;scroll-behavior:smooth}
-body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--t);min-height:100vh}
-::selection{background:rgba(0,212,170,.25)}
+body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--t);min-height:100vh}::selection{background:rgba(0,212,170,.25)}
 .topbar{background:linear-gradient(135deg,#0a1025,#14203a);padding:12px 20px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid rgba(255,255,255,.06);position:sticky;top:0;z-index:100;flex-wrap:wrap;gap:8px}
 .topbar h1{font-size:17px;font-weight:800;background:linear-gradient(135deg,var(--a),#48dbfb);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
 .topbar .sub{font-size:10px;color:var(--t2);-webkit-text-fill-color:var(--t2)}
@@ -138,13 +123,7 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
 .tbl td{padding:5px 10px;border-bottom:1px solid rgba(255,255,255,.04);color:var(--t2);vertical-align:top}
 .tbl tr:hover td{background:rgba(0,212,170,.03)}
 a{color:var(--a);text-decoration:none}a:hover{text-decoration:underline}
-.done{text-align:center;padding:60px 20px;font-size:20px;color:var(--t2)}
-.quiz-container{background:var(--card);border-radius:12px;padding:18px;border:1px solid rgba(255,255,255,.04)}
-.qlist{display:grid;gap:10px}
-.qitem{background:var(--card2);border-radius:10px;padding:14px 16px;border:1px solid rgba(255,255,255,.04)}
-.qitem .qp{font-size:13px;font-weight:600;color:var(--t);margin-bottom:6px;display:flex;gap:8px;align-items:flex-start}
-.qitem .qp .qn{color:var(--a);font-weight:700;min-width:28px}
-.qitem .qa{font-size:12px;color:var(--a);padding:6px 10px;background:rgba(0,212,170,.08);border-radius:6px;display:inline-block;margin-top:2px}
+.qans{padding:10px 14px;background:rgba(0,212,170,.1);border-left:3px solid var(--a);border-radius:0 6px 6px 0;font-size:13px;color:var(--a);margin-top:4px}
 .lib-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:8px}
 .doc-link{display:flex;flex-direction:column;gap:4px;padding:12px 14px;background:var(--card);border-radius:10px;border:1px solid rgba(255,255,255,.04);text-decoration:none;transition:.2s}
 .doc-link:hover{border-color:var(--a);background:var(--card2);transform:translateY(-2px)}
@@ -152,16 +131,35 @@ a{color:var(--a);text-decoration:none}a:hover{text-decoration:underline}
 .doc-link .ds{font-size:10px;color:var(--t2)}
 .st{position:fixed;bottom:20px;right:20px;width:36px;height:36px;border-radius:50%;background:var(--a);color:#0a0e1a;border:none;cursor:pointer;font-size:18px;opacity:0;transition:.3s;pointer-events:none;z-index:50;box-shadow:0 3px 12px rgba(0,212,170,.3)}
 .st.v{opacity:1;pointer-events:auto}
-@media(max-width:768px){.topbar{padding:10px 14px}.searchbox{width:100%;margin-top:6px}.searchbox:focus{width:100%}.nav{top:92px;padding:8px 12px}.main{padding:10px 12px}.hero{padding:14px 16px}.hero h2{font-size:15px}.sech{padding:10px 12px;font-size:12px}.lib-grid{grid-template-columns:1fr}}
-</style>
+@media(max-width:768px){
+  .topbar{padding:10px 14px}.searchbox{width:100%;margin-top:6px}.searchbox:focus{width:100%}
+  .nav{top:92px;padding:8px 12px}.main{padding:10px 12px}.hero{padding:14px 16px}.hero h2{font-size:15px}
+  .sech{padding:10px 12px;font-size:12px}.lib-grid{grid-template-columns:1fr}
+}
+"""
+
+
+def build():
+    pdfs_by_unit = load_pdfs()
+    questions = load_quiz()
+    total_docs = sum(len(v) for v in pdfs_by_unit.values())
+
+    parts = []
+
+    # HEAD
+    parts.append(f'''<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Empleabilidad — Guía Interactiva Parte 1</title>
+<style>{CSS}</style>
 </head>
 <body>
-<div class="topbar"><div><h1>\U0001f4cb Empleabilidad</h1><div class="sub">Guía interactiva de estudio ''')
-    parts.append(f"&bull; {len(UNITS)} unidades &bull; {len(questions)} preguntas")
-    parts.append('''</div></div><input class="searchbox" id="s" placeholder="🔍 Buscar..." oninput="su(this.value)"></div>
+<div class="topbar"><div><h1>\U0001f4cb Empleabilidad</h1><div class="sub">Guía interactiva de estudio &bull; {len(UNITS)} unidades &bull; {len(questions)} preguntas</div></div><input class="searchbox" id="s" placeholder="\U0001f50d Buscar..." oninput="su(this.value)"></div>
 <div class="nav" id="nav">''')
 
-    # Navigation buttons
+    # Navigation
     for idx, unit in enumerate(UNITS):
         active = " active" if idx == 0 else ""
         short = unit["title"][:30]
@@ -169,8 +167,7 @@ a{color:var(--a);text-decoration:none}a:hover{text-decoration:underline}
     parts.append(f'<button class="nav-btn" onclick="x({len(UNITS)})"><b>\U0001f4dd</b> Cuestionario</button>')
     parts.append(f'<button class="nav-btn" onclick="x({len(UNITS)+1})"><b>\U0001f4da</b> Documentos</button>')
 
-    parts.append('''</div>
-<div class="main" id="m">''')
+    parts.append('</div><div class="main" id="m">')
 
     # Units
     for idx, unit in enumerate(UNITS):
@@ -178,111 +175,81 @@ a{color:var(--a);text-decoration:none}a:hover{text-decoration:underline}
         docs = pdfs_by_unit.get(uid, [])
         docs.sort(key=lambda d: "Síntesis" not in d["title"])
         active_class = " active" if idx == 0 else ""
-
         topics_str = ", ".join(unit["topics"])
         parts.append(f'''<div class="unit{active_class}" id="u{idx}">
-<div class="hero"><h2>{unit["emoji"]} <span class="c">{uid}:</span> {esc(unit["title"])}</h2>
-<p>{esc(topics_str)}</p>
-<div class="badges"><span class="badge b1">\U0001f4d6 {len(unit["topics"])} temas</span><span class="badge b2">\U0001f4c4 {len(docs)} documentos</span></div>
-</div>
+<div class="hero"><h2>{unit["emoji"]} <span class="c">{uid}:</span> {esc(unit["title"])}</h2><p>{esc(topics_str)}</p>
+<div class="badges"><span class="badge b1">\U0001f4d6 {len(unit["topics"])} temas</span><span class="badge b2">\U0001f4c4 {len(docs)} documentos</span></div></div>
 <div class="secc"><div class="sech" onclick="t(this)"><span class="arrow">\u25b6</span><span class="num">{uid}</span>{esc(unit["title"])}</div>
-<div class="secb"><div class="stitle purple">\U0001f4cc Temas principales</div>
-<div class="cbody"><ul>''')
-
+<div class="secb"><div class="stitle purple">\U0001f4cc Temas principales</div><div class="cbody"><ul>''')
         for topic in unit["topics"]:
             parts.append(f"<li>{esc(topic)}</li>")
-
         parts.append('</ul></div></div></div>')
-
         if docs:
             rows = ""
             for d in docs:
                 rows += f'''<tr><td>{esc(d["title"][:70])}</td><td>{d["size"]}</td><td><a href="{esc(d["file"])}" target="_blank" rel="noopener">PDF \U0001f4c4</a></td></tr>'''
             parts.append(f'''<div class="secc"><div class="sech" onclick="t(this)"><span class="arrow">\u25b6</span><span class="num">\U0001f4ce</span>Documentos fuente</div>
 <div class="secb"><div class="tbl"><table><tr><th>Documento</th><th>Tama\u00f1o</th><th>Abrir</th></tr>{rows}</table></div></div></div>''')
-
         parts.append('</div>')
 
-    # Quiz section
-    qjson_str = json.dumps(questions, ensure_ascii=False)
+    # Quiz - table format like muestras biologicas
     q_count = len(questions)
     parts.append(f'''<div class="unit" id="u{len(UNITS)}">
-<div class="hero"><h2>\U0001f4dd <span class="c">Cuestionario</span> de repaso</h2>
-<p>{q_count} preguntas con respuesta correcta &middot; Vista completa</p>
-<div class="badges"><span class="badge b1">\U0001f4dd {q_count} preguntas</span><span class="badge b2">✅ Respuesta visible</span></div>
-</div>
-<div class="quiz-container"><div id="ql"></div></div>
-</div>''')
+<div class="hero"><h2>\U0001f4dd <span class="c">Cuestionario</span> de repaso</h2><p>{q_count} preguntas con solo la respuesta correcta</p>
+<div class="badges"><span class="badge b1">\U0001f4dd {q_count} preguntas</span><span class="badge b3">\U0001f4dd Quiz</span></div></div>''')
+    for g in range(0, q_count, 10):
+        gnum = g // 10 + 1
+        start = g + 1
+        end = min(g + 10, q_count)
+        rows = ""
+        for i in range(g, min(g + 10, q_count)):
+            q = questions[i]
+            rows += f'''<tr><td>{esc(q["pregunta"])}</td><td>{esc(q["respuesta_correcta"])}</td></tr>'''
+        parts.append(f'''<div class="secc"><div class="sech" onclick="t(this)"><span class="arrow">\u25b6</span><span class="num">Q.{gnum}</span>Preguntas {start}-{end}</div>
+<div class="secb"><div class="stitle purple">\U0001f4ca Cuestionario</div><div class="cbody"><div class="tbl"><table><tr><th>Pregunta</th><th>Respuesta correcta</th></tr>{rows}</table></div></div></div></div>''')
+    parts.append('</div>')
 
     # Document library
-    doc_count = total_docs
     parts.append(f'''<div class="unit" id="u{len(UNITS)+1}">
-<div class="hero"><h2>\U0001f4da <span class="c">Biblioteca</span> de documentos</h2>
-<p>Todos los PDFs de la Parte 1 organizados por unidad</p>
-<div class="badges"><span class="badge b1">\U0001f4c4 {doc_count} documentos</span></div>
-</div>
+<div class="hero"><h2>\U0001f4da <span class="c">Biblioteca</span> de documentos</h2><p>Todos los PDFs de la Parte 1 organizados por unidad</p>
+<div class="badges"><span class="badge b1">\U0001f4c4 {total_docs} documentos</span></div></div>
 <div class="lib-grid">''')
-
     for unit_key in sorted(pdfs_by_unit.keys()):
-        docs = pdfs_by_unit[unit_key]
-        for d in docs:
-            parts.append(f'''<a class="doc-link" href="{esc(d["file"])}" target="_blank" rel="noopener"><span class="dn">{esc(d["title"][:60])}</span><span class="ds">{d["size"]}</span></a>''')
+        for d in pdfs_by_unit[unit_key]:
+            parts.append(f'<a class="doc-link" href="{esc(d["file"])}" target="_blank" rel="noopener"><span class="dn">{esc(d["title"][:60])}</span><span class="ds">{d["size"]}</span></a>')
+    parts.append('</div></div></div>')
 
-    parts.append('</div></div>')
-
-    # Footer and scripts
-    parts.append('''
-</div>
+    # Scripts
+    parts.append('''<button class="st" id="st" onclick="window.scrollTo({top:0,behavior:'smooth'})" title="Subir">&uarr;</button>
 <script>
-const Q = ''')
-    parts.append(qjson_str)
-    parts.append(''';
 let ui = 0;
-const un = document.querySelectorAll('.unit'), nb = document.querySelectorAll('.nav-btn');
-
-function renderQuiz() {
-  let h = '<div class="qlist">';
-  for (let i = 0; i < Q.length; i++) {
-    h += '<div class="qitem"><div class="qp"><span class="qn">' + (i+1) + '.</span>' + Q[i].pregunta + '</div><div class="qa">✅ ' + Q[i].respuesta_correcta + '</div></div>';
-  }
-  h += '</div>';
-  document.getElementById('ql').innerHTML = h;
+function x(i){
+  let u=document.getElementById('u'+i),b=document.querySelectorAll('.nav-btn');
+  let p=document.getElementById('u'+ui);if(p)p.classList.remove('active');
+  if(b[ui])b[ui].classList.remove('active');
+  ui=i;if(u)u.classList.add('active');
+  if(b[i]){b[i].classList.add('active');b[i].scrollIntoView({behavior:'smooth',inline:'center',block:'nearest'})}
+  window.scrollTo({top:0,behavior:'smooth'})
 }
-
-function x(i) {
-  if (document.getElementById('u' + ui)) document.getElementById('u' + ui).classList.remove('active');
-  if (nb[ui]) nb[ui].classList.remove('active');
-  ui = i;
-  const el = document.getElementById('u' + i);
-  if (el) el.classList.add('active');
-  if (nb[i]) { nb[i].classList.add('active'); nb[i].scrollIntoView({behavior:'smooth',inline:'center',block:'nearest'}); }
-  window.scrollTo({top:0,behavior:'smooth'});
+function t(el){
+  const b=el.nextElementSibling,a=el.querySelector('.arrow');
+  if(b&&b.classList.contains('secb')){b.classList.toggle('open');if(a)a.classList.toggle('o')}
 }
-
-function t(el) {
-  const b = el.nextElementSibling;
-  const a = el.querySelector('.arrow');
-  if (b && b.classList.contains('secb')) { b.classList.toggle('open'); if (a) a.classList.toggle('o'); }
+function su(v){
+  const q=v.toLowerCase();
+  document.querySelectorAll('.secc').forEach(s=>{s.style.display=s.textContent.toLowerCase().includes(q)?'':'none'})
 }
-
-function su(v) {
-  const q = v.toLowerCase();
-  document.querySelectorAll('.secc').forEach(s => {
-    s.style.display = s.textContent.toLowerCase().includes(q) ? '' : 'none';
-  });
-}
-
-renderQuiz();
+window.addEventListener('scroll',()=>{const s=document.getElementById('st');if(window.scrollY>300)s.classList.add('v');else s.classList.remove('v')});
 </script>
 </body>
 </html>''')
 
-    result = "".join(parts)
+    result = "\n".join(parts)
     OUT.write_text(result, encoding="utf-8")
-    print(f"✅ Generated {OUT}")
-    print(f"   • {len(UNITS)} units")
-    print(f"   • {total_docs} documents")
-    print(f"   • {len(questions)} quiz questions")
+    print(f"\u2705 Generated {OUT}")
+    print(f"   \u2022 {len(UNITS)} units")
+    print(f"   \u2022 {total_docs} documents")
+    print(f"   \u2022 {len(questions)} quiz questions")
 
 
 if __name__ == "__main__":
